@@ -13,5 +13,5 @@ Bug Fixes
 
 * [FIXED] Unable to use Audiometry, Skin Allergy Test and Ear Examination. (Most ears symptoms require the ones with (ENT version)
 
-*[FIXED] Patients unable to collaspe wound infection with Strep Throat.
+* [FIXED] Patients unable to collaspe wound infection with Strep Throat.
 
