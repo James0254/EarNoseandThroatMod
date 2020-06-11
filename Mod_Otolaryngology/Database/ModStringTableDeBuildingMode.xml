@@ -1,0 +1,48 @@
+<Database>
+
+<GameDBStringTable ID="LOC_DE_ADDON_OTOR_BUILDING_MODE">
+<LanguageCode>de</LanguageCode>
+<LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+<Contributors>
+<Name>James Buckham</Name>
+</Contributors>
+<Name>ldhelmchen</Name>
+<LocalizedStrings>
+	<!-- ### ### -->
+	<!-- ######################################## V0.10 Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE</LocID>                          	
+		<Text>HNO Arztpraxis</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_OTOR_OFFICE_DESCRIPTION</LocID>              	
+		<Text>Eine auf Hals-, Nasen- und Ohrenheilkunde spezialisierte Arztpraxis. Personalbedarf:\n1x Arzt</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE</LocID>                               
+		<Text>HNO-Diagnostik</Text>   
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE_DESC</LocID>                   
+		<Text>Das Diagnostikzimmer der Abteilung für Hals-Nasen-Ohren-Heilkunde bietet Untersuchungs- und Behandlungsverfahren für Krankenhauspatienten. \n\nMindest-Personalbedarf: \n1x Arzt \n(Personal im Bereitschaftsraum)</Text>
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR</LocID>                     
+		<Text>HNO-Sonographie</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR_DESCRIPTION</LocID>         
+		<Text>Die Sonographieeinheit bietet spezielle Ultraschalluntersuchungen und -behandlungen an. \n\nMindest-Personalbedarf: \n1x Techn. Assistent - Ultraschall</Text>  
+	</GameDBLocalizedString>
+            
+
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

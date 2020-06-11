@@ -1,0 +1,80 @@
+<Database>
+	<GameDBStringTable ID="LOC_DE_ADDON_OTOR_TREATMENTS">
+	<LanguageCode>de</LanguageCode>
+	<LanguageNameLocalized>Deutsch</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham</Name>
+	</Contributors>
+	<Name>ldhelmchen</Name>
+	<LocalizedStrings>
+		<!-- Treatments -->
+		
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_FESS</LocID>                                    	
+	<Text>Funktionelle endoskopische Nasennebenhöhlenoperation</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_FESS_DESCRIPTION</LocID>                        	
+	<Text>Die funktionelle endoskopische Nasennebenhöhlenoperation (FESS) ist eine minimalinvasive chirurgische Behandlung, bei der Nasenendoskope verwendet werden, um die Nasendrainagewege der Nasennebenhöhlen zu vergrößern und die Nasennebenhöhlenbeatmung zu verbessern. Dieses Verfahren wird im Allgemeinen zur Behandlung von entzündlichen und infektiösen Nebenhöhlenerkrankungen angewendet, einschließlich chronischer Rhinosinusitis, die nicht auf Medikamente, Nasenpolypen, einige Krebsarten und Dekompression von Augenhöhlen / Sehnerven bei Graves-Ophthalmopathie anspricht.  \n\nErforderlicher Raum: Operationssaal in der HNO-Heilkunde</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_TYPT</LocID>                                    	
+	<Text>Tympanoplastik</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_TYPT_DESCRIPTION</LocID>                        	
+	<Text>Tympanoplastik, auch Trommelfellreparatur genannt, bezieht sich auf eine Operation zur Rekonstruktion eines perforierten Trommelfells (Membrana tympani) oder der kleinen Knochen des Mittelohrs. Eine Perforation des Trommelfells kann durch eine chronische Infektion oder seltener durch ein Trauma des Trommelfells verursacht werden. \n\nErforderlicher Raum: Operationssaal in der HNO-Heilkunde</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>Inzision und Entwässerung</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>Inzision und Drainage sowie klinisches Stechen sind geringfügige chirurgische Eingriffe, um unter der Haut aufgebauten Kraftstoff oder Druck abzubauen.  \n\nErforderlicher Raum: HNO-Untersuchungszimmer / HNO-Arztpraxis / Intensivstation / Beobachtungsraum</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>TRT_JM_SALINE_NASAL_SPRAY</LocID>                        	
+	<Text>Kochsalzlösung Nasenspray</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_SALINE_NASAL_SPRAY_DESC</LocID>                                    	
+	<Text>Ein Nasenspray, das die Nasenhöhlen ausspült und die Belüftung durch die Nase erhöht. \n\nErforderlicher Raum: HNO-Untersuchungszimmer / HNO-Arztpraxis / Intensivstation / Beobachtungsraum</Text>  
+	</GameDBLocalizedString>
+	
+	 <GameDBLocalizedString>      
+	<LocID>TRT_JM_CPAP</LocID>                        	
+	<Text>Kontinuierliche Überdruckmaschine</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CPAP_DESC</LocID>                                    	
+	<Text>CPAP ist eine wirksame Behandlung für mittelschwere bis schwere obstruktive Schlafapnoe.\n\nErforderlicher Raum: HNO-Untersuchungszimmer / HNO-Arztpraxis / Intensivstation / Beobachtungsraum</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_ANTACIDS</LocID>                        	
+	<Text>Antazida</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_ANTACIDS_DESC</LocID>                                    	
+	<Text>Antazida sind Substanzen, die die Magensäure neutralisieren und Sodbrennen, Verdauungsstörungen oder Reflux lindern.\n\nErforderlicher Raum: HNO-Untersuchungszimmer / HNO-Arztpraxis / Intensivstation / Beobachtungsraum</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_INFUSION</LocID>                        	
+	<Text>IV Infusion</Text>  
+	</GameDBLocalizedString>
+
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
