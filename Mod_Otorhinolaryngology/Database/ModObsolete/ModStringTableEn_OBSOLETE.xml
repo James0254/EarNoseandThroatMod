@@ -1,0 +1,1880 @@
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_OTOR_OBSO">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>James Buckham</Name>
+	</Contributors>
+	<LocalizedStrings>
+	 <!-- Symptoms -->
+		
+      <!-- Section Nose -->
+	   <!-- Nasal Symptoms -->
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_NASAL_POLYP</LocID>                 
+		 <Text>Nasal polyps</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SINUS_FINDINGS</LocID>                               
+		 <Text>Nasal Findings</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NASAL_DRIP</LocID>                 
+		 <Text>Post nasal drip</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NASAL_DRIP_DESCRIPTION</LocID>     
+		 <Text>Post nasal drip is mucus from your nose and it drips harmlessly down the back of your throat, and you swallow it. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLAMMED_RH</LocID>                 
+		 <Text>Inflammed nasal cavities</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLAMMED_RH_DESCRIPTION</LocID>     
+		 <Text>The patient's nasal cavity is is inflammed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLAMMED_SINUSES</LocID>                 
+		 <Text>Inflamed Sinuses</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_INFLAMMED_SINUSES_DESCRIPTION</LocID>     
+		 <Text>Inflamed mucous tissue lining that covers the sinuses. </Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>    
+		 <LocID>SYM_JM_SINUS_FINDINGS_DESCRIPTION</LocID>                               
+		 <Text>Nasal findings has been found by a CT.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_NASAL_DRAINAGE</LocID>                               
+		 <Text>Nasal Discharge</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_NASAL_DRAINAGE_DESCRIPTION</LocID>                               
+		 <Text>The patient has unidentified fluids coming from the nose.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_SNORING</LocID>                 
+		 <Text>Snoring</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_SNORE_DESCRIPTION</LocID>     
+		 <Text>Snoring is the action or fact of making a snorting or grunting sound while asleep. It may indicate Obstructive Sleep Apnea</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_IRREGULAR_NASAL_CYCLE</LocID>                 
+		 <Text>Irregular Nasal Cycle</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_IRREGULAR_NASAL_CYCLE_DESC</LocID>     
+		 <Text>The nasal cycle is the often unnoticed alternating partial congestion and decongestion of the nasal cavities in humans and other animals. It is a physiological congestion of the nasal conchae, also called the nasal turbinates, due to selective activation of one half of the autonomic nervous system by the hypothalamus. It should not be confused with pathological nasal congestion. In this case the nasal cycle is irregular and this might be a sign of something wrong with the nose or the nerves connecting to the nose. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_DIFFICULTY_BREATHING_THROUGH_NOSE</LocID>                 
+		 <Text>Difficulty Breathing through the nose</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_DIFFICULTY_BREATHING_THROUGH_NOSE_DESC</LocID>     
+		 <Text>The patient is having difficulties breathing through their nose. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DRY_NOSE</LocID>                 
+		 <Text>Dry Nose</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_DRY_NOSE_DESC</LocID>     
+		 <Text>The patient's nose is dry. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NASAL_PAIN</LocID>                 
+		 <Text>Nasal Pain</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_NASAL_PAIN_DESC</LocID>     
+		 <Text>The patient's nose is hurting. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_LOSS_OF_SMELL_OR_TASTE</LocID>                 
+		 <Text>Loss of Smell and/or Taste</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_LOSS_OF_SMELL_OR_TASTE_DESC</LocID>     
+		 <Text>The patient has a loss of smell and/or taste. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_NOSE_DAMAGE</LocID>                 
+		 <Text>Nasal Damage</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_NOSE_DAMAGE_DESCRIPTION</LocID>     
+		 <Text>The patient's nose is damaged. </Text>  
+		</GameDBLocalizedString>
+		
+	   <!-- Nasal Main Symptoms -->
+	   
+	    <GameDBLocalizedString>  
+		 <LocID>SYM_JM_NASAL_POLYPS</LocID>                 
+		 <Text>Ethmoidal Nasal Polyps</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NASAL_POLYPS_DESCRIPTION</LocID>     
+		 <Text>Nasal polyps are soft, painless, noncancerous growths on the lining of your nasal passages or sinuses. They hang down like teardrops or grapes. They result from chronic inflammation. There are two primary types of nasal polyps: ethmoidal and antrochoanal. Ethmoidal polyps arise from the ethmoid sinuses and extend through the middle meatus into the nasal cavity. Antrochoanal polyps usually arise in the maxillary sinus and extend into the nasopharynx and represent only 4–6% of all nasal polyps. They either can be treated with saline spray or surgery depending on how big the nasal polyp is.</Text>  
+		</GameDBLocalizedString>
+		
+	    <GameDBLocalizedString>  
+		 <LocID>SYM_JM_NASAL_OBSTRUCTION</LocID>                 
+		 <Text>Nasal Inflammation</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_NASAL_OBSTRUCTION_DESCRIPTION</LocID>     
+	   	 <Text>The doctor has found inflammation of the nose, and no nasal polyps has been found using a CT or a nasal cavity inspection. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>       
+		 <LocID>SYM_JM_FUNGAL_INFECTION_OF_SINUS</LocID>                               
+		 <Text>Aspergillus found in Sinus</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>     
+		 <LocID>SYM_JM_FUNGAL_INFECTION_OF_SINUS_DESCRIPTION</LocID>                               
+		 <Text>Aspergillus Fungus has been found in the sinuses by a sputum culture.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_ENS_FINDINGS</LocID>                 
+		 <Text>ENS Findings</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ENS_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>Empty Nose Syndrome findings has been detected by a CT scan.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_DEVIATED_NASAL_SEPTUM</LocID>                 
+		 <Text>The Nasal Septum is Deviated</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_DEVIATED_NASAL_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>A Nasal Cavity Inspection revealed a deviated nasal septum in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_FACE_LACERATION</LocID>                 
+		 <Text>Lacerated Face</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_FACE_LACERATION_DESCRIPTION</LocID>     
+		 <Text>The patient's face is lacerated.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_SWOLLEN_NASAL_TURBINATE</LocID>                 
+		 <Text>Swollen Nasal Turbinates</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SWOLLEN_NASAL_TURBINATE_DESCRIPTION</LocID>     
+		 <Text>The patient's nasal turbinates are swollen.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_DYSOSMIA_CONFIRMED</LocID>                 
+		 <Text>Dysosmia confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_DYSOSMIA_CONFIRMED_DESCRIPTION</LocID>     
+		 <Text>The doctor confirms that the patient has dysosmia.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_SQUAMOUS_CELL_NOSE</LocID>                 
+		 <Text>Squamous Cell Carcinoma found in Nasal Cavity</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_SQUAMOUS_CELL_NOSE_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Squamous Cell Carcinoma has been found in the Nasal Cavities by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_ADENOCARCINOMA_NOSE</LocID>                 
+		 <Text>Adenocarcinoma found in Nasal Cavity</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_ADENOCARCINOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Adenocarcinoma has been found in the Nasal Cavities by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_MELANOMA_NOSE</LocID>                 
+		 <Text>Melanoma found in Nasal Cavity</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MELANOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Melanoma has been found in the Nasal Cavities by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_FOREIGN_OBJECT_IN_NOSE</LocID>                 
+		 <Text>Foreign Object in Nose</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_FOREIGN_OBJECT_IN_NOSE_DESCRIPTION</LocID>     
+		 <Text>The patient's nose has a object lodged in it.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_SNORE</LocID>                 
+		 <Text>Snoring</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_NA_RH</LocID>                 
+		<Text>Non-allergic Rhinitis comfirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_NA_RH_DESCRIPTION</LocID>     
+		<Text>A case of non-allergic Rhinitis has been comfirmed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_ASN_CONFIRM</LocID>                 
+		 <Text>Allergic Sinusitis Confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ASN_CONFIRM_DESCRIPTION</LocID>     
+		 <Text>A case of Allergic Sinusitis has been confirmed.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_COLLAPSED_SINUS</LocID>                 
+		 <Text>Collapsed Sinus</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_COLLAPSED_SINUS_DESCRIPTION</LocID>     
+		 <Text>The patient has a collapsed sinus causing facial deformity.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_ACUTE_RHINOSINUSITIS</LocID>                 
+		 <Text>Acute Infection of the Nose and Sinuses</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_ACUTE_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>The patient has a acute infection of the nose and sinuses causing acute rhinosinuitis.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_CHRONIC_RHINOSINUSITIS</LocID>                 
+		 <Text>Chronic Inflammation of the Nose and Sinuses</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_JM_CHRONIC_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>The patient has chronic inflammation of the nose and sinuses causing chronic rhinosinusitis.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_RHINOPHYMA</LocID>                 
+		 <Text>Rhinophyma confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_JM_RHINOPHYMA_DESCRIPTION</LocID>     
+		 <Text>The doctor has found a thick and excessive amount of Rhinophyma-like mass on the nose/has found excess tissue, oil, bacteria and sebaceous glands using a nose biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_CLEFT_LIP_PALATE</LocID>                 
+		 <Text>Cleft Lip and Palate</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_JM_CLEFT_LIP_PALATE_DESCRIPTION</LocID>     
+		 <Text>The patient has informed the doctor about their cleft lip and palate/the doctor has confirmed that the patient has a cleft lip and palate.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_PROBLEMATIC_BLOOD_VESSELS_N</LocID>                 
+		 <Text>Problematic Blood Vessel</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_JM_PROBLEMATIC_BLOOD_VESSELS_N_DESCRIPTION</LocID>     
+		 <Text>A Rhinoscopy has found a problematic blood vessel in the patients nose.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_INVERTED_PAPILLOMA_N</LocID>                 
+		 <Text>HPV Tumour found in Nose</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_JM_INVERTED_PAPILLOMA_N_DESCRIPTION</LocID>     
+		 <Text>A biopsy has found a benign tumour in the nose caused by the Human Papillomavirus (HPV).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_NASAL_POLYPS_S</LocID>                 
+		 <Text>Antrochoanal Nasal Polyps</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_JM_NASAL_POLYPS_S_DESCRIPTION</LocID>     
+		 <Text>Nasal polyps are soft, painless, noncancerous growths on the lining of your nasal passages or sinuses. They hang down like teardrops or grapes. They result from chronic inflammation. There are two primary types of nasal polyps: ethmoidal and antrochoanal. Ethmoidal polyps arise from the ethmoid sinuses and extend through the middle meatus into the nasal cavity. Antrochoanal polyps usually arise in the maxillary sinus and extend into the nasopharynx and represent only 4–6% of all nasal polyps. They either can be treated with saline spray or surgery depending on how big the nasal polyp is..</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_SADDLE_NOSE</LocID>                 
+		 <Text>Nasal Trauma</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_JM_SADDLE_NOSE_DESCRIPTION</LocID>     
+		 <Text>The patient has experienced nasal trauma causing a squashed nose.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_PERFORATED_SEPTUM</LocID>                 
+		 <Text>Perforated Nasal Septum</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_JM_PERFORATED_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>The patient has perforation of the nasal septum.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_SEPTAL_CLOT</LocID>                 
+		 <Text>Septal Blood Clot</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_JM_SEPTAL_CLOT_DESCRIPTION</LocID>     
+		 <Text>The patient has a blood clot in their nasal septum after experiencing nasal trauma.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_JM_MENINGES_DEFORMITY</LocID>                 
+		 <Text>Abnormal Sac of Fluid and Brain Tissue</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_JM_MENINGES_DEFORMITY_DESCRIPTION</LocID>     
+		 <Text>A CT or MRI has found a abnormal sac of fluid, brain tissue and meninges because of a skull deformity.</Text>  
+		</GameDBLocalizedString>
+		
+	   <!-- Nasal Obselete Symptoms (Main and normal) -->
+		
+      <!-- Section Ear -->
+	   <!-- Ear Related Symptoms -->
+		
+		<GameDBLocalizedString>      
+	     <LocID>SYM_JM_HEARING_DIFFICULTIES</LocID>                            
+		 <Text>Hearing problems</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DIMINISHED_HEARING</LocID>                              
+		 <Text>Diminished hearing</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_EAR_PRESSURE</LocID>                 
+		 <Text>Pressure in the Ears</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_EAR_PRESSURE_DESCRIPTION</LocID>     
+		 <Text>The patient feels like they have pressure in their ears or their ears feel full.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_EAR_DAMAGE</LocID>                 
+		 <Text>Ear Damage</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_EAR_DAMAGE_DESCRIPTION</LocID>     
+		 <Text>The patient ear is damaged due to some kind of trauma or disease.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_EAR_DEFORMITY</LocID>                 
+		 <Text>Ear Deformity</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_EAR_DEFORMITY_DESCRIPTION</LocID>     
+		 <Text>The patient's ear is deformed.</Text>  
+		</GameDBLocalizedString>
+		
+	  <!-- Ear Related Main Symptoms -->
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_SEVERE_MENIERES</LocID>                 
+		 <Text>Severe Meniere's Confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_MENIERES_DESCRIPTION</LocID>     
+		 <Text>A severe case of Meniere's has been confirmed.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_M_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>Ruptured Eardrum</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_M_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>The patients eardrum ruptured. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_S_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>Unhealed Rupture of the Eardrum</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_S_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>The patients eardrum ruptured and hasn't healed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EAR_INFECTED</LocID>                 
+		 <Text>Ear infection found</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EAR_INFECTED_DESCRIPTION</LocID>     
+		 <Text>A ear infection was found in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_FLUID_IN_MIDDLE_EAR</LocID>                               
+		 <Text>Fluid in the middle ear</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_FLUID_IN_MIDDLE_EAR_DESCRIPTION</LocID>                               
+		 <Text>Fluid in the middle ear has been found.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_BAROTRAUMA</LocID>                 
+		 <Text>Barotrauma Confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_BAROTRAUMA_DESCRIPTION</LocID>     
+		 <Text>The doctor confirms that the patient has Barotrauma.</Text>  
+		</GameDBLocalizedString>
+	 
+	    <GameDBLocalizedString> 
+		 <LocID>SYM_JM_SEVERED_EAR</LocID>                 
+		 <Text>Severed Ear</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERED_EAR_DESCRIPTION</LocID>     
+		 <Text>The patient's ear has been severed from trauma.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_PERICHONDRIAL_HEMATOMA</LocID>                 
+		 <Text>Blood Clot in Ear</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PERICHONDRIAL_HEMATOMA_DESCRIPTION</LocID>     
+		 <Text>The patient's ear has a blood clot.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_FOREIGN_OBJECT_IN_EAR</LocID>                 
+		 <Text>Foreign Object in Ear</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_FOREIGN_OBJECT_IN_EAR_DESCRIPTION</LocID>     
+		 <Text>The patient's ear has a object lodged in it.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_VESTIBULAR_NEURITIS</LocID>                 
+		 <Text>Inflammation of the Vestibular Nerve</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_VESTIBULAR_NEURITIS_DESCRIPTION</LocID>     
+		 <Text>The patient's vestibular nerve is inflammed.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_VESTIBULAR_TUMOR</LocID>                 
+		 <Text>Tumor Found on Vestibular Nerve</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VESTIBULAR_TUMOR_DESCRIPTION</LocID>     
+		 <Text>The patient's vestibular nerve has a tumor growing on it.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_EAR_WAX_BLOCKAGE</LocID>                 
+		 <Text>Ear wax blockage found</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_EAR_WAX_BLOCKAGE_DESCRIPTION</LocID>     
+		 <Text>The patient's ear is blocked by ear wax.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_EAR_WAX_REMOVAL</LocID>                 
+		 <Text>Ear wax removal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_EAR_WAX_REMOVAL_DESCRIPTION</LocID>     
+		 <Text>The patient wants their ear wax removed.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_BPPV</LocID>                 
+		 <Text>BPPV Suspected</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_BPPV_DESCRIPTION</LocID>     
+		 <Text>The doctor has ruled out all possible diseases related to BPPV, the doctor suspects the patient has BPPV.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_AUDITORY_NEUROPATHY_M</LocID>     <!-- NEW -->            
+		 <Text>Absent/Abnormal ABR w/ Absent Acoustic Reflexes (Mild)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_JM_AUDITORY_NEUROPATHY_M_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a Otoauditory Emissions Exam and it has shown a normal outer hair cell function, absent or abnormal Auditory Brainstem Response (ABR) with presence of the cochlear microphonic, and absent acoustic reflexes, and it is fortunately mild.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_JM_AUDITORY_NEUROPATHY_S</LocID>                 
+		 <Text>Absent/Abnormal ABR w/ Absent Acoustic Reflexes (Severe)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_JM_AUDITORY_NEUROPATHY_S_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a Otoauditory Emissions Exam and it has shown a normal outer hair cell function, absent or abnormal Auditory Brainstem Response (ABR) with presence of the cochlear microphonic, and absent acoustic reflexes, and it is unfortunately severe.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_JM_PRESBYCUSIS_M</LocID>                 
+		 <Text>Age Related Hearing Loss (Mild)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_JM_PRESBYCUSIS_M_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a evaluation and audiometry and has concluded that the patient is suffering from Presbycusis (Age Related Hearing Loss), and it is fortunately mild.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_JM_PRESBYCUSIS_S</LocID>                 
+		 <Text>Age Related Hearing Loss (Severe)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_JM_PRESBYCUSIS_S_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a evaluation and audiometry and has concluded that the patient is suffering from Presbycusis (Age Related Hearing Loss), and it is unfortunately severe.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_JM_LABYRINTHITIS</LocID>                 
+		 <Text>Inflammed Vestibular and Cochlea Nerve</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_JM_LABYRINTHITIS_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a MRI or a CT and it has shown inflammation in both the vestibular and cochlea nerve, which indicates Labyrinthitis.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_JM_OTOPHYMA</LocID>                 
+		 <Text>Swelling of the Ears</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_JM_OTOPHYMA_DESCRIPTION</LocID>     
+		 <Text>The doctor has performed a ear examination and it seems that the patient's ears are swollen, the doctor concludes that the patient has a very rare affliction called Otophyma.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_JM_ADENOCARCINOMA_EAR</LocID>                 
+		 <Text>Adenocarcinoma found in Ear Canal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_JM_ADENOCARCINOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Adenocarcinoma has been found in the Ear Canal by a Biopsy.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_JM_SQUAMOUS_CELL_EAR</LocID>                 
+		 <Text>Squamous Cell Carcinoma found in Ear Canal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_JM_SQUAMOUS_CELL_EAR_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Squamous Cell Carcinoma has been found in the Ear Canal by a Biopsy.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_JM_MELANOMA_EAR</LocID>                 
+		 <Text>Melanoma found in Ear Canal</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_JM_MELANOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Melanoma has been found in the Ear Canal by a Biopsy.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_JM_MALIGNANT_EAR_INFECTION_E</LocID>                 
+		 <Text>Malignant Ear Infection (Externa)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_JM_MALIGNANT_EAR_INFECTION_E_DESCRIPTION</LocID>     
+		 <Text>A malignant infection caused by Pseudomonas Aeruginosa has been found causing Otitis Externa in the patient.</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_JM_MALIGNANT_EAR_INFECTION_M</LocID>                 
+		 <Text>Malignant Ear Infection (Media)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_JM_MALIGNANT_EAR_INFECTION_M_DESCRIPTION</LocID>     
+		 <Text>A malignant infection caused by Pseudomonas Aeruginosa has been found causing Otitis Media in the patient.</Text>
+		</GameDBLocalizedString>
+	 
+	  <!-- Obselete Ear Symptoms (Main and Normal) -->
+		
+		<GameDBLocalizedString> <!-- OB -->
+		 <LocID>SYM_JM_MILD_MENIERES</LocID>                 
+		 <Text>Mild Meniere's Confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- OB -->  
+		 <LocID>SYM_JM_MILD_MENIERES_DESCRIPTION</LocID>     
+		 <Text>A mild case of Meniere's has been confirmed.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- OB -->
+		 <LocID>SYM_JM_CHOLES_FOUND</LocID>                 
+		 <Text>Cholesteatoma Found</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_CHOLES_FOUND_DESCRIPTION</LocID>    <!-- OB --> 
+		 <Text>A cholesteatoma has been detected by a CT scan in the patient.</Text>  
+		</GameDBLocalizedString>
+		
+	 <!-- Section Throat and Mouth -->
+	  <!-- Throat and Mouth Related Symptoms -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_WHITE_PATCHES_ON_TONSILS</LocID>                 
+		 <Text>White patches on tonsils</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_WHITE_PATCHES_ON_TONSILS_DESCRIPTION</LocID>     
+		 <Text>White patches are visible on the tonsils. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NECK_INJURY</LocID>                 
+		 <Text>Neck injury</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NECK_INJURY_DESCRIPTION</LocID>     
+		 <Text>The patient experienced a neck injury. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SWOLLEN_NECK</LocID>                 
+		 <Text>Swollen neck</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SWOLLEN_NECK_DESCRIPTION</LocID>     
+		 <Text>The patient has a swollen neck. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_MOUTH_DRAINAGE</LocID>                 
+		 <Text>Mouth Drainage</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_MOUTH_DRAINAGE_DESCRIPTION</LocID>     
+		 <Text>The patient has unidentified fluids coming from the mouth.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_DRY_MOUTH</LocID>                 
+		 <Text>Xerostomia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_DRY_MOUTH_DESCRIPTION</LocID>     
+		 <Text>Xerostomia means dry mouth, the patient's mouth is dry.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_HYPOSALIVATION</LocID>                 
+		 <Text>Hyposalivation</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPOSALIVATION_DESCRIPTION</LocID>   
+		 <Text>The patient's mouth isn't producing saliva that much, causes the patient's mouth to be dry.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_SIALOLITHIASIS</LocID>                 
+		 <Text>Sialolithiasis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SIALOLITHIASIS_DESCRIPTION</LocID>     
+		 <Text>Sialolithiasis is the medical term for salivary gland stones. These stones, or calculi, are mostly composed of calcium, but they also contain magnesium, potassium, and ammonium. Your mouth has three salivary glands that can develop stones: parotid, submandibular, sublingual, and minor salivary glands.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_PSEUDOMEMBRANE</LocID>                 
+		 <Text>Pseudomembrane</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_PSEUDOMEMBRANE_DESCRIPTION</LocID>     
+		 <Text>A pseudomembrane is a false membrane in the eye or throat that sometimes develops during infections and inflammations. It typically covers the conjunctiva, or the white part of the eyes, and can be very uncomfortable, and a pseudomembrane also develops when the patient has Diphtheria. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_VOCAL_POLYP_HEMORRHAGE</LocID>                 
+		 <Text>Hemorrhagic Vocal Polyp</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_VOCAL_POLYP_HEMORRHAGE_DESCRIPTION</LocID>     
+		 <Text>A Vocal Polyp has hemorrhaged in the patient</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_LUMP_IN_THROAT</LocID>                 
+		 <Text>Lump in Throat</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_LUMP_IN_THROAT_DESCRIPTION</LocID>     
+		 <Text>A lump in the throat has been found in the patient</Text>  
+		</GameDBLocalizedString>
+		
+	  <!-- Throat and Mouth Related Main Symptoms -->
+	  
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_HPV_FOUND</LocID>                 
+		 <Text>HPV in throat</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HPV_FOUND_DESCRIPTION</LocID>     
+		 <Text>HPV has been found by doing a biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BLUNT_LARYNX_CONTUSION</LocID>                 
+		 <Text>Laryngeal Trauma Comfirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BLUNT_LARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>A case of Laryngeal Trauma has been comfirmed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BLUNT_LARYNX_LACERATION</LocID>                 
+		 <Text>Laryngeal Penetration Comfirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_BLUNT_LARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>A case of Laryngeal Penetration has been comfirmed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VCN</LocID>                 
+		 <Text>Vocal Cord Nodules found</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_VCN_DESCRIPTION</LocID>     
+		 <Text>Vocal nodules have been found by a laryngoscope. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_ACUTE_S_SIA</LocID>                 
+		 <Text>Acute Suppurative Sialadenitis confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_ACUTE_S_SIA_DESCRIPTION</LocID>     
+		 <Text>Acute Suppurative Sialadenitis has been diagnosed in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_CHRONIC_SIA</LocID>                 
+		 <Text>Chronic Sialadenitis confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_CHRONIC_SIA_DESCRIPTION</LocID>     
+		 <Text>Chronic Sialadenitis has been diagnosed in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_SQUAMOUS_CELL_THROAT</LocID>                 
+		 <Text>Squamous Cell Carcinoma found in Pharynx</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_SQUAMOUS_CELL_THROAT_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Squamous Cell Carcinoma has been found in the Pharynx by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ADENOCARCINOMA_THROAT</LocID>                 
+		 <Text>Adenocarcinoma found in Pharynx</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_ADENOCARCINOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Adenocarcinoma has been found in the Pharynx by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MELANOMA_THROAT</LocID>                 
+		 <Text>Melanoma found in Pharynx</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_MELANOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>A tumour has with the cancer Melanoma has been found in the Pharynx by a Biopsy.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_CHRONIC_PHARYNGITIS</LocID>                 
+		 <Text>Chronic Pharyngitis confirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_CHRONIC_PHARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>The doctor confirms that the patient has Chronic Pharyngitis.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_LARYNGEAL_PARALYSIS</LocID>                 
+		 <Text>Vocal Cord Paralysis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_LARYNGEAL_PARALYSIS_DESCRIPTION</LocID>     
+		 <Text>The doctor sees signs of a paralysed vocal cord (Larynx).</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_OSA_FINDINGS</LocID>                 
+		 <Text>Obstructive Sleep Apnea Findings</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_OSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>A Polypsomnography revealed obstructive sleep apnea findings in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_BLUNT_PHARYNX_CONTUSION</LocID>                 
+		 <Text>Pharyngeal Trauma Comfirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_BLUNT_PHARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>A case of Pharyngeal Trauma has been comfirmed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_BLUNT_PHARYNX_LACERATION</LocID>                 
+		 <Text>Pharyngeal Penetration Comfirmed</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_BLUNT_PHARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>A case of Pharyngeal Penetration has been comfirmed. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_COLLAPSED_TRACHEA</LocID>                 
+		 <Text>Collapsed Trachea/Windpipe</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_COLLAPSED_TRACHEA_DESCRIPTION</LocID>     
+		 <Text>The patient's trachea/windpipe is collapsed and requires immediate surgery. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_CHRONIC_LARYNGITIS</LocID>                 
+		 <Text>Chronic Laryngeal Inflammation</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_CHRONIC_LARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>The patient's larynx (vocal cords) has been inflammed over 3 months. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_CSA_FINDINGS</LocID>                 
+		 <Text>Central Sleep Apnea Findings</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_CSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>A Polypsomnography revealed central sleep apnea findings in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_VC_EDEMA</LocID>                 
+		 <Text>Vocal Cord Edema</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_VC_EDEMA_DESCRIPTION</LocID>     
+		 <Text>The patient has a buildup of fluid in their larynx (vocal cord). </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_VC_OVERUSE</LocID>                 
+		 <Text>Vocal Cord Overuse</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_VC_OVERUSE_DESCRIPTION</LocID>     
+		 <Text>The patient's vocal cord has been over and misused causing vocal strain. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_CHRONIC_TONSILITIS</LocID>                 
+		 <Text>Chronic Tonsillitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_JM_CHRONIC_TONSILITIS_DESCRIPTION</LocID>     
+		 <Text>The patient has experienced reoccuring infections/chronic infection of the tonsils. </Text>  
+		</GameDBLocalizedString>
+		
+	  <!-- Throat and Mouth Related Obselete Symptoms (Main and Normal) -->
+	  
+	    <GameDBLocalizedString>
+		 <LocID>SYM_JM_AIRWAY_CONSTRICTION</LocID>                 
+		 <Text>Airway Constriction</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_AIRWAY_CONSTRICTION_DESCRIPTION</LocID>     
+		 <Text>The patient airways are swelling leading to airway constriction and may lead to suffocation.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_SUFFOCATION</LocID>                 
+		 <Text>Suffocation</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SUFFOCATION_DESCRIPTION</LocID>     
+		 <Text>The patient is suffocating.</Text>  
+		</GameDBLocalizedString>
+	  
+	 <!-- Other Symptoms -->
+		
+	 <!-- Facial Symptoms -->
+	 
+	    <GameDBLocalizedString> 
+		 <LocID>SYM_JM_FACIAL_PRESSURE</LocID>                 
+		 <Text>Facial Pressure</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_FACIAL_PRESSURE_DESC</LocID>     
+		 <Text>The patient feels pressure on their face.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_JM_FACIAL_PAIN</LocID>                 
+		 <Text>Facial Pain</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_FACIAL_PAIN_DESC</LocID>     
+		 <Text>The patient feels pain on their face.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_FACIAL_WEAKNESS</LocID>                 
+		 <Text>Facial Weakness</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_FACIAL_WEAKNESS_DESC</LocID>     
+		 <Text>The patient's is weak due to some sort of trauma or disease of the facial nerve.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_FACIAL_DEFORMITY</LocID>                 
+		 <Text>Facial Deformity</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_FACIAL_DEFORMITY_DESC</LocID>     
+		 <Text>The patient's is deformed.</Text>  
+		</GameDBLocalizedString>
+	 
+	 <!-- Section Blood -->
+	  <!-- Blood related Symptoms --> 
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPOTENSION</LocID>                               
+		 <Text>Hypotension</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPOTENSION_DESCRIPTION</LocID>                               
+		 <Text>Hypotension is the medical term for low blood pressure (less than 90/60). A blood pressure reading appears as two numbers. The first and higher of the two is a measure of systolic pressure, or the pressure in the arteries when the heart beats and fills them with blood. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SQLL_CARCINOMA_BLOOD_MARKERS</LocID>                               
+		 <Text>Squamous Cell Carcinoma Blood Markers</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SQLL_CARCINOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
+		 <Text>A blood test reveals blood markers like CA-125, CA-19-9 and SCC antigens are elevated, pointing towards a Squamous Cell Carcinoma tumour somewhere. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ADENOCARCINOMA_BLOOD_MARKERS</LocID>                               
+		 <Text>Adenocarcinoma Blood Markers</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ADENOCARCINOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
+		 <Text>A blood test reveals certain blood markers are elevated, pointing towards a Adenocarcinoma tumour somewhere. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MELANOMA_BLOOD_MARKERS</LocID>                               
+		 <Text>Melanoma Blood Markers</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_MELANOMA_BLOOD_MARKERS_DESCRIPTION</LocID>                               
+		 <Text>A blood test reveals certain blood markers antigens are elevated pointing towards a Melanoma tumour somewhere. </Text>  
+		</GameDBLocalizedString>
+		
+	 <!-- Section Skin -->
+	  <!-- Skin related Symptoms -->
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_ABSCESS</LocID>                        
+		 <Text>Abscess</Text>  
+		</GameDBLocalizedString>
+			
+		<GameDBLocalizedString>   <!-- Imobile -->     
+		 <LocID>SYM_OTOR_ABSCESS</LocID>                             
+		 <Text>Abscess</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_OTOR_ABSCESS_DESCRIPTION</LocID>                               
+		 <Text>An abscess.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_WIDESPREAD_PAINFUL_RASH</LocID>                 
+		 <Text>Widespread painful rash</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_WIDESPREAD_PAINFUL_RASH_DESCRIPTION</LocID>     
+		 <Text>By visual inspection of a patient, a widespread, painful rash covering the entire body was found. </Text>  
+		</GameDBLocalizedString>
+		
+	 <!-- Section Microbiology -->
+	  <!-- Virology and Bacterology related Symptoms -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COXSACK</LocID>                 
+		 <Text>Coxsackievirus A16 Present</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_COXSACK_DESCRIPTION</LocID>     
+		 <Text>Coxsackieviruses are a few related enteroviruses that belong to the Picornaviridae family of nonenveloped, linear, positive-sense single-stranded RNA viruses.They usually cause Hand, Foot and Mouth Disease.There is no treatment for this virus, or either wait until the infection is over.</Text>  
+		</GameDBLocalizedString>	
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_STAPHY</LocID>           
+		 <Text>Streptococcus pyogenes Present</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>        
+		 <LocID>SYM_JM_STAPHY_DESCRIPTION</LocID>     
+		 <Text>Streptococcus pyogenes, or Group A streptococcus (GAS), is a facultative, Gram-positive coccus which grows in chains and causes numerous infections in humans including pharyngitis, tonsillitis, scarlet fever, cellulitis, erysipelas, rheumatic fever, post-streptococcal glomerulonephritis, necrotizing fasciitis, myonecrosis and lymphangitis. The only known reservoirs for GAS in nature are the skin and mucous membranes of the human host. The clinical diseases produced by GAS have been well described, however, the pathogenic mechanisms underlying them are poorly understood, largely because each is the culmination of highly complex interactions between the human host defense mechanisms and specific virulence factors of the streptococcus.  </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_C_DIPHTHERIAE</LocID>                 
+		 <Text>C. Diphheriae found</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_C_DIPHTHERIAE_DESCRIPTION</LocID>     
+		 <Text>C. Diphtheriae has been found in the patient. </Text>  
+		</GameDBLocalizedString>
+		
+	 <!-- Section Stomach -->
+	  <!-- Digestive System related symptoms -->
+		
+		<GameDBLocalizedString>    <!-- Obselete -->
+		 <LocID>SYM_JM_HEARTBURN</LocID>                 
+		 <Text>Heartburn</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- Obselete -->
+		 <LocID>SYM_JM_HEARTBURN_DESCRIPTION</LocID>     
+		 <Text>Heartburn is a painful burning feeling in your chest or throat. It happens when stomach acid backs up into your esophagus, the tube that carries food from your mouth to your stomach. Treatment for heartburn is antacids and proton pump inhibitors. </Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Digestive System related main symptoms -->
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_GERD_SUSPECTED</LocID>                 
+		 <Text>Gastroesophageal Reflux Disease Suspected</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_GERD_SUSPECTED_DESCRIPTION</LocID>     
+		 <Text>The doctor's has evaluated all the symptoms of the patient, and has concluded the patient has Gastroesophageal Reflux Disease. </Text>  
+		</GameDBLocalizedString>
+		
+     <!-- Section Lungs -->
+	  <!-- Lung related symptoms -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONIA</LocID>                 
+		 <Text>Pneumonia</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PNEUMONIA_DESCRIPTION</LocID>     
+		 <Text>Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus, causing cough with phlegm or pus, fever, chills, and difficulty breathing. A variety of organisms, including bacteria, viruses and fungi, can cause pneumonia.Without treating bacterial pneumonia it can lead to complications like respiratory failure. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARDS</LocID>                 
+		 <Text>Acute Respiratory Distress Syndrome (ARDS)</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ARDS_DESCRIPTION</LocID>     
+		 <Text>Acute respiratory distress syndrome (ARDS) is a type of respiratory failure characterized by rapid onset of widespread inflammation in the lungs. Symptoms include shortness of breath, rapid breathing, and bluish skin coloration. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_STRIDOR</LocID>                 
+		 <Text>Stridor</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_STRIDOR_DESCRIPTION</LocID>     
+		 <Text>Stridor is a high-pitched, wheezing sound caused by disrupted airflow. Stridor may also be called musical breathing or extrathoracic airway obstruction. Airflow is usually disrupted by a blockage in the larynx (voice box) or trachea (windpipe). Stridor affects children more often than adults.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DECREASED_PITCH_AND_LOUDNESS</LocID>                 
+		 <Text>Decreased Pitch and Loudness</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_DECREASED_PITCH_AND_LOUDNESS_DESCRIPTION</LocID>     
+		 <Text>The patient has decreased pitch range and loudness</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_TROUBLE_SPEAKING</LocID>                 
+		 <Text>Trouble Speaking</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_JM_TROUBLE_SPEAKING_DESCRIPTION</LocID>     
+		 <Text>The patient has trouble speaking.</Text>  
+		</GameDBLocalizedString>
+		
+	<!-- Section Nervous System -->
+	  <!-- Nervous System related symptoms -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_PAIN</LocID>                 
+		 <Text>Severe pain</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_SEVERE_PAIN_DESCRIPTION</LocID>     
+		 <Text>Patient is experiencing intense amount of pain. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ENCEPHALITIS</LocID>                 
+		 <Text>Encephalitis</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ENCEPHALITIS_DESCRIPTION</LocID>     
+		 <Text>Encephalitis (en-sef-uh-LIE-tis) is inflammation of the brain. There are several causes, but the most common is a viral infection. Encephalitis often causes only mild flu-like signs and symptoms — such as a fever or headache — or no symptoms at all. Sometimes the flu-like symptoms are more severe. Encephalitis can also cause confused thinking, seizures, or problems with movement or with senses such as sight or hearing. In some cases, encephalitis can be life-threatening. Timely diagnosis and treatment are important because it's difficult to predict how encephalitis will affect each individual. </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NERVE_INJURY</LocID>                 
+		 <Text>Nerve Injury</Text>  
+		</GameDBLocalizedString>
+			
+     <!-- Obeselete -->
+	 
+	    <GameDBLocalizedString> 
+		 <LocID>SYM_JM_HIVES</LocID>                 
+		 <Text>Hives</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HIVES_DESCRIPTION</LocID>     
+		 <Text>Urticaria, also known as hives, is an outbreak of swollen, pale red bumps or plaques (wheals) on the skin that appear suddenly -- either as a result of the body's reaction to certain allergens, or for unknown reasons. Hives usually cause itching, but may also burn or sting like mosquito bites.</Text>  
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ALLERGEN_DETECTED</LocID>                 
+		 <Text>Allergen Detected</Text>  
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>
+		 <LocID>SYM_JM_ELEVATED_TRYPTASE</LocID>                 
+		 <Text>Elevated Tryptase levels</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ELEVATED_TRYPTASE_DESCRIPTION</LocID>     
+		 <Text>The patient has raised blood levels of Tryptase, a chemical released by mast cells during a allergic reaction.</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_JM_ELEVATED_HISTAMINE</LocID>                 
+		 <Text>Elevated Histamine levels</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_ELEVATED_HISTAMINE_DESCRIPTION</LocID>     
+		 <Text>The patient has raised blood levels of Histamine, a chemical released by mast cells and basophils during a allergic reaction.</Text>  
+		</GameDBLocalizedString>
+	
+	  <!-- CRP -->
+	  
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_CHRONIC_WOUND</LocID>                               
+		 <Text>Chronic Wound</Text>  
+	    </GameDBLocalizedString>
+            
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_CHRONIC_WOUND_DESC</LocID>                   
+		 <Text>Chronic wounds are sores that don’t heal within about three months. They can start small and might scab over again and again, but they don’t get better.</Text>  
+	    </GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DYSPHASIA</LocID>                   
+		 <Text>Dysphasia</Text>  
+	    </GameDBLocalizedString> 
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_DYSPHASIA_DESC</LocID>                               
+		 <Text>Dysphasia is a language disorder marked by deficiency in the generation of speech, and sometimes also in its comprehension, due to brain disease or damage.</Text>  
+	    </GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_METASTASIZED_CANCER</LocID>                               
+		 <Text>Metastatic Cancer</Text>  
+	    </GameDBLocalizedString>
+            
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_METASTASIZED_CANCER_DESC</LocID>                   
+		 <Text>Metastatic cancer is cancer that spreads from its site of origin to another part of the body.</Text>  
+	    </GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_PERINEURAL_INVASION</LocID>                               
+		 <Text>Perineural Invasion</Text>  
+        </GameDBLocalizedString>
+            
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_PERINEURAL_INVASION_DESC</LocID>                   
+		 <Text>Perineural invasion, abbreviated PNI, refers to the invasion of cancer to the space surrounding a nerve.</Text>  
+	    </GameDBLocalizedString>
+		
+	  
+	  <!-- CRP Complications -->
+	  
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_ANAPHYLACTIC_SHOCK</LocID>                               
+		 <Text>Anaphylactic Shock</Text>  
+	    </GameDBLocalizedString>
+            
+	    <GameDBLocalizedString>      
+	 	 <LocID>SYM_JM_ANAPHYLACTIC_SHOCK_DESC</LocID>                   
+	 	 <Text>Anaphylactic shock is a rare but severe allergic reaction that can be deadly if you don't treat it right away. It's most often caused by an allergy to food, insect bites, or certain medications. A shot of a drug called epinephrine is needed immediately to prevent further complications.</Text>  
+	    </GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_NERVE_DAMAGE</LocID>                               
+		 <Text>Postoperative Neuropathic Pain</Text>  
+	    </GameDBLocalizedString>
+            
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_JM_NERVE_DAMAGE_DESC</LocID>                   
+		 <Text>A nerve injury can affect your brain's ability to communicate with your muscles and organs. Damage to the peripheral nerves is called peripheral neuropathy. It can be caused by trauma (Nerve Injury )and surgical complications (Postoperative Neuropathic Pain/PONP). It's important to get medical care for a peripheral nerve injury as soon as possible. Early diagnosis and treatment may prevent complications and permanent damage.</Text>  
+	    </GameDBLocalizedString>
+		
+	<!-- ============================================ Treatments ============================================ -->
+	   
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_FESS</LocID>                                    	
+	<Text>Functional Endoscopic Sinus Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_FESS_DESCRIPTION</LocID>                        	
+	<Text>Functional endoscopic sinus surgery (FESS) is a minimally invasive surgical treatment which uses nasal endoscopes to enlarge the nasal drainage pathways of the paranasal sinuses to improve sinus ventilation. This procedure is generally used to treat inflammatory and infectious sinus diseases, including chronic rhinosinusitis that doesn't respond to drugs, nasal polyps, some cancers, and decompression of eye sockets/optic nerve in Graves ophthalmopathy. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_TYPT</LocID>                                    	
+	<Text>Tympanoplasty</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_TYPT_DESCRIPTION</LocID>                        	
+	<Text>Tympanoplasty, also called eardrum repair, refers to surgery performed to reconstruct a perforated tympanic membrane (eardrum) or the small bones of the middle ear. Eardrum perforation may result from chronic infection or, less commonly, from trauma to the eardrum. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>   
+	<LocID>SURG_OTOR_PRS</LocID>                                    	
+	<Text>Papilloma Removal Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>    
+	<LocID>SURG_OTOR_PRS_DESCRIPTION</LocID>                        	
+	<Text>Papilloma Removal Surgery is a removal of papillomas (Tumour like growths caused by HPV) to prevent or treat existing conditions.  \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>SURG_OTOR_VNS</LocID>                                    	
+	<Text>Vestibular nerve section surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>     
+	<LocID>SURG_OTOR_VNS_DESCRIPTION</LocID>                        	
+	<Text>A vestibular nerve section describes the process of cutting the vestibular part of the cochleovestibular cranial nerve. This is generally done in an attempt to eliminate recurrent attacks of vertigo. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_NDS</LocID>                                    	
+	<Text>Neck Dissection Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_NDS_DESCRIPTION</LocID>                        	
+	<Text>The neck dissection is a surgical procedure for control of neck lymph node metastasis from squamous cell carcinoma (SCC) of the head and neck. The aim of the procedure is to remove lymph nodes from one side of the neck into which cancer cells may have migrated. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_ERCS</LocID>                                    	
+	<Text>Ear Reconstruction Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_ERCS_DESCRIPTION</LocID>                        	
+	<Text>Ear reconstruction is a form of surgery that can rebuild an ear damaged by trauma or cancer surgery, or misshapen or missing due to a congenital (present at birth) disorder. Along with surgery to rebuild or repair the ear, hearing rehabilitation with an otologist may be necessary. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_ADNO</LocID>                                    	
+	<Text>Adenoidectomy</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_ADNO_DESCRIPTION</LocID>                        	
+	<Text>Adenoidectomy is a surgical procedure performed to remove the adenoids. Adenoids are a mass of lymphoid tissue located behind the nasal passages. All surgical procedures have risks and potential complications. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_LOTS</LocID>                                    	
+	<Text>Laryngotracheal Reconstruction Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_LOTS_DESCRIPTION</LocID>                        	
+	<Text>Laryngotracheal reconstruction surgery widens your windpipe (trachea) to make breathing easier. Laryngotracheal reconstruction involves inserting a small piece of cartilage — stiff connective tissue found in many areas of your body — into the narrowed section of the windpipe to make it wider. Children most commonly experience problems with a narrowed windpipe, although the problem can also occur in adults. It can occur for many reasons, including injury, infection, stomach acid reflux, a birth defect or as the result of the insertion of a breathing tube. An adult's windpipe can become narrowed for the same reasons, but the cause may also be a disease that causes blood vessel or tissue inflammation, such as Wegener's granulomatosis or sarcoidosis.The goal of laryngotracheal reconstruction is to provide a safe and stable airway without the use of assistance from a breathing tube. In people who already have a tracheostomy tube to help them breathe, this procedure often makes it possible to get rid of the tracheostomy.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_SPTP</LocID>                                    	
+	<Text>Septoplasty</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_SPTP_DESCRIPTION</LocID>                        	
+	<Text>Septoplasty (SEP-toe-plas-tee) is a surgical procedure to straighten the bone and cartilage dividing the space between your two nostrils (septum). When the septum is crooked, it's known as a deviated septum. A deviated septum can make it harder to breathe through your nose and can increase the risk of sinus infections due to poor drainage.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_FRS</LocID>                                    	
+	<Text>Face Reconstruction</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_FRS_DESCRIPTION</LocID>                        	
+	<Text>Facial reconstruction surgery is used to restore a person's appearance to a relatively normal condition after a traumatic injury or event that has severely damaged a person's face and appearance. Such an injury may remove part or all of the face.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     <!-- NEW --> 
+	<LocID>SURG_OTOR_PHRS</LocID>                                    	
+	<Text>Pharyngeal Reconstruction</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!-- NEW -->
+	<LocID>SURG_OTOR_PHRS_DESCRIPTION</LocID>                        	
+	<Text>Pharyngeal reconstruction is a procedure that reconstructs the throat (Pharynx) in order to widen or fix defects or injuries. This is commonly used to remove pharyngeal cancers and repair the throat.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     <!-- NEW --> 
+	<LocID>SURG_OTOR_TCSY</LocID>                                    	
+	<Text>Tracheal Reconstruction Surgery</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!-- NEW -->
+	<LocID>SURG_OTOR_TCSY_DESCRIPTION</LocID>                        	
+	<Text>Tracheal reconstruction is a procedure that widens the windpipe in order to make breathing easier. It’s a common treatment for breathing difficulties related to a narrow windpipe like Tracheal Collapse or Tracheal Stenosis.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     <!-- NEW --> 
+	<LocID>SURG_OTOR_TONS</LocID>                                    	
+	<Text>Tonsillectomy</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!-- NEW -->
+	<LocID>SURG_OTOR_TONS_DESCRIPTION</LocID>                        	
+	<Text>Tonsillectomy (ton-sih-LEK-tuh-me) is the surgical removal of the tonsils, two oval-shaped pads of tissue at the back of the throat — one tonsil on each side. A tonsillectomy was once a common procedure to treat infection and inflammation of the tonsils (tonsillitis). Today, a tonsillectomy is usually performed for sleep-disordered breathing but may still be a treatment when tonsillitis occurs frequently or doesn't respond to other treatments.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     <!-- NEW --> 
+	<LocID>SURG_OTOR_COIM</LocID>                                    	
+	<Text>Cochlear Ear Implant</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!-- NEW -->
+	<LocID>SURG_OTOR_COIM_DESCRIPTION</LocID>                        	
+	<Text>A cochlear implant is an electronic device that partially restores hearing. It can be an option for people who have severe hearing loss from inner-ear damage who are no longer helped by using hearing aids. Cochlear implants use a sound processor that fits behind the ear. The processor captures sound signals and sends them to a receiver implanted under the skin behind the ear. The receiver sends the signals to electrodes implanted in the snail-shaped inner ear (cochlea). The signals stimulate the auditory nerve, which then directs them to the brain. The brain interprets those signals as sounds, though these sounds won't be just like normal hearing.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString> <!-- Brought back from obsolete -->
+	<LocID>SURG_OTOR_MTDY</LocID>                                    	
+	<Text>Mastoidectomy</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!-- Brought back from obsolete -->
+	<LocID>SURG_OTOR_MTDY_DESCRIPTION</LocID>                        	
+	<Text>A mastoidectomy is a surgical procedure that removes diseased mastoid air cells. The mastoid is the part of your skull located behind your ear. It's filled with air cells made of bone and looks like a honey comb. The diseased cells are often the result of an ear infection that has spread into your skull. \n\nRequired room: Operating room at Otorhinolaryngology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- CRP Surgeries -->
+	
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_NERVE_DECOM_SURGERY</LocID>                                    	
+	<Text>Nerve Reconstructive Surgery</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>SURG_OTOR_NERVE_DECOM_SURGERY_DESC</LocID>                        	
+	<Text>Nerve Reconstructive Surgery, or surgical nerve repair involves exploration of the injured nerve and removal of injured tissue or scar from the nerve endings. After that, a nerve can be directly reconnected if there is enough length on the ends to allow for a good quality repair without tension. \n\nRequired room: Operating room at Neurology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+   <!-- Treatments -->
+   <!-- Sprays, a course of therapy and pills -->
+	 
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_VOCAL_THERAPY</LocID>                                    	
+	<Text>Vocal Therapy</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_VOCAL_THERAPY_DESC</LocID>                        	
+	<Text>Voice therapy is a program designed to reduce hoarseness through guided change in vocal behaviors and lifestyle changes. Voice therapy consists of a variety of tasks designed to eliminate harmful vocal behavior, shape healthy vocal behavior, and assist in vocal fold wound healing after surgery or injury.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>Incision and drainage and clinical lancing are minor surgical procedures to release fuild or pressure built up under the skin. \n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString> 
+	<LocID>TRT_JM_ACTIVE_MONITOR</LocID>                                    	
+	<Text>Active Monitoring</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>    
+	<LocID>TRT_JM_ACTIVE_MONITOR_DESC</LocID>                        	
+	<Text>Active monitoring is when the oncologist recommends no treatment but monitors the patient's health with regular check-ups and blood tests. This is sometimes called “careful monitoring” or “watch and wait”. \n\nRequired room: Any Oncology office</Text>  
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>      
+	<LocID>TRT_JM_SALINE_NASAL_SPRAY</LocID>                        	
+	<Text>Saline nasal spray</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_SALINE_NASAL_SPRAY_DESC</LocID>                                    	
+	<Text>A nasal spray that rinse the nasal cavities and increases ventilation through the nose. \n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CPAP</LocID>                        	
+	<Text>Continuous positive airway pressure machine</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CPAP_DESC</LocID>                                    	
+	<Text>CPAP is an effective treatment for moderate to severe obstructive sleep apnea.\n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_MASSAGE</LocID>                        	
+	<Text>Massage</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    
+	<LocID>TRT_JM_MASSAGE_DESC</LocID>                                    	
+	<Text>Massage is the manipulation of the body's soft tissues. Massage techniques are commonly applied with hands, fingers, elbows, knees, forearms, feet, or a device. The purpose of massage is generally for the treatment of body stress or pain.\n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>       
+	<LocID>TRT_JM_CORTICOSTEROID_NASAL_SPRAY</LocID>                        	
+	<Text>Corticosteroid nasal spray</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_CORTICOSTEROID_NASAL_SPRAY_DESC</LocID>                                    	
+	<Text>Steroid nasal sprays, also called corticosteroid nasal sprays, are anti-inflammatory medicines that you spray into your nose.They can be used to treat a range of conditions, including hay fever, sinusitis, non-allergic rhinitis and nasal polyps.Some steroid nasal sprays are available to buy from pharmacies and shops, while others are only available on prescription. Steroid nasal drops are also available. \n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_OBJECT_REMOVAL</LocID>                        	
+	<Text>Object Removal</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>     
+	<LocID>TRT_JM_OBJECT_REMOVAL_DESC</LocID>                                    	
+	<Text>Removing an object from a part of the body. \n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!-- New -->
+	<LocID>TRT_JM_HEARING_AIDS</LocID>                        	
+	<Text>Hearing Aids</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>       <!-- New -->
+	<LocID>TRT_JM_HEARING_AIDS_DESC</LocID>                                    	
+	<Text>A hearing aid is a device designed to improve hearing by making sound audible to a person with hearing loss. Hearing aids are classified as medical devices in most countries, and regulated by the respective regulations. Small audio amplifiers such as PSAPs or other plain sound reinforcing systems cannot be sold as "hearing aids". \n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+   <!-- Intubation and Intravenous Infusions -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTUBATION</LocID>                        	
+	<Text>Intubation</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTUBATION_DESC</LocID>                                    	
+	<Text>Intubation is the process of inserting a tube, called an endotracheal tube (ET), through the mouth and then into the airway. This is done so that a patient can be placed on a ventilator to assist with breathing during anesthesia, sedation, or severe illness.\n\nRequired room: Otorhinolaryngology Diagnostic Unit / Otorhinolaryngology Doctor's Office / ICU / Observation Room</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>   <!-- CRP -->   
+	<LocID>TRT_JM_CHEMOTHERAPY</LocID>                                    	
+	<Text>Chemotherapy</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_CHEMOTHERAPY_DESC</LocID>                        	
+	<Text>Chemotherapy is a type of cancer treatment that uses one or more anti-cancer drugs as part of a standardized chemotherapy regimen. Chemotherapy may be given with a curative intent, or it may aim to prolong life or to reduce symptoms. \n\nRequired room: Regular Hospitalisation at Oncology dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>    <!-- CRP -->  
+	<LocID>TRT_JM_EPIPEN</LocID>                                    	
+	<Text>Epinephrine Autoinjector</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      <!-- CRP -->
+	<LocID>TRT_JM_EPIPEN_DESC</LocID>                        	
+	<Text>An epinephrine autoinjector is a medical device for injecting a measured dose or doses of epinephrine by means of autoinjector technology. It is most often used for the treatment of anaphylaxis. \n\nRequired room: Any office</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_OTOR_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>Incision and drainage</Text>  
+	</GameDBLocalizedString>
+	
+  <!-- Obselete -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES</LocID>                        	
+	<Text>IV Antihistamines</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES_DESC</LocID>                                    	
+	<Text>Intravenous (IV) supplement of antihistamine. \n\nRequired room: Any office / ward / unit</Text>  
+	</GameDBLocalizedString>
+	   
+	<!-- ============================================== Exams =============================================== -->
+	   
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_EAR_EXAMINATION</LocID>    
+	<Text>(ENT version) Ear examination</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+    <LocID>EXM_JM_EAR_BIOPSY_SAMPLING</LocID>                  
+	<Text>Ear Biopsy - Sampling</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>      
+	<LocID>EXM_JM_EAR_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	<Text>A ear biopsy is a surgical procedure, where a sample of the ear canal is extracted under surgical anesthesia. This is usually done to find out what a ear tumour is made of. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Microscope</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>      
+	<LocID>EXM_JM_EAR_BIOPSY_TESTING</LocID>                  
+	<Text>Ear Biopsy - Testing</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>      
+	<LocID>EXM_JM_EAR_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	<Text>A ear biopsy is a surgical procedure, where a sample of the ear canal is extracted under surgical anesthesia. This is usually done to find out what a ear tumour is made of. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Microscope</Text> 
+	</GameDBLocalizedString>
+
+    <GameDBLocalizedString>      
+	<LocID>EXM_JM_NOSE_BIOPSY_SAMPLING</LocID>                  
+	<Text>Nose Biopsy - Sampling</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>      
+	<LocID>EXM_JM_NOSE_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	<Text>A nose biopsy is a surgical procedure, where a sample of the nasal cavity is extracted under surgical anesthesia. This is usually done to find out what a nose tumour is made of. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Microscope</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>      
+	<LocID>EXM_JM_NOSE_BIOPSY_TESTING</LocID>                  
+	<Text>Nose Biopsy - Test</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>      
+	<LocID>EXM_JM_NOSE_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	<Text>A nose biopsy is a surgical procedure, where a sample of the nasal cavity is extracted under surgical anesthesia. This is usually done to find out what a nose tumour is made of. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Microscope</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>EXM_JM_THROAT_BIOPSY_SAMPLING</LocID>                  
+	<Text>Throat Biopsy - Sampling</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>      
+	<LocID>EXM_JM_THROAT_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	<Text>A throat biopsy is a surgical procedure, where a sample of the throat is extracted under surgical anesthesia. This is usually done to find out what a throat tumour is made of. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Microscope</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>      
+	<LocID>EXM_JM_THROAT_BIOPSY_TESTING</LocID>                  
+	<Text>Throat Biopsy - Test</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>      
+	<LocID>EXM_JM_THROAT_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	<Text>A throat biopsy is a surgical procedure, where a sample of the throat is extracted under surgical anesthesia. This is usually done to find out what a throat tumour is made of. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Microscope</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING</LocID>
+	<Text>Sputum Culture - Sampling</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING_DESCRIPTION</LocID>  
+	<Text>A sputum culture is a test to detect and identify bacteria or fungi that infect the lungs or breathing passages. Sputum is a thick fluid produced in the lungs and in the adjacent airways. ... If no bacteria or fungi grow, the culture is negative. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Fume hood + incubator + Microscope</Text> 
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>  
+	<LocID>EXM_JM_SPUTUM_CULTURE_TESTING</LocID>
+	<Text>Sputum Culture - Testing</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>
+	<LocID>EXM_JM_SPUTUM_CULTURE_TESTING_DESCRIPTION</LocID>  
+	<Text>A sputum culture is a test to detect and identify bacteria or fungi that infect the lungs or breathing passages. Sputum is a thick fluid produced in the lungs and in the adjacent airways. ... If no bacteria or fungi grow, the culture is negative. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Fume hood + incubator + Microscope</Text> 
+	</GameDBLocalizedString>
+	
+    <GameDBLocalizedString>  
+	<LocID>EXM_JM_THROAT_SWAB_SAMPLING</LocID>
+	<Text>Throat Swab</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_THROAT_SWAB_SAMPLING_DESCRIPTION</LocID>  
+	<Text>A throat swab culture, or throat culture, is a test commonly used to diagnose bacterial infections in the throat. These infections can include strep throat, pneumonia, diphtheria, tonsillitis, whooping cough, and meningitis. The purpose of a throat swab culture is to detect the presence of organisms in the throat that could cause infection. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Fume hood + incubator + Microscope</Text> 
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>  
+	<LocID>EXM_JM_THROAT_SWAB_TESTING</LocID>
+	<Text>Throat Swab Culture</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>
+	<LocID>EXM_JM_THROAT_SWAB_TESTING_DESCRIPTION</LocID>  
+	<Text>A throat swab culture, or throat culture, is a test commonly used to diagnose bacterial infections in the throat. These infections can include strep throat, pneumonia, diphtheria, tonsillitis, whooping cough, and meningitis. The purpose of a throat swab culture is to detect the presence of organisms in the throat that could cause infection. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Fume hood + incubator + Microscope</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_NASAL_SWAB_SAMPLING</LocID>
+	<Text>Nasal Swab</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_NASAL_SWAB_SAMPLING_DESCRIPTION</LocID>  
+	<Text>A nasal swab, is a test that checks for viruses and bacteria that cause respiratory infections. There are many types of respiratory infections. A nasal swab test can help your provider diagnose the type of infection you have and which treatment would be best for you. The test may be done by taking a sample of cells from your nostrils or from the nasopharynx. The nasopharynx is the uppermost part of your nose and throat. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Fume hood + incubator + Microscope</Text> 
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>  
+	<LocID>EXM_JM_NASAL_SWAB_TESTING</LocID>
+	<Text>Nasal Swab Culture</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>
+	<LocID>EXM_JM_NASAL_SWAB_TESTING_DESCRIPTION</LocID>  
+	<Text>A nasal swab, is a test that checks for viruses and bacteria that cause respiratory infections. There are many types of respiratory infections. A nasal swab test can help your provider diagnose the type of infection you have and which treatment would be best for you. The test may be done by taking a sample of cells from your nostrils or from the nasopharynx. The nasopharynx is the uppermost part of your nose and throat. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Fume hood + incubator + Microscope</Text> 
+	</GameDBLocalizedString>
+	
+<!-- Obsolete -->
+			
+	<GameDBLocalizedString>
+	<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING</LocID>
+	<Text>Tryptase test - Sampling </Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_TRYPTASE_TEST_SAMPLING_DESCRIPTION</LocID>  
+	<Text>Tryptase is an enzyme that is released, along with histamine and other chemicals, from mast cells when they are activated as part of a normal immune response as well as in allergic (hypersensitivity) responses. This test measures the amount of tryptase in the blood. \n\nRequired room: Hematology Lab</Text> 
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>
+	<LocID>EXM_JM_TRYPTASE_TEST_TESTING</LocID>
+	<Text>Tryptase test - Testing </Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_TRYPTASE_TEST_TESTING_DESCRIPTION</LocID>  
+	<Text>The sampling of blood for a Tryptase test. \n\nRequired room: Hematology Lab</Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>
+	<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING</LocID>
+	<Text>Histamine test - Sampling </Text> 
+	</GameDBLocalizedString>
+			
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_HISTAMINE_TEST_SAMPLING_DESCRIPTION</LocID>  
+	<Text>The histamine test is a useful indicator of mast cell activation. The test may be used to help confirm that a person has had an anaphylactic reaction, or it may be used to help diagnose mastocytosis, a rare group of disorders characterized by abnormal proliferation of mast cells. \n\nRequired room: Hematology Lab</Text> 
+	</GameDBLocalizedString>
+			
+    <GameDBLocalizedString>
+	<LocID>EXM_JM_HISTAMINE_TEST_TESTING</LocID>
+	<Text>Histamine test - Testing </Text> 
+	</GameDBLocalizedString>
+		
+	<GameDBLocalizedString>  
+	<LocID>EXM_JM_HISTAMINE_TEST_TESTING_DESCRIPTION</LocID>  
+	<Text>The sampling of blood for a Histamine test. \n\nRequired room: Hematology Lab</Text> 
+	</GameDBLocalizedString>
+	   
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

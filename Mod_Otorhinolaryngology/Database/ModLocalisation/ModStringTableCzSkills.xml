@@ -1,0 +1,62 @@
+<Database>
+	<GameDBStringTable ID="LOC_CZ_ADDON_OTOR_SKILLS">
+	
+	<LanguageCode>cz</LanguageCode>
+	<LanguageNameLocalized>Czech</LanguageNameLocalized>
+	<Contributors>
+		<Name>XiZyno</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+<!-- ### Skills ### -->
+			
+	<GameDBLocalizedString>      
+		<LocID>DPT_OTORHINOLARYNGOLOGY</LocID>                                          	
+		<Text>Otorinolaryngologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</LocID>                   
+		<Text>Otorinolaryngologie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY_DESCR</LocID>                   
+		<Text>Otorinolaryngologie poskytuje přístup ke specializovaným postupům pro detekci, diagnostiku a léčbu různých forem onemocnění uší, nosu a krku.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY</LocID>                   
+		<Text>Chirurgie hlavy a krku</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY_DESCR</LocID>                   
+		<Text>Chirurgie hlavy a krku umožňuje lékaři působit jako hlavní chirurg na oddělení uší, nosu a krku a má vliv na to, jak často operace skončí komplikacemi.</Text>  
+	</GameDBLocalizedString>
+	
+	<!--GameDBLocalizedString>      
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_SLEEP_SPECIALIST</LocID>                   
+		<Text>Specialista na spánek</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_SLEEP_SPECIALIST_DESCR</LocID>                   
+		<Text>Specialista na spánek umožňuje lékařům studovat spánek pacientů a zjistit, zda mají spánkovou apnoe.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_AUDIOGRAPHY</LocID>                   
+		<Text>Audiografie</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_AUDIOGRAPHY_DESCR</LocID>                   
+		<Text>Audiography gives access to audio related procedures to find various ear disorders and diseasesAudiografie umožňuje přístup k procedurám souvisejícím se zvukem při hledání různých poruch a nemocí uší.</Text>  
+	</GameDBLocalizedString-->
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>

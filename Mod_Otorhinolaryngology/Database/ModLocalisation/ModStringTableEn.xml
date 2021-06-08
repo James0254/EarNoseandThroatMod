@@ -1,0 +1,23 @@
+<Database>
+	<GameDBStringTable ID="ADDON_MOD_OTORHINOLARYNGOLOGY">
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+	<Name>James B</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		
+	<GameDBLocalizedString>      
+	<LocID>ADDON_MOD_OTORHINOLARYNGOLOGY</LocID>                       	
+	<Text>Otorhinolaryngology</Text>  
+	</GameDBLocalizedString>
+	
+
+	
+
+
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
+

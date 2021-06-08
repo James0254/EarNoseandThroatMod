@@ -1,0 +1,114 @@
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_OTOR_EXAMINATIONS">
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+        <Contributors>
+            <Name>James Buckham</Name>
+        </Contributors>
+        <LocalizedStrings>
+        <!-- Examinations -->
+	    
+		 <!-- Ear Examinations -->
+		 
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OAE</LocID>                  
+			<Text>Otoacoustic Emissions</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OAE_DESCRIPTION</LocID>                  
+			<Text>The OAE (Otoacoustic Emissions) test checks part of the inner ear's response to sound. The test is mostly done on infants and children who may not be able to respond to behavioral hearing tests because of their age. \n\nRequired room: ENT Office at ENT</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOMETRY</LocID>                  
+			<Text>(ENT version) Audiometry</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM</LocID>                  
+			<Text>Audiogram</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM_DESCRIPTION</LocID>                  
+			<Text>An audiogram is a graph that shows the audible threshold for standardized frequencies as measured by an audiometer. The Y axis represents intensity measured in decibels and the X axis represents frequency measured in hertz. \n\nRequired room: Audiogram Unit at ENT</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OTOSCOPY</LocID>                  
+			<Text>Otoscopy</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OTOSCOPY_DESCRIPTION</LocID>                  
+			<Text>Otoscopy is a clinical procedure used to examine structures of the ear, particularly the external auditory canal, tympanic membrane, and middle ear. Clinicians use the process during routine wellness physical exams, examination for any diagnostic clues and the evaluation of specific ear complaints. \n\nRequired room: Endoscopy Unit at ENT</Text> 
+			</GameDBLocalizedString>
+			
+		 <!-- Nose Examinations -->
+		 
+		    <GameDBLocalizedString>      
+			<LocID>EXM_JM_RHINOSCOPY</LocID>                  
+			<Text>Rhinoscopy</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_RHINOSCOPY_DESCRIPTION</LocID>                  
+			<Text>Rhinoscopy is a method of looking into the nose and throat. While there are other methods of looking into the nose, these methods only allow the doctor to see about an inch inside the nasal cavity. A rhinoscopy allows the doctor to see almost all of the inside of the nose, throat, adenoids, and vocal cords. \n\nRequired room: Endoscopy Unit at ENT</Text> 
+			</GameDBLocalizedString>
+			
+		 <!-- Throat Examinations -->
+		 
+            <GameDBLocalizedString>
+			<LocID>EXM_OTOR_LARYNGOSCOPY</LocID>
+			<Text>(ENT version) Laryngoscopy</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_LARYNGOSCOPY</LocID>
+			<Text>Advanced Laryngoscopy</Text> 
+			</GameDBLocalizedString>
+		
+		 <!-- Miscellanous -->
+		 
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY</LocID>                  
+			<Text>Polysomnograph</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY_DESCRIPTION</LocID>                  
+			<Text>Polysomnography, also called a sleep study, is a test used to diagnose sleep disorders. Polysomnography records your brain waves, the oxygen level in your blood, heart rate and breathing, as well as eye and leg movements during the study. \n\nRequired room: Sleep Lab </Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>     
+			<LocID>EXM_JM_SKIN_INJECTION_TEST</LocID>      
+			<Text>(ENT version) Skin allergy test</Text> 
+			</GameDBLocalizedString>
+			
+		  <!-- Lab Tests -->
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_SAMPLING</LocID>
+			<Text>Rapid Strep Test - Sampling</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_SAMPLING_DESCRIPTION</LocID>  
+			<Text>The rapid strep test (RST) is a rapid antigen detection test (RADT) that is widely used in clinics to assist in the diagnosis of bacterial pharyngitis caused by group A streptococci (GAS), sometimes termed strep throat. There are currently several types of rapid strep test in use, each employing a distinct technology. However, they all work by detecting the presence of GAS in the throat of a person by responding to GAS-specific antigens on a throat swab. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Fume hood + incubator + Microscope</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_TESTING</LocID>
+			<Text>Rapid Strep Test - Testing</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_RAPID_STREP_TESTING_DESCRIPTION</LocID>  
+			<Text>The rapid strep test (RST) is a rapid antigen detection test (RADT) that is widely used in clinics to assist in the diagnosis of bacterial pharyngitis caused by group A streptococci (GAS), sometimes termed strep throat. There are currently several types of rapid strep test in use, each employing a distinct technology. However, they all work by detecting the presence of GAS in the throat of a person by responding to GAS-specific antigens on a throat swab. \n\nSampling: Any office / Any diagnostic unit \n\nRequired room: ENT Lab at ENT \n\nRequired equipment: Glassware + Fume hood + incubator + Microscope</Text> 
+			</GameDBLocalizedString>
+			
+            
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

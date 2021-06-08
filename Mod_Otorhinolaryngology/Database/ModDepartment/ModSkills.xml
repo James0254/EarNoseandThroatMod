@@ -1,0 +1,34 @@
+<Database>
+
+<GameDBSkill ID="SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY">
+	<AbbreviationLocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY_DESCR</AbbreviationLocID>
+	<ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+	<IconIndex>403</IconIndex>
+
+	<CustomIconAssetRef>ASSET_MOD_ICON_OR</CustomIconAssetRef>
+	<CustomIconLightBackgroundAssetRef>ASSET_MOD_ICON_OR_DARK</CustomIconLightBackgroundAssetRef>
+
+	<ExtraLevelingPercent>100</ExtraLevelingPercent>
+</GameDBSkill>
+
+<GameDBSkill ID="SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY">
+	<AbbreviationLocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY_DESCR</AbbreviationLocID>
+	<ParentSkill>SKILL_DOC_QUALIF_GENERAL_MEDICINE</ParentSkill>
+
+	<IconIndex>2388</IconIndex>
+
+	<ExtraLevelingPercent>50</ExtraLevelingPercent>
+</GameDBSkill>
+
+<!--GameDBSkill ID="SKILL_LAB_SPECIALIST_SPEC_SLEEP_SPECIALIST">
+        <AbbreviationLocID>SKILL_LAB_SPECIALIST_SPEC_SLEEP_SPECIALIST_DESCR</AbbreviationLocID>
+        <IconIndex>2382</IconIndex>
+</GameDBSkill>
+
+<GameDBSkill ID="SKILL_LAB_SPECIALIST_SPEC_AUDIOGRAPHY">
+        <AbbreviationLocID>SKILL_LAB_SPECIALIST_SPEC_AUDIOGRAPHY_DESCR</AbbreviationLocID>
+        <IconIndex>2382</IconIndex>
+</GameDBSkill-->
+
+</Database>

@@ -1,0 +1,41 @@
+<Database>
+    <GameDBDiagnosisOccurrence ID="OCCURRENCE_OR_VERYCOMMON">
+        <OccurrenceRate>100</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+    
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_OR_COMMON">
+        <OccurrenceRate>85</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+	
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_OR_AVERAGE">
+		<OccurrenceRate>75</OccurrenceRate>
+	</GameDBDiagnosisOccurrence>
+	
+    <GameDBDiagnosisOccurrence ID="OCCURRENCE_OR_UNCOMMON">
+        <OccurrenceRate>50</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+    
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_OR_VERYUNCOMMON">
+        <OccurrenceRate>30</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+	
+    <GameDBDiagnosisOccurrence ID="OCCURRENCE_OR_RARE">
+        <OccurrenceRate>25</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+	
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_OR_VERYRARE">
+		<OccurrenceRate>15</OccurrenceRate>
+	</GameDBDiagnosisOccurrence>
+	  
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_OR_EXTREMELYRARE">
+		<OccurrenceRate>5</OccurrenceRate>
+	</GameDBDiagnosisOccurrence>
+	
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_OR_EXTRAORDINARY">
+		<OccurrenceRate>3</OccurrenceRate>
+	</GameDBDiagnosisOccurrence>
+	
+	<GameDBDiagnosisOccurrence ID="OCCURRENCE_OR_EXCEPTIONAL">
+        <OccurrenceRate>1</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+</Database>

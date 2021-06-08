@@ -1,0 +1,62 @@
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_OTOR_SKILLS">
+	
+	<LanguageCode>en</LanguageCode>
+	<LanguageNameLocalized>English</LanguageNameLocalized>
+	<Contributors>
+		<Name>James Buckham</Name>
+	</Contributors>
+        
+	<LocalizedStrings>
+            
+<!-- ### Skills ### -->
+			
+	<GameDBLocalizedString>      
+		<LocID>DPT_OTORHINOLARYNGOLOGY</LocID>                                          	
+		<Text>Otorhinolaryngology</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</LocID>                   
+		<Text>Otorhinolaryngology</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY_DESCR</LocID>                   
+		<Text>Otorhinolaryngology gives access to specialized procedures for detecting, diagnosing and treating various forms of ear, nose and throat diseases.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY</LocID>                   
+		<Text>Head and Neck Surgery</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY_DESCR</LocID>                   
+		<Text>Head and Neck Surgery allows the doctor to act as main surgeon at Ear, Nose and Throat department and affects how often surgeries will end up with complications.</Text>  
+	</GameDBLocalizedString>
+	
+	<!--GameDBLocalizedString>      
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_SLEEP_SPECIALIST</LocID>                   
+		<Text>Sleep Specialist</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_SLEEP_SPECIALIST_DESCR</LocID>                   
+		<Text>Sleep Specialist allows doctor's to study patient's sleep to find out if they have Sleep Apnea.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_AUDIOGRAPHY</LocID>                   
+		<Text>Audiography</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_AUDIOGRAPHY_DESCR</LocID>                   
+		<Text>Audiography gives access to audio related procedures to find various ear disorders and diseases.</Text>  
+	</GameDBLocalizedString-->
+
+	
+	</LocalizedStrings>	
+	</GameDBStringTable>
+</Database>
