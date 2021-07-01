@@ -1731,7 +1731,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_EAR_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_EAR_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_EAR_EXAMINATION</ExaminationRef>
 		<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
@@ -1871,7 +1871,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_EAR_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_EAR_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_EAR_EXAMINATION</ExaminationRef>
 		<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
@@ -2011,7 +2011,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_EAR_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_EAR_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_BLOOD_TEST_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CRP_EAR_EXAMINATION</ExaminationRef>
 		<ExaminationRef>EXM_EAR_EXAMINATION</ExaminationRef>
@@ -2809,7 +2809,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_SPUTUM_CULTURE_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_SPUTUM_CULTURE_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CT</ExaminationRef>
 		<ExaminationRef>EXM_JM_RHINOSCOPY</ExaminationRef>
 		<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
@@ -3286,7 +3286,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_NOSE_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_NOSE_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_EVALUATION</ExaminationRef>
 		<ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
 		<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
@@ -3428,7 +3428,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_NOSE_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_NOSE_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_EVALUATION</ExaminationRef>
 		<ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
 		<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
@@ -3570,7 +3570,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_NOSE_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_NOSE_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_EVALUATION</ExaminationRef>
 		<ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
 		<ExaminationRef>EXM_OPHTHALMOSCOPY</ExaminationRef>
@@ -4032,7 +4032,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_NOSE_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_NOSE_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
     </Examinations>
 		
@@ -4156,7 +4156,7 @@
 		<ExaminationRef>EXM_EVALUATION</ExaminationRef>
 		<ExaminationRef>EXM_NASAL_CAVITY_INSPECTION</ExaminationRef>
 		<ExaminationRef>EXM_JM_RHINOSCOPY</ExaminationRef>
-		<ExaminationRef>EXM_CRP_NOSE_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_NOSE_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_DIFFERENTIAL_DIAGNOSIS</ExaminationRef>
     </Examinations>
 		
@@ -4769,7 +4769,7 @@
 		<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
 		<ExaminationRef>EXM_CC_BLOOD_ANALYSIS</ExaminationRef>
 		<ExaminationRef>EXM_JM_RAPID_STREP_SAMPLING</ExaminationRef>
-		<ExaminationRef>EXM_CRP_THROAT_SWAB_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_THROAT_SWAB_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_LARYNGOSCOPY</ExaminationRef>
 		<ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
 		<ExaminationRef>EXM_TEMPERATURE_MEASUREMENT</ExaminationRef>
@@ -5519,7 +5519,7 @@
 		<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
 		<ExaminationRef>EXM_SPEECH_LISTENING</ExaminationRef>
 		<ExaminationRef>EXM_ORAL_CAVITY_INSPECTION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_THROAT_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_THROAT_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
 		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
 		<ExaminationRef>EXM_X_RAY_TORSO</ExaminationRef>
@@ -5927,7 +5927,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_THROAT_SWAB_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_THROAT_SWAB_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CHEST_LISTENING</ExaminationRef>
 		<ExaminationRef>EXM_HEART_MONITORING</ExaminationRef>
         <ExaminationRef>EXM_ECG</ExaminationRef>
@@ -6151,7 +6151,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_THROAT_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_THROAT_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CT</ExaminationRef>
         <ExaminationRef>EXM_MRI</ExaminationRef>
 		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
@@ -6295,7 +6295,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_THROAT_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_THROAT_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CT</ExaminationRef>
         <ExaminationRef>EXM_MRI</ExaminationRef>
 		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>
@@ -6439,7 +6439,7 @@
     <Examinations>
         <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
 		<ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-		<ExaminationRef>EXM_CRP_THROAT_BIOPSY_SAMPLING</ExaminationRef>
+		<ExaminationRef>EXM_JM_THROAT_BIOPSY_SAMPLING</ExaminationRef>
 		<ExaminationRef>EXM_CT</ExaminationRef>
         <ExaminationRef>EXM_MRI</ExaminationRef>
 		<ExaminationRef>EXM_NECK_PALPATION</ExaminationRef>

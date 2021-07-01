@@ -128,7 +128,7 @@
     </GameDBPrefabObject>
 
     <GameDBPrefabObject ID="MOD_PREFAB_ROOM_OT_LAB">
-        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_ENDO_ABBR</AbbreviationLocID>
+        <AbbreviationLocID>MOD_PREFAB_ROOM_OT_LAB_ABBR</AbbreviationLocID>
         <PrefabAssetRef>ASSET_PREFAB_OT_LAB_LARGE</PrefabAssetRef>
         <DisplayedSizeX>6</DisplayedSizeX>
         <DisplayedSizeY>6</DisplayedSizeY>

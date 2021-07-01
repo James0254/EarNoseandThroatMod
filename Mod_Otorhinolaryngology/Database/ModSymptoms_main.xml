@@ -200,7 +200,7 @@
 			<ExaminationRef>EXM_JM_OTOSCOPY</ExaminationRef>
         </Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_CRP_OBJECT_REMOVAL</TreatmentRef>
+			<TreatmentRef>TRT_JM_OBJECT_REMOVAL</TreatmentRef>
         </Treatments>
         <ShameLevel>40</ShameLevel>
         <IsMainSymptom>true</IsMainSymptom>
@@ -273,7 +273,7 @@
 			<ExaminationRef>EXM_JM_OTOSCOPY</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_CRP_OBJECT_REMOVAL</TreatmentRef>
+            <TreatmentRef>TRT_JM_OBJECT_REMOVAL</TreatmentRef>
         </Treatments>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>true</IsMainSymptom>
@@ -290,7 +290,7 @@
             <ExaminationRef>EXM_INTERVIEW</ExaminationRef>
         </Examinations>
         <Treatments>
-            <TreatmentRef>TRT_CRP_OBJECT_REMOVAL</TreatmentRef>
+            <TreatmentRef>TRT_JM_OBJECT_REMOVAL</TreatmentRef>
         </Treatments>
         <ShameLevel>0</ShameLevel>
         <IsMainSymptom>true</IsMainSymptom>
@@ -478,7 +478,7 @@
 	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_EAR_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_EAR_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>SURG_OTOR_MTDY</TreatmentRef>           
@@ -508,7 +508,7 @@
 	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_EAR_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_EAR_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>SURG_OTOR_MTDY</TreatmentRef>           
@@ -538,7 +538,7 @@
 	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_EAR_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_EAR_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
  			<TreatmentRef>SURG_OTOR_MTDY</TreatmentRef>           
@@ -748,7 +748,7 @@
 		<!-- JM_SPUTUM_CULTURE_SAMPLING (Patient's Side) -->
 		
         <Examinations>
-            <ExaminationRef>EXM_CRP_SPUTUM_CULTURE_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_SPUTUM_CULTURE_TESTING</ExaminationRef>
 			<ExaminationRef>EXM_CRP_NASAL_SWAB_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
@@ -843,7 +843,7 @@
 	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_NOSE_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_NOSE_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
 		    <TreatmentRef>SURG_OTOR_FESS</TreatmentRef>
@@ -871,7 +871,7 @@
 	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_NOSE_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_NOSE_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
 		    <TreatmentRef>SURG_OTOR_FESS</TreatmentRef>
@@ -899,7 +899,7 @@
 	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_NOSE_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_NOSE_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
 		    <TreatmentRef>SURG_OTOR_FESS</TreatmentRef>
@@ -929,7 +929,7 @@
 			<ExaminationRef>EXM_INTERVIEW</ExaminationRef>
         </Examinations>
 		<Treatments>
-			<TreatmentRef>TRT_CRP_OBJECT_REMOVAL</TreatmentRef>
+			<TreatmentRef>TRT_JM_OBJECT_REMOVAL</TreatmentRef>
         </Treatments>
         <ShameLevel>40</ShameLevel>
         <IsMainSymptom>true</IsMainSymptom>
@@ -1002,7 +1002,7 @@
         <PatientMobility>MOBILE</PatientMobility>
         <Examinations>
 		    <ExaminationRef>EXM_PHYSICAL_AND_VISUAL_EXAMINATION</ExaminationRef>
-            <ExaminationRef>EXM_CRP_NOSE_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_NOSE_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
 		<Treatments>
 			<TreatmentRef>TRT_JM_CDLS</TreatmentRef>
@@ -1059,7 +1059,7 @@
         <PatientMobility>MOBILE</PatientMobility> 
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_NOSE_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_NOSE_BIOPSY_TESTING</ExaminationRef>
 			<ExaminationRef>EXM_JM_RHINOSCOPY</ExaminationRef>
         </Examinations>
         <Treatments>
@@ -1206,7 +1206,7 @@
 	    <!-- BACTERIA_CULTIVATION_SAMPLING (Patient's Side) -->
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_THROAT_SWAB_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_THROAT_SWAB_TESTING</ExaminationRef>
 			<ExaminationRef>EXM_JM_RAPID_STREP_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
@@ -1541,7 +1541,7 @@
 	    <!-- BACTERIA_CULTIVATION_SAMPLING (Patient's Side) -->
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_THROAT_SWAB_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_THROAT_SWAB_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
             <TreatmentRef>TRT_ANTIBIOTICS</TreatmentRef>
@@ -1592,7 +1592,7 @@
 	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_THROAT_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_THROAT_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
 		    <TreatmentRef>SURG_OTOR_NDS</TreatmentRef>
@@ -1622,7 +1622,7 @@
 	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_THROAT_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_THROAT_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
 		    <TreatmentRef>SURG_OTOR_NDS</TreatmentRef>
@@ -1652,7 +1652,7 @@
 	     <!-- BIOPSY_SAMPLING (Patient's Side)--> 
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_THROAT_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_THROAT_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments>
 		    <TreatmentRef>SURG_OTOR_NDS</TreatmentRef>
@@ -1805,7 +1805,7 @@
 	    <!-- BIOPSY_SAMPLING (Patient's Side) -->
 	
         <Examinations>
-            <ExaminationRef>EXM_CRP_THROAT_BIOPSY_TESTING</ExaminationRef>
+            <ExaminationRef>EXM_JM_THROAT_BIOPSY_TESTING</ExaminationRef>
         </Examinations>
         <Treatments> 
 		    <TreatmentRef>SURG_OTOR_PRS</TreatmentRef>

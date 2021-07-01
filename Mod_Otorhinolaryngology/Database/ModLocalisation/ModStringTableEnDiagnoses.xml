@@ -591,22 +591,22 @@
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		 <LocID>TRM_JM_LYC</LocID>                         
+		 <LocID>TRM_CRP_JM_LYC</LocID>                         
 		 <Text>Trauma of the Larynx</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
-		 <LocID>TRM_JM_LYC_DESCRIPTION</LocID>             
+		 <LocID>TRM_CRP_JM_LYC_DESCRIPTION</LocID>             
 		 <Text>Laryngeal trauma is injury to the voice box, or larynx, the upper portion of the airway where the vocal cords are located. Blunt trauma to the airway is rather common, but happens less frequently in children than in adults. In pediatric cases, the trauma is usually caused by a fall or blow to the neck, or other throat injury.The damage can range from minor vocal cord weakness to fractures of the cartilage structures of the larynx or trachea. These fractures can cause air to escape into the neck and chest, leading to significant respiratory compromise and even death if not diagnosed and treated quickly.In childhood, the larynx and trachea have a soft cartilage structure and small size. Therefore, pediatric fractures occur less often. Even the largest hospitals only see a small number of real laryngotracheal fracture cases.</Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>      
-		 <LocID>TRM_JM_LYL</LocID>                         
+		 <LocID>TRM_CRP_JM_LYL</LocID>                         
 		 <Text>Laceration of the Larynx</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
-		 <LocID>TRM_JM_LYL_DESCRIPTION</LocID>             
+		 <LocID>TRM_CRP_JM_LYL_DESCRIPTION</LocID>             
 		 <Text>Laryngeal trauma is injury to the voice box, or larynx, the upper portion of the airway where the vocal cords are located. Blunt trauma to the airway is rather common, but happens less frequently in children than in adults. In pediatric cases, the trauma is usually caused by a fall or blow to the neck, or other throat injury.The damage can range from minor vocal cord weakness to fractures of the cartilage structures of the larynx or trachea. These fractures can cause air to escape into the neck and chest, leading to significant respiratory compromise and even death if not diagnosed and treated quickly.In childhood, the larynx and trachea have a soft cartilage structure and small size. Therefore, pediatric fractures occur less often. Even the largest hospitals only see a small number of real laryngotracheal fracture cases.</Text>  
 		</GameDBLocalizedString>
 		
@@ -636,22 +636,22 @@
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
-		 <LocID>TRM_JM_PYC</LocID>                         
+		 <LocID>TRM_CRP_JM_PYC</LocID>                         
 		 <Text>Trauma of the Pharynx</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
-		 <LocID>TRM_JM_PYC_DESCRIPTION</LocID>             
+		 <LocID>TRM_CRP_JM_PYC_DESCRIPTION</LocID>             
 		 <Text>Pharyngeal trauma is injury to the throat, or pharynx. Pharyngeal perforation is an uncommon injury in children. Most reported cases to date have been secondary to instrumentation or penetrating wounds. Laceration to the pharyngeal wall may introduce air, secretions and bacteria into the parapharyngeal space and mediastinum and consequently has potentially life-threatening sequelae. The management of these injuries is controversial. </Text>  
 		</GameDBLocalizedString>
 		
 		<GameDBLocalizedString>     
-		 <LocID>TRM_JM_PYL</LocID>                         
+		 <LocID>TRM_CRP_JM_PYL</LocID>                         
 		 <Text>Laceration of the Pharynx</Text>	
 		</GameDBLocalizedString>
 		
         <GameDBLocalizedString>      
-		 <LocID>TRM_JM_PYL_DESCRIPTION</LocID>             
+		 <LocID>TRM_CRP_JM_PYL_DESCRIPTION</LocID>             
 		 <Text>Pharyngeal trauma is injury to the throat, or pharynx. Pharyngeal perforation is an uncommon injury in children. Most reported cases to date have been secondary to instrumentation or penetrating wounds. Laceration to the pharyngeal wall may introduce air, secretions and bacteria into the parapharyngeal space and mediastinum and consequently has potentially life-threatening sequelae. The management of these injuries is controversial. </Text>  
 		</GameDBLocalizedString>
 		
@@ -715,47 +715,7 @@
 		 <Text>Tonsillitis is inflammation of the tonsils, two oval-shaped pads of tissue at the back of the throat — one tonsil on each side. Signs and symptoms of tonsillitis include swollen tonsils, sore throat, difficulty swallowing and tender lymph nodes on the sides of the neck. Most cases of tonsillitis are caused by infection with a common virus, but bacterial infections also may cause tonsillitis. Tonsillitis can be chronic if symptoms persist for more than 3 months. In this case, your doctor may recommend to remove your tonsils (Tonsillectomy).</Text>  
 		</GameDBLocalizedString>
 		
-	  <!-- Obselete -->
 		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_CRP_JM_APX</LocID>                         
-		 <Text>Anaphylaxis</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_CRP_JM_APX_DESCRIPTION</LocID>             
-		 <Text>Anaphylaxis is a severe, potentially life-threatening allergic reaction. It can occur within seconds or minutes of exposure to something you're allergic to, such as peanuts or bee stings.Anaphylaxis causes your immune system to release a flood of chemicals that can cause you to go into shock — your blood pressure drops suddenly and your airways narrow, blocking breathing. Signs and symptoms include a rapid, weak pulse; a skin rash; and nausea and vomiting. Common triggers include certain foods, some medications, insect venom and latex.Anaphylaxis requires an injection of epinephrine and a follow-up trip to an emergency room. If you don't have epinephrine, you need to go to an emergency room immediately. If anaphylaxis isn't treated right away, it can be fatal.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_CRP_JM_MED</LocID>                         
-		 <Text>Meniere's Disease (Mild)</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_CRP_JM_MED_DESCRIPTION</LocID>             
-		 <Text>Meniere's disease is a disorder of the inner ear that can lead to dizzy spells (vertigo) and hearing loss. In most cases, Meniere's disease affects only one ear.Meniere's disease can occur at any age, but it usually starts between young and middle-aged adulthood. It's considered a chronic condition, but various treatments can help relieve symptoms and minimize the long-term impact on your life. </Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_CRP_JM_CLA</LocID>                         
-		 <Text>Cholesteatoma</Text>	
-		</GameDBLocalizedString>
-		
-        <GameDBLocalizedString>      
-		 <LocID>DIA_CRP_JM_CLA_DESCRIPTION</LocID>             
-		 <Text>Cholesteatoma is a destructive and expanding growth consisting of keratinizing squamous epithelium in the middle ear and/or mastoid process. Cholesteatomas are not cancerous as the name may suggest, but can cause significant problems because of their erosive and expansile properties. This can result in the destruction of the bones of the middle ear (ossicles), as well as growth through the base of the skull into the brain. They often become infected and can result in chronically draining ears. Treatment almost always consists of surgical removal.</Text>  
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_CRP_JM_HFM</LocID>                         
-		 <Text>Hand Foot Mouth Disease (Obsolete)</Text>	
-		</GameDBLocalizedString>
-		
-		<GameDBLocalizedString>      
-		 <LocID>DIA_CRP_JM_OSA</LocID>                         
-		 <Text>Obstructive Sleep Apnea (Obsolete)</Text>	
-		</GameDBLocalizedString>
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>
