@@ -30,24 +30,34 @@ Otorhinolaryngology (By James B)
 
 ============================== Changelog ==============================
 
-==0.1.4.5v (Patch 17)==
+==01.4.8v (Bug Fix)==
+BUG FIXES:
 
-New Additions:
+Fixed up some Localisation
+Fixed up Biopsy bug
+Did some minor changes
 
-- Converted to CRP
-- Moved ENT content to CRP
-- Added 2 new rooms - ENT Lab and Endoscopy Room
-- Added 27 new diagnoses
-- Added tons and tons of symptoms, icons, treatments and exams alongside the diagnoses.
-- Old diagnoses moved to obsolete (Will remove after 2 weeks - 1 month)
-- Fixed some localisation
-- Arranged some files
-- Added Prefabs!
-- Changed preview back to normal
+==0.1.4.5v==
+MAJOR UPDATE
 
-Bug fixes:
+Version 0.1.4.5 (Patch 17)
 
-None
+ADDITIONS AND CHANGES:
+
+Converted to CRP
+Moved ENT content to CRP
+Added 2 new rooms - ENT Lab and Endoscopy Room
+Added 27 new diagnoses
+Added tons and tons of symptoms, icons, treatments and exams alongside the diagnoses.
+Old diagnoses moved to obsolete (Will remove after 2 weeks - 1 month)
+Fixed some localisation
+Arranged some files
+Added Prefabs!
+Changed preview back to normal
+
+BUG FIXES:
+
+Fixed HDU treatment bug
 
 ==0.1.4.0v (Bug Fix)==
 
