@@ -1,0 +1,150 @@
+<Database>
+	<GameDBStringTable ID="LOC_JA_ADDON_OTOR_TREATMENTS">
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+		<Contributors>
+			<Name>James B</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+		<LocalizedStrings>
+			<!-- Treatments -->
+			<!-- Surgery -->
+
+			<GameDBLocalizedString>
+				<LocID>SURG_OTOR_CDLS</LocID>
+				<Text>炭酸ガスレーザー手術</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SURG_OTOR_CDLS_DESCRIPTION</LocID>
+				<Text>炭酸ガスレーザー（CO2レーザー）は、最も早く開発されたガスレーザーの一つです。1964年にベル研究所のクマール・パテルが発明したもので、現在入手可能な連続波レーザーの中で最も高出力かつ効率も高く、ポンプ出力に対する出力の割合は20％にも達します。炭酸ガスレーザーは、9.4マイクロメートルと10.6マイクロメートルを中心とした主な波長帯の赤外光を発生させます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SURG_OTOR_ARHN</LocID>
+				<Text>ノーズインプラント</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SURG_OTOR_ARHN_DESCRIPTION</LocID>
+				<Text>鼻の形を整えるため、ノーズインプラントによる補強を行います。補強は、美的観点と機能的観点の両方から必要となります。機能的な理由としては、上部または下部の外側軟骨など、材料が不足している部分を構造的にサポートすることが挙げられます。また、審美的な理由で補強が必要な場合もあります。一般的に、ノーズインプラントは、横顔の鼻甲介の突出量を増やすために行われます。また、鼻先を大きくすることもあります。さらに、骨背や上部または下部の外側軟骨の凹凸をカモフラージュするために行うこともあります。 </Text>
+			</GameDBLocalizedString>
+
+			<!-- Surgery from other departments -->
+
+			<GameDBLocalizedString>
+				<LocID>SURG_OTOR_ENDOSCOPIC_CAUTERIZATION</LocID>
+				<Text>内視鏡的焼灼療法</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SURG_OTOR_PULMONARY_SURGERY_X</LocID>
+				<Text>肺外科手術</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SURG_OTOR_PULMONARY_SURGERY_X_DESCRIPTION</LocID>
+				<Text>肺外科手術とは、損傷した肺組織の一部を修復または除去するために行う手術です。 \n\n必要な部屋：外傷外科の手術室＋集中治療部</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SURG_OTOR_VASCULAR_SURGERY</LocID>
+				<Text>血管外科手術</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SURG_OTOR_VASCULAR_SURGERY_DESCRIPTION</LocID>
+				<Text>損傷した動脈を縫って固定する外科手術です。 \n\n必要な部屋：外傷外科の手術室＋集中治療部</Text>
+			</GameDBLocalizedString>
+
+			<!-- Treatments -->
+			<!-- Sprays, a course of therapy and pills -->
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_CHEWING_GUM_OR_YAWN</LocID>
+				<Text>ガムを噛む・あくびをする</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_CHEWING_GUM_OR_YAWN_DESC</LocID>
+				<Text>ガムを噛んだり、あくびをしたりすることで、耳管が開き、耳の中の圧力が軽減されます。 \n\n必要な部屋：耳鼻咽喉科診断室/耳鼻咽喉科診察室/集中治療部/観察室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_ANTACIDS</LocID>
+				<Text>制酸剤</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_ANTACIDS_DESC</LocID>
+				<Text>制酸剤は胃酸を中和する薬で、胸やけや消化不良、逆流を解消するために使用されます。\n\n必要な部屋：耳鼻咽喉科診断室/耳鼻咽喉科診察室/集中治療部/観察室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- New -->
+				<LocID>TRT_JM_CDLS</LocID>
+				<Text>炭酸ガスレーザー</Text>
+			</GameDBLocalizedString>
+
+			<!-- Intubation and Intravenous Infusions -->
+
+			<!-- MISC Treatments -->
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_CONCETRATED_OXYGEN</LocID>
+				<Text>濃酸素呼吸</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_CONCETRATED_OXYGEN_DESCRIPTION</LocID>
+				<Text>濃縮された酸素を呼吸することで行う治療法です。 \n\n必要な部屋：院内診察室/観察室/外傷外科の熱傷治療室/集中治療部/外傷センター</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_PROTECTIVE_DRESSING</LocID>
+				<Text>包帯での保護</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_PROTECTIVE_DRESSING_DESCRIPTION</LocID>
+				<Text>包帯による患部の保護を行います。 \n\n必要な部屋：院内診察室/観察室/外傷外科の熱傷治療室/集中治療部/外傷センター</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_DEBRIDEMENT</LocID>
+				<Text>壊死組織除去術</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_DEBRIDEMENT_DESCRIPTION</LocID>
+				<Text>壊死組織を医療的に除去します。 \n\n必要な部屋：院内診察室/観察室/外傷外科の熱傷治療室/集中治療部/外傷センター</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_BURN_MANAGEMENT</LocID>
+				<Text>火傷処置</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_BURN_MANAGEMENT_DESCRIPTION</LocID>
+				<Text>様々な種類の火傷を治すための医療処置です。 \n\n必要な部屋：院内診察室/観察室/外傷外科の熱傷治療室/集中治療部/外傷センター</Text>
+			</GameDBLocalizedString>
+
+			<!-- Obselete -->
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES</LocID>
+				<Text>抗ヒスタミン剤の静脈投与</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRT_JM_INTRAVENOUS_ANTIHISTAMINES_DESC</LocID>
+				<Text>抗ヒスタミン剤の静脈内投与を行います。 \n\n必要な部屋：部屋全般および院内診察室</Text>
+			</GameDBLocalizedString>
+
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

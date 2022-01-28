@@ -1,0 +1,1052 @@
+<Database>
+	<GameDBStringTable ID="LOC_JA_ADDON_OTOR_SYMPTOMS">
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+		<Contributors>
+			<Name>James B</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+		<LocalizedStrings>
+			<!-- Symptoms -->
+
+			<!-- Section Nose -->
+			<!-- Nasal Symptoms -->
+
+
+			<!-- Nasal Main Symptoms -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_NASAL_POLYPS</LocID>
+				<Text>鼻ポリープ（篩骨）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_NASAL_POLYPS_DESCRIPTION</LocID>
+				<Text>鼻ポリープとは、鼻腔や副鼻腔の内壁にできる、痛みのない柔らかい非癌性の成長物です。涙袋やブドウのように垂れ下がっています。慢性的な炎症が原因で発生します。鼻ポリープには、主に篩骨と後鼻孔の2種類があります。篩骨ポリープは、篩骨洞から発生し、中腔を通って鼻腔内に入ります。後鼻孔ポリープは、通常、上顎洞で発生し、鼻咽頭に達するもので、鼻ポリープ全体の4～6％に過ぎません。鼻ポリープの大きさに応じて、生理食塩水による治療や手術を行います。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_NASAL_OBSTRUCTION</LocID>
+				<Text>鼻炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_NASAL_OBSTRUCTION_DESCRIPTION</LocID>
+				<Text>医師からは鼻の炎症が認められ、CTや鼻腔内の検査では鼻ポリープは見つかりませんでした。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_FUNGAL_INFECTION_OF_SINUS</LocID>
+				<Text>副鼻腔でのアスペルギルス検出</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_FUNGAL_INFECTION_OF_SINUS_DESCRIPTION</LocID>
+				<Text>喀痰培養で副鼻腔にアスペルギルス真菌が検出されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_ENS_FINDINGS</LocID>
+				<Text>空鼻症候群の発見</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_ENS_FINDINGS_DESCRIPTION</LocID>
+				<Text>CTスキャンにより空鼻症候群の所見が認められました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_DEVIATED_NASAL_SEPTUM</LocID>
+				<Text>鼻中隔の彎曲</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_DEVIATED_NASAL_SEPTUM_DESCRIPTION</LocID>
+				<Text>鼻腔検査の結果、患者の鼻中隔の彎曲が認められました。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_FACE_LACERATION</LocID>
+				<Text>顔の裂傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_FACE_LACERATION_DESCRIPTION</LocID>
+				<Text>患者の顔に裂傷が存在します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_SWOLLEN_NASAL_TURBINATE</LocID>
+				<Text>鼻甲介部の腫れ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_SWOLLEN_NASAL_TURBINATE_DESCRIPTION</LocID>
+				<Text>患者の鼻甲介部に腫れが生じています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_DYSOSMIA_CONFIRMED</LocID>
+				<Text>睡眠異常の確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_DYSOSMIA_CONFIRMED_DESCRIPTION</LocID>
+				<Text>医師は、患者の睡眠異常を確認しました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_SQUAMOUS_CELL_NOSE</LocID>
+				<Text>鼻腔内の扁平上皮癌の発見</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_SQUAMOUS_CELL_NOSE_DESCRIPTION</LocID>
+				<Text>生体組織検査で鼻腔内に扁平上皮癌の腫瘍が発見されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_ADENOCARCINOMA_NOSE</LocID>
+				<Text>鼻腔内の腺癌の発見</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_ADENOCARCINOMA_NOSE_DESCRIPTION</LocID>
+				<Text>生体組織検査で鼻腔内に腺癌の腫瘍が発見されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_MELANOMA_NOSE</LocID>
+				<Text>鼻腔内の悪性黒色腫の発見</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_MELANOMA_NOSE_DESCRIPTION</LocID>
+				<Text>生体組織検査で鼻腔内に悪性黒色腫と思われる腫瘍が発見されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_NOSE</LocID>
+				<Text>鼻の中の異物混入</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_NOSE_DESCRIPTION</LocID>
+				<Text>患者の鼻に異物が存在します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_SNORE</LocID>
+				<Text>いびき</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_NA_RH</LocID>
+				<Text>非アレルギー性鼻炎の確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_NA_RH_DESCRIPTION</LocID>
+				<Text>非アレルギー性鼻炎の症例が確認されました。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_ASN_CONFIRM</LocID>
+				<Text>アレルギー性副鼻腔炎の確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_ASN_CONFIRM_DESCRIPTION</LocID>
+				<Text>アレルギー性副鼻腔炎の症例が確認されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_COLLAPSED_SINUS</LocID>
+				<Text>副鼻腔の変形</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_COLLAPSED_SINUS_DESCRIPTION</LocID>
+				<Text>患者は副鼻腔の変形による顔の変形を引き起こしています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_ACUTE_RHINOSINUSITIS</LocID>
+				<Text>鼻・副鼻腔の急性感染症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_ACUTE_RHINOSINUSITIS_DESCRIPTION</LocID>
+				<Text>患者は鼻と副鼻腔の急性感染症で急性鼻副鼻腔炎を引き起こしています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_CHRONIC_RHINOSINUSITIS</LocID>
+				<Text>鼻や副鼻腔の慢性的な炎症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_CHRONIC_RHINOSINUSITIS_DESCRIPTION</LocID>
+				<Text>患者の鼻と副鼻腔に慢性的な炎症が生じており、慢性鼻副鼻腔炎を引き起こしています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_RHINOPHYMA</LocID>
+				<Text>鼻瘤の確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_RHINOPHYMA_DESCRIPTION</LocID>
+				<Text>生体組織検査によって鼻ポリープのような腫瘤／鼻過剰な組織、皮脂、細菌、皮脂腺を発見しました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_CLEFT_LIP_PALATE</LocID>
+				<Text>唇と口蓋の裂傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_CLEFT_LIP_PALATE_DESCRIPTION</LocID>
+				<Text>患者が口唇口蓋裂について医師に伝えた／医師が患者に口唇・口蓋裂があることを確認しました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_PROBLEMATIC_BLOOD_VESSELS_N</LocID>
+				<Text>血管の異常</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_PROBLEMATIC_BLOOD_VESSELS_N_DESCRIPTION</LocID>
+				<Text>鼻腔鏡検査で、患者の鼻の血管に異常が見つかりました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_INVERTED_PAPILLOMA_N</LocID>
+				<Text>鼻のヒト乳頭腫ウイルスによる腫瘍</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_INVERTED_PAPILLOMA_N_DESCRIPTION</LocID>
+				<Text>生体組織検査の結果、ヒト乳頭腫ウイルス（HPV）による良性腫瘍が鼻に見つかりました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_NASAL_POLYPS_S</LocID>
+				<Text>鼻ポリープ（後鼻孔）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_NASAL_POLYPS_S_DESCRIPTION</LocID>
+				<Text>鼻ポリープとは、鼻腔や副鼻腔の内壁にできる、痛みのない柔らかい非癌性の成長物です。涙袋やブドウのように垂れ下がっています。慢性的な炎症が原因で発生します。鼻ポリープには、主に篩骨と後鼻孔の2種類があります。篩骨ポリープは、篩骨洞から発生し、中腔を通って鼻腔内に入ります。後鼻孔ポリープは、通常、上顎洞で発生し、鼻咽頭に達するもので、鼻ポリープ全体の4～6％に過ぎません。鼻ポリープの大きさに応じて、生理食塩水による治療や手術を行います。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_SADDLE_NOSE</LocID>
+				<Text>鼻腔の外傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_SADDLE_NOSE_DESCRIPTION</LocID>
+				<Text>患者は外傷で鼻がつぶれてしまっています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_PERFORATED_SEPTUM</LocID>
+				<Text>鼻中隔の穿孔</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_PERFORATED_SEPTUM_DESCRIPTION</LocID>
+				<Text>患者の鼻中隔に穿孔があります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_SEPTAL_CLOT</LocID>
+				<Text>中隔血栓</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_SEPTAL_CLOT_DESCRIPTION</LocID>
+				<Text>患者が鼻の外傷を経験した後、鼻中隔に血栓ができています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_MENINGES_DEFORMITY</LocID>
+				<Text>脳漿と脳組織の異常</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_MENINGES_DEFORMITY_DESCRIPTION</LocID>
+				<Text>CTやMRIで、頭蓋骨の変形による脳漿、脳組織、髄膜の異常が見つかった。</Text>
+			</GameDBLocalizedString>
+
+			<!-- Nasal Obselete Symptoms (Main and normal) -->
+
+			<!-- Section Ear -->
+			<!-- Ear Related Symptoms -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_RINGING_IN_THE_EARS</LocID>
+				<Text>耳鳴り</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_EAR_FLUID_DRAINAGE</LocID>
+				<Text>耳漏</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_SWOLLEN_EAR_CANAL</LocID>
+				<Text>外耳道の腫れ</Text>
+			</GameDBLocalizedString>
+
+			<!-- Ear Related Main Symptoms -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_SEVERE_MENIERES</LocID>
+				<Text>重度のメニエール症例を確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_SEVERE_MENIERES_DESCRIPTION</LocID>
+				<Text>重度のメニエール病の症例が確認されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_M_RUPTURED_EAR_DRUM</LocID>
+				<Text>鼓膜の破裂</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_M_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>
+				<Text>患者の鼓膜が破裂しています。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_S_RUPTURED_EAR_DRUM</LocID>
+				<Text>鼓膜の破裂（未治癒）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_S_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>
+				<Text>患者の鼓膜が破裂しており、まだ完治していません。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_EAR_INFECTED</LocID>
+				<Text>耳の感染症の確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_EAR_INFECTED_DESCRIPTION</LocID>
+				<Text>患者に耳の感染症が見つかりました。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_FLUID_IN_MIDDLE_EAR</LocID>
+				<Text>中耳内に液体を確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_FLUID_IN_MIDDLE_EAR_DESCRIPTION</LocID>
+				<Text>患者の中耳に液体が発見されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_BAROTRAUMA</LocID>
+				<Text>気圧性外傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_BAROTRAUMA_DESCRIPTION</LocID>
+				<Text>医師は気圧差によって起こる外傷を確認しました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_SEVERED_EAR</LocID>
+				<Text>耳の分離</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_SEVERED_EAR_DESCRIPTION</LocID>
+				<Text>患者の耳は外傷により切断されています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_PERICHONDRIAL_HEMATOMA</LocID>
+				<Text>耳の中の血栓</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_PERICHONDRIAL_HEMATOMA_DESCRIPTION</LocID>
+				<Text>患者の耳には血栓が認められます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_EAR</LocID>
+				<Text>耳への異物混入</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_EAR_DESCRIPTION</LocID>
+				<Text>患者の耳に異物が挟まっています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_VESTIBULAR_NEURITIS</LocID>
+				<Text>前庭神経の炎症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_VESTIBULAR_NEURITIS_DESCRIPTION</LocID>
+				<Text>患者の前庭神経は炎症を起こしています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_VESTIBULAR_TUMOR</LocID>
+				<Text>前庭神経での腫瘍の発見</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_VESTIBULAR_TUMOR_DESCRIPTION</LocID>
+				<Text>この患者の前庭神経には腫瘍ができています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_EAR_WAX_BLOCKAGE</LocID>
+				<Text>耳垢の詰まりが判明</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_EAR_WAX_BLOCKAGE_DESCRIPTION</LocID>
+				<Text>患者の耳は耳垢で塞がれています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_EAR_WAX_REMOVAL</LocID>
+				<Text>耳垢の除去</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_EAR_WAX_REMOVAL_DESCRIPTION</LocID>
+				<Text>患者が耳垢の除去を希望しています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_BPPV</LocID>
+				<Text>良性発作性頭位めまい症（BPPV）の疑い</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_BPPV_DESCRIPTION</LocID>
+				<Text>関連するすべての可能性のある病気が除外されたため、医師は患者が良性発作性頭位めまい症（BPPV）であると疑っています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_M</LocID> <!-- NEW -->
+				<Text>ABR（聴性脳幹反応）検査・音響反射検査での異常（軽度）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_M_DESCRIPTION</LocID>
+				<Text>医師が行った聴覚スクリーニング検査では、外毛細胞の機能は正常であるにも関わらず、聴性脳幹反応(ABR)検査・音響反射検査での軽度な反応欠落が起きています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_S</LocID>
+				<Text>ABR（聴性脳幹反応）検査・音響反射検査での異常（重度）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_S_DESCRIPTION</LocID>
+				<Text>医師が行った聴覚スクリーニング検査では、外毛細胞の機能は正常であるにも関わらず、聴性脳幹反応(ABR)検査・音響反射検査での重度の反応欠落が確認されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_PRESBYCUSIS_M</LocID>
+				<Text>加齢性難聴（軽度）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_PRESBYCUSIS_M_DESCRIPTION</LocID>
+				<Text>医師が評価と聴力検査を行った結果、この患者は老齢性難聴であり、幸いにも軽度であるとの結論に達しました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_PRESBYCUSIS_S</LocID>
+				<Text>加齢性難聴（重度）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_PRESBYCUSIS_S_DESCRIPTION</LocID>
+				<Text>医師が評価と聴力検査を行った結果、この患者は老齢性難聴であり、残念ながら重度であると結論付けられました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_LABYRINTHITIS</LocID>
+				<Text>前庭および蝸牛神経の炎症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_LABYRINTHITIS_DESCRIPTION</LocID>
+				<Text>MRIやCT検査で前庭神経と蝸牛神経の両方に炎症が見られたことから、内耳炎が疑われています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_OTOPHYMA</LocID>
+				<Text>耳の腫れ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_OTOPHYMA_DESCRIPTION</LocID>
+				<Text>患者の耳が腫れており、医師はこの患者が耳瘤腫症と呼ばれる非常に稀な病気であると結論づけました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_ADENOCARCINOMA_EAR</LocID>
+				<Text>耳介に腺癌を発見</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_ADENOCARCINOMA_EAR_DESCRIPTION</LocID>
+				<Text>生体組織検査により耳介に腺癌の腫瘍が見つかりました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_SQUAMOUS_CELL_EAR</LocID>
+				<Text>耳介に扁平上皮癌を発見</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_SQUAMOUS_CELL_EAR_DESCRIPTION</LocID>
+				<Text>生体組織検査により耳介に扁平上皮癌の腫瘍が見つかりました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_MELANOMA_EAR</LocID>
+				<Text>耳介に悪性黒色腫を発見</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_MELANOMA_EAR_DESCRIPTION</LocID>
+				<Text>生体組織検査により耳介に悪性黒色腫が見つかりました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_E</LocID>
+				<Text>悪性耳介感染症（外耳道）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_E_DESCRIPTION</LocID>
+				<Text>緑膿菌による悪性感染症が外耳道で見つかりました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_M</LocID>
+				<Text>悪性耳介感染症（中耳腔）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_M_DESCRIPTION</LocID>
+				<Text>緑膿菌による悪性感染症が中耳腔で見つかりました。</Text>
+			</GameDBLocalizedString>
+
+			<!-- Obselete Ear Symptoms (Main and Normal) -->
+
+			<!-- Section Throat and Mouth -->
+			<!-- Throat and Mouth Related Symptoms -->
+
+
+			<!-- Throat and Mouth Related Main Symptoms -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_HPV_FOUND</LocID>
+				<Text>喉でのヒト乳頭腫ウイルス検出</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_HPV_FOUND_DESCRIPTION</LocID>
+				<Text>生体組織検査によりヒト乳頭腫ウイルス（HPV）が検出されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_BLUNT_LARYNX_CONTUSION</LocID>
+				<Text>喉頭外傷を確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_BLUNT_LARYNX_CONTUSION_DESCRIPTION</LocID>
+				<Text>喉頭外傷の症例が確認されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_BLUNT_LARYNX_LACERATION</LocID>
+				<Text>喉頭への穿孔を確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_BLUNT_LARYNX_LACERATION_DESCRIPTION</LocID>
+				<Text>喉頭への穿孔が確認されました。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_VCN</LocID>
+				<Text>声帯結節の確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_VCN_DESCRIPTION</LocID>
+				<Text>喉頭鏡による観察で声帯結節が発見されました。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_ACUTE_S_SIA</LocID>
+				<Text>急性化膿性唾液腺炎を確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_ACUTE_S_SIA_DESCRIPTION</LocID>
+				<Text>患者は急性化膿性唾液腺炎であると診断されました。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_CHRONIC_SIA</LocID>
+				<Text>慢性唾液腺炎の確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_CHRONIC_SIA_DESCRIPTION</LocID>
+				<Text>患者は慢性唾液腺炎であると診断されました。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_SQUAMOUS_CELL_THROAT</LocID>
+				<Text>咽頭に発見された扁平上皮癌</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_SQUAMOUS_CELL_THROAT_DESCRIPTION</LocID>
+				<Text>生体組織検査で咽頭部に癌の扁平上皮癌の腫瘍が発見されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_ADENOCARCINOMA_THROAT</LocID>
+				<Text>咽頭部に腺癌を発見</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_ADENOCARCINOMA_THROAT_DESCRIPTION</LocID>
+				<Text>生体組織検査で咽頭部に腺癌という癌の腫瘍が発見されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_MELANOMA_THROAT</LocID>
+				<Text>咽頭に見つかった悪性黒色腫</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_MELANOMA_THROAT_DESCRIPTION</LocID>
+				<Text>生体組織検査で咽頭部に悪性黒色腫の腫瘍が発見されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_CHRONIC_PHARYNGITIS</LocID>
+				<Text>慢性咽頭炎の確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_CHRONIC_PHARYNGITIS_DESCRIPTION</LocID>
+				<Text>医師は、患者が慢性咽頭炎の所見を認めました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_LARYNGEAL_PARALYSIS</LocID>
+				<Text>声帯麻痺</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_LARYNGEAL_PARALYSIS_DESCRIPTION</LocID>
+				<Text>医師は、声帯（喉頭）が麻痺している兆候を確認しました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_OSA_FINDINGS</LocID>
+				<Text>閉塞性睡眠時無呼吸症候群の所見</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_OSA_FINDINGS_DESCRIPTION</LocID>
+				<Text>ポリソムノグラフィーにより、患者に閉塞性睡眠時無呼吸症候群の所見が認められました。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_BLUNT_PHARYNX_CONTUSION</LocID>
+				<Text>咽頭部外傷を確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_BLUNT_PHARYNX_CONTUSION_DESCRIPTION</LocID>
+				<Text>咽頭部外傷の症例が確認されました。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_BLUNT_PHARYNX_LACERATION</LocID>
+				<Text>咽頭の穿孔を確認</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_BLUNT_PHARYNX_LACERATION_DESCRIPTION</LocID>
+				<Text>咽頭の穿孔の症例が確認されました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_COLLAPSED_TRACHEA</LocID>
+				<Text>気管の変形</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_COLLAPSED_TRACHEA_DESCRIPTION</LocID>
+				<Text>患者の気管・気管支が潰れており、早急な手術が必要です。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_CHRONIC_LARYNGITIS</LocID>
+				<Text>慢性的な喉頭の炎症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_CHRONIC_LARYNGITIS_DESCRIPTION</LocID>
+				<Text>この患者の喉頭（声帯）は3ヶ月以上にわたって炎症を起こしています。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_CSA_FINDINGS</LocID>
+				<Text>中枢性睡眠時無呼吸の診断</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_CSA_FINDINGS_DESCRIPTION</LocID>
+				<Text>ポリソムノグラフィーにより、患者に中枢性睡眠時無呼吸症候群の所見が認められました。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_VC_EDEMA</LocID>
+				<Text>声帯浮腫</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_VC_EDEMA_DESCRIPTION</LocID>
+				<Text>喉頭（声帯）に液体が溜まっている状態です。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_VC_OVERUSE</LocID>
+				<Text>声帯の酷使</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_VC_OVERUSE_DESCRIPTION</LocID>
+				<Text>声帯が酷使されているため、異常が生じています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_CHRONIC_TONSILITIS</LocID>
+				<Text>慢性扁桃炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>SYM_CRP_JM_CHRONIC_TONSILITIS_DESCRIPTION</LocID>
+				<Text>患者は扁桃腺の再発性感染症/慢性感染症を経験しています。</Text>
+			</GameDBLocalizedString>
+
+			<!-- Throat and Mouth Related Obselete Symptoms (Main and Normal) -->
+
+			<!-- Other Symptoms -->
+
+			<!-- Misc -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_LARGE_ARTERIES_DAMAGED</LocID>
+				<Text>大動脈の損傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_LARGE_ARTERIES_DAMAGED_DESCRIPTION</LocID>
+				<Text>一部の太い動脈が損傷を受けており、生命に関わる合併症を引き起こす可能性があります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_FOREIGN_OBJECT_PRESENT</LocID>
+				<Text>異物の存在</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_FOREIGN_OBJECT_PRESENT_DESCRIPTION</LocID>
+				<Text>異物や破片が傷口に残っており、重篤な合併症を引き起こす可能性があります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_LUNGS_PERFORATED</LocID>
+				<Text>肺の穿孔</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_LUNGS_PERFORATED_DESCRIPTION</LocID>
+				<Text>肺の膜や組織に穿孔があります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_BLISTERS</LocID>
+				<Text>水疱</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_BLISTERS_DESCRIPTION</LocID>
+				<Text>水疱とは皮膚の上層部（表皮）と下層部の間にできた小さな液体のポケットのことで、主に皮膚の摩擦や火傷によって起こります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_DESQUAMATION</LocID>
+				<Text>皮膚の剥離</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_DESQUAMATION_DESCRIPTION</LocID>
+				<Text>落屑とも呼ばれ、皮膚の一番外側の層が剥がれ落ちることを指します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_DARK_SKIN</LocID>
+				<Text>皮膚の黒ずみ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_DARK_SKIN_DESCRIPTION</LocID>
+				<Text>皮膚の異常なくすみ、黒化を指します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_NECROSIS</LocID>
+				<Text>壊死</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_NECROSIS_DESCRIPTION</LocID>
+				<Text>自身の酵素によって引き起こされる組織の早死状態です。組織への血流が少なすぎる場合に起こります。損傷、放射線、化学物質などが原因となります。一般に元には戻りません。</Text>
+			</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_GUNSHOT_WOUND</LocID>
+				<Text>銃創</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_GUNSHOT_WOUND_DESCRIPTION</LocID>
+				<Text>銃器から発射された弾丸によって身体に引き起こされた傷です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_BALLISTIC_WOUND</LocID>
+				<Text>弾道創</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_BALLISTIC_WOUND_DESCRIPTION</LocID>
+				<Text>投射物によって身体に引き起こされた傷です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_STAB_WOUND</LocID>
+				<Text>刺創</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_STAB_WOUND_DESCRIPTION</LocID>
+				<Text>刃物により刺されるなどで発生した傷です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_PENETRATING_WOUND</LocID>
+				<Text>貫通創</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_PENETRATING_WOUND_DESCRIPTION</LocID>
+				<Text>異物の侵入・貫通により発生した傷です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_BLAST_WOUND</LocID>
+				<Text>爆風による傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_BLAST_WOUND_DESCRIPTION</LocID>
+				<Text>爆発によって生じた傷のことです。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_BURN_WOUND</LocID>
+				<Text>熱傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_BURN_WOUND_DESCRIPTION</LocID>
+				<Text>熱、寒さ、電気、化学物質、摩擦、放射線などが原因で、皮膚やその他の組織に影響を与える火傷のことです。</Text>
+			</GameDBLocalizedString>
+
+
+			<!-- Facial Symptoms -->
+
+			<!-- Section Blood -->
+			<!-- Blood related Symptoms -->
+
+
+			<!-- Section Skin -->
+			<!-- Skin related Symptoms -->
+
+			<!-- Section Microbiology -->
+			<!-- Virology and Bacterology related Symptoms -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_COXSACK</LocID>
+				<Text>コクサッキーウイルスA16型の検出</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_COXSACK_DESCRIPTION</LocID>
+				<Text>コクサッキーウイルスは、ピコルナウイルス科に属する数種類の近縁のエンテロウイルスで、非エンベロープ型、直鎖型、ポジティブセンスの一本鎖RNAウイルスです。通常、手足口病の原因となります。このウイルスに対する治療法はなく、感染が終わるまで待つしかありません。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_STAPHY</LocID>
+				<Text>化膿性レンサ球菌の検出</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_STAPHY_DESCRIPTION</LocID>
+				<Text>化膿性レンサ球菌、すなわちA群連鎖球菌（GAS）は、連鎖的に増殖する通性のグラム陽性球菌であり、咽頭炎、扁桃炎、猩紅熱、蜂巣炎、丹毒、リウマチ熱、連鎖球菌感染症後の糸球体腎炎、壊死性筋膜炎、筋壊死、リンパ管炎など、ヒトに多くの感染症を引き起こします。自然界におけるGASの唯一の貯蔵庫は、ヒトの皮膚や粘膜であることが知られています。GASが引き起こす臨床疾患についてはよく知られていますが、その根底にある発病メカニズムはあまり理解されていません。これは、それぞれの疾患が、ヒトの宿主の防御機構と連鎖球菌の特定の病原因子との間の非常に複雑な相互作用の結果であることが主な理由です。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_C_DIPHTHERIAE</LocID>
+				<Text>ジフテリア菌の検出</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_C_DIPHTHERIAE_DESCRIPTION</LocID>
+				<Text>患者からジフテリア菌が発見されました。 </Text>
+			</GameDBLocalizedString>
+
+			<!-- Section Stomach -->
+			<!-- Digestive System related symptoms -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_ACID_REFLUX</LocID>
+				<Text>逆流性食道炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_ACID_REFLUX_DESCRIPTION</LocID>
+				<Text>逆流性食道炎の症例は、胸や喉が焼けるように痛むことです。胃酸が食道に逆流したときに起こります。治療には、制酸剤やプロトンポンプ阻害剤が用いられます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_HYPERACIDITY</LocID>
+				<Text>胃酸過多</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_JM_HYPERACIDITY_DESCRIPTION</LocID>
+				<Text>胃酸過多とは、胃が胃酸を過剰に分泌している状態のことです。 </Text>
+			</GameDBLocalizedString>
+
+			<!-- Digestive System related main symptoms -->
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_GERD_SUSPECTED</LocID>
+				<Text>胃食道逆流症の疑い</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_CRP_JM_GERD_SUSPECTED_DESCRIPTION</LocID>
+				<Text>医師は、患者のすべての症状を評価した結果、胃食道逆流症であると結論づけました。 </Text>
+			</GameDBLocalizedString>
+
+			<!-- Section Lungs -->
+			<!-- Lung related symptoms -->
+
+
+			<!-- Section Nervous System -->
+			<!-- Nervous System related symptoms -->
+
+
+			<!-- Obeselete -->
+
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

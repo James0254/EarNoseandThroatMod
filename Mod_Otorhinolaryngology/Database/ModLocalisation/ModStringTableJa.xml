@@ -1,0 +1,18 @@
+<Database>
+	<GameDBStringTable ID="LOC_JA_ADDON_MOD_OTORHINOLARYNGOLOGY">
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+		<Contributors>
+			<Name>James B</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<GameDBLocalizedString>
+				<LocID>ADDON_MOD_OTORHINOLARYNGOLOGY</LocID>
+				<Text>耳鼻咽喉科</Text>
+			</GameDBLocalizedString>
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

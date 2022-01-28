@@ -1,0 +1,318 @@
+<Database>
+
+	<GameDBStringTable ID="LOC_JA_ADDON_OTOR_BUILDING_MODE">
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+		<Contributors>
+			<Name>James B</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+			<!-- ### ### -->
+			<!-- ######################################## V0.10 Below ######################################## -->
+			<!-- ### ### -->
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OTOR_OFFICE</LocID>
+				<Text>耳鼻咽喉科診察室</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OTOR_OFFICE_DESCRIPTION</LocID>
+				<Text>耳鼻咽喉科診察室は外来患者用の基本的な診察室です。\n必要スタッフ: \n1x 医師</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE</LocID>
+				<Text>診断室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_INPATIENT_OTOR_OFFICE_DESC</LocID>
+				<Text>耳鼻咽喉科の診断室では入院患者に対し検査と治療のための一連の手続きが行われます。 \n\nスタッフの最低条件: \n1x 医師 \n(当直室の職員)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR</LocID>
+				<Text>聴力検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_DIAGNOSTIC_SONOGRAPHY_UNIT_OTOR_DESCRIPTION</LocID>
+				<Text>超音波検査室では超音波を利用した検査と治療が行われます。 \n\nスタッフの最低条件: \n1x 技師 - 超音波装置</Text>
+			</GameDBLocalizedString>
+
+			<!-- NEW -->
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OTOR_SLEEP_LAB</LocID>
+				<Text>睡眠検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OTOR_SLEEP_LAB_DESC</LocID>
+				<Text>耳鼻咽喉科の睡眠検査室では、睡眠時無呼吸症候群の可能性がある患者の睡眠検査を行います。 \n\nスタッフの最低条件: \n1x 医師 \n(当直室の職員)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR</LocID>
+				<Text>聴力検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_DIAGNOSTIC_AUDIOGRAM_UNIT_OTOR_DESC</LocID>
+				<Text>耳鼻咽喉科の聴力検査室では、難聴の可能性のある入院患者の聴力検査を行います。 \n\nスタッフの最低条件: \n1x 技師 - 超音波装置</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OTOR_LAB</LocID>
+				<Text>耳鼻咽喉科検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OTOR_LAB_DESC</LocID>
+				<Text>耳鼻咽喉科検査室では、通常の検査では診断が困難な専門的な疾患に対して、特殊かつ高度な検査を行っています。 \n\nスタッフの最低条件: \n1x 技師 - 生物化学</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OTOR_ENDOSCOPY_UNIT</LocID>
+				<Text>耳鼻咽喉科内視鏡検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ROOM_TYPE_OTOR_ENDOSCOPY_UNIT_DESC</LocID>
+				<Text>耳鼻咽喉科内視鏡検査室は、患者の耳、鼻、喉に腫瘍や異常がないかどうかを確認するために、内視鏡検査を行う特別な部屋です。 \n\nスタッフの最低条件: \n1x 技師 - 超音波装置</Text>
+			</GameDBLocalizedString>
+
+			<!-- ========================= Objects for ENT Version 0.1.3.5 V ========================= -->
+
+			<!-- DECALS -->
+
+			<GameDBLocalizedString>
+				<LocID>ADDON_OBJECT_DECAL_ENT</LocID>
+				<Text>耳鼻咽喉科の装飾</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>ADDON_OBJECT_DECAL_ENT_DESCRIPTION</LocID>
+				<Text>壁のデカールです。</Text>
+			</GameDBLocalizedString>
+
+
+			<!-- DECORS -->
+
+			<GameDBLocalizedString>
+				<LocID>MOD_ENT_OBJECT_BAMBOO</LocID>
+				<Text>竹のオブジェ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_ENT_OBJECT_BAMBOO_DESC</LocID>
+				<Text>装飾用の植物です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_ENT_OBJECT_COVID_POSTER</LocID>
+				<Text>ポスター - COVID-19</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_ENT_OBJECT_COVID_POSTER_DESC</LocID>
+				<Text>装飾用アイテムです。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_ENT_OBJECT_STREP_POSTER</LocID>
+				<Text>ポスター - 咽頭炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_ENT_OBJECT_STREP_POSTER_DESC</LocID>
+				<Text>装飾用アイテムです。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_ENT_OBJECT_EMPTY_SHELF</LocID>
+				<Text>空の本棚</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_ENT_OBJECT_EMPTY_SHELF_DESC</LocID>
+				<Text>装飾用の空の本棚です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_ENT_OBJECT_SHELF</LocID>
+				<Text>薬用棚</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_ENT_OBJECT_SHELF_DESC</LocID>
+				<Text>装飾用の薬用棚です。</Text>
+			</GameDBLocalizedString>
+
+
+			<!-- EQUIPMENT -->
+
+			<GameDBLocalizedString>
+				<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH</LocID>
+				<Text>ポリソムノグラム</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>OBJECT_ENT_OBJECT_POLYSOMGRAPH_DESC</LocID>
+				<Text>ポリソムノグラムとは、睡眠中の患者のさまざまな生理的変数（睡眠ポリグラフ）を記録するために使用される生理反応の検査機器の一種です。睡眠ポリグラフには、心拍数（ECG）、呼吸特性、脳機能（EEG）、筋肉活動（EMG）などが含まれます。</Text>
+			</GameDBLocalizedString>
+
+			<!-- ========================= Prefabs for ENT Version 0.1.4.3 V ========================= -->
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_SMALL_ABBR</LocID>
+				<Text>耳鼻咽喉科診察室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_LARGE_ABBR</LocID>
+				<Text>耳鼻咽喉科診察室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OUTPATIENT_OT_OFFICE_MODERN_ABBR</LocID>
+				<Text>現代的な耳鼻咽喉科診察室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_SMALL_ABBR</LocID>
+				<Text>聴力検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_AUDIOGRAM_UNIT_OT_LARGE_ABBR</LocID>
+				<Text>聴力検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_SMALL_ABBR</LocID>
+				<Text>診断室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_LARGE_ABBR</LocID>
+				<Text>診断室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_INPATIENT_OT_OFFICE_MODERN_ABBR</LocID>
+				<Text>現代的な診断室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_RESTROOM_SMALL_ABBR</LocID>
+				<Text>トイレ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_RESTROOM_ABBR</LocID>
+				<Text>トイレ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_COMMON_ROOM_ABBR</LocID>
+				<Text>休憩室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_CLEANING_CLOSET_ABBR</LocID>
+				<Text>クローゼット</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_SMALL_OT_ABBR</LocID>
+				<Text>医師待機室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_ON_CALL_ROOM_LARGE_OT_ABBR</LocID>
+				<Text>医師待機室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_NURSES_STATION_SMALL_OT_ABBR</LocID>
+				<Text>ナースステーション</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_NURSES_STATION_LARGE_OT_ABBR</LocID>
+				<Text>ナースステーション</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_SMALL_ABBR</LocID>
+				<Text>HDU</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_HIGH_PRIORITY_WARD_LARGE_ABBR</LocID>
+				<Text>HDU</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_SMALL_ABBR</LocID>
+				<Text>一般病棟</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_INPATIENT_WARD_LARGE_ABBR</LocID>
+				<Text>一般病棟</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_SONOGRAPHY_UNIT_OT_ABBR</LocID>
+				<Text>超音波検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_SLEEP_LAB_OT_ABBR</LocID>
+				<Text>睡眠検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>PREFAB_ROOM_OPERATING_THEATRE_OT_ABBR</LocID>
+				<Text>手術室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>PREFAB_ROOM_LOUNGE_OT_ABBR</LocID>
+				<Text>ラウンジ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_LAB_SMALL_ABBR</LocID>
+				<Text>耳鼻咽喉科検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_LAB_ABBR</LocID>
+				<Text>耳鼻咽喉科検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_ENDO_SMALL_ABBR</LocID>
+				<Text>耳鼻咽喉科内視鏡検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>MOD_PREFAB_ROOM_OT_ENDO_ABBR</LocID>
+				<Text>耳鼻咽喉科内視鏡検査室</Text>
+			</GameDBLocalizedString>
+
+			<!-- Misc -->
+
+			<GameDBLocalizedString>
+				<LocID>TOOLTIP_BUILDING_PREFAB_OTORHINOLARYNGOLOGY</LocID>
+				<Text>耳鼻咽喉科</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

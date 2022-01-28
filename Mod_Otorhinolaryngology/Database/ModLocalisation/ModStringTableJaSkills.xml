@@ -1,0 +1,63 @@
+<Database>
+	<GameDBStringTable ID="LOC_JA_ADDON_OTOR_SKILLS">
+
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+		<Contributors>
+			<Name>James B</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<!-- ### Skills ### -->
+
+			<GameDBLocalizedString>
+				<LocID>DPT_OTORHINOLARYNGOLOGY</LocID>
+				<Text>耳鼻咽喉科</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY</LocID>
+				<Text>耳鼻咽喉科</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGY_DESCR</LocID>
+				<Text>耳鼻咽喉科の医師は、様々な形態の耳、鼻、喉の疾患を検出、診断、治療するための専門的な処置を行います。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY</LocID>
+				<Text>頭頸部外科</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SKILL_DOC_SPEC_OTORHINOLARYNGOLOGIC_SURGERY_DESCR</LocID>
+				<Text>頭頸部外科のスキルを持つ医師は、耳鼻咽喉科の主治医としての役割を果たすことができ、手術による合併症の発生頻度を左右します。</Text>
+			</GameDBLocalizedString>
+
+			<!--GameDBLocalizedString>
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_SLEEP_SPECIALIST</LocID>
+		<Text>睡眠医療専門医</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_SLEEP_SPECIALIST_DESCR</LocID>
+		<Text>睡眠医療専門医は患者の睡眠状況を調査し、睡眠時無呼吸症候群の有無を確認します。</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_AUDIOGRAPHY</LocID>
+		<Text>聴覚専門医</Text>
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>
+		<LocID>SKILL_LAB_SPECIALIST_SPEC_AUDIOGRAPHY_DESCR</LocID>
+		<Text>聴覚専門医は聴覚に関連する検査処置を行い、様々な耳の障害や病気を見つけることができます。</Text>
+	</GameDBLocalizedString-->
+
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

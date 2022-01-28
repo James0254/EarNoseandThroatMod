@@ -1,0 +1,234 @@
+<Database>
+	<GameDBStringTable ID="LOC_JA_ADDON_OTOR_EXAMINATIONS">
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+		<Contributors>
+			<Name>James B</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+		<LocalizedStrings>
+			<!-- Examinations -->
+
+			<!-- Ear Examinations -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_OAE</LocID>
+				<Text>耳音響放射検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_OAE_DESCRIPTION</LocID>
+				<Text>OAE(耳音響放射検査)検査は、音に対する内耳の反応の一部をチェックするものです。主に、年齢的に行動学的な聴力検査では検査が行えない乳幼児や子供に対して行われます。 \n\n必要条件：耳鼻咽喉科の診察室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_AUDIOMETRY</LocID>
+				<Text>聴力検査(耳鼻咽喉科)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_AUDIOGRAM</LocID>
+				<Text>オージオグラム</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_AUDIOGRAM_DESCRIPTION</LocID>
+				<Text>オージオグラムとは、オージオメータで測定した標準的な周波数の可聴閾値を示すグラフです。Y軸は強度をデシベルで、X軸は周波数をヘルツで表しています。 \n\n必要な部屋：耳鼻咽喉科の聴力検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_OTOSCOPY</LocID>
+				<Text>耳鏡検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_OTOSCOPY_DESCRIPTION</LocID>
+				<Text>耳鏡検査は、耳の構造、特に外耳道、鼓膜、中耳を調べるための臨床検査です。臨床医は、健康診断や診断の手がかりを得るための検査、特定の耳の症状の評価などにこの方法を用います。 \n\n必要な部屋：耳鼻咽喉科の内視鏡検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_EAR_BIOPSY_SAMPLING</LocID>
+				<Text>耳介生体組織検査（検体採取）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_EAR_BIOPSY_SAMPLING_DESCRIPTION</LocID>
+				<Text>耳介生体組織検査とは、外科的麻酔をかけて外耳道のサンプルを採取する手術です。これは通常、耳の腫瘍が何でできているかを調べるために行われます。 \n\n採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_EAR_BIOPSY_TESTING</LocID>
+				<Text>耳介生体組織検査（検査）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_EAR_BIOPSY_TESTING_DESCRIPTION</LocID>
+				<Text>耳介生体組織検査とは、外科的麻酔をかけて外耳道のサンプルを採取する手術です。これは通常、耳の腫瘍が何でできているかを調べるために行われます。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<!-- Nose Examinations -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RHINOSCOPY</LocID>
+				<Text>鼻腔鏡検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RHINOSCOPY_DESCRIPTION</LocID>
+				<Text>鼻腔鏡検査とは、鼻や喉の中を内視鏡で観察する検査です。鼻の中を見る方法は他にもありますが、これらの方法では医師は鼻腔の中を1インチ程度しか見ることができません。この検査では、鼻の中、喉、咽頭扁桃、声帯のほとんどすべてを見ることができます。 \n\n必要な部屋：耳鼻咽喉科の内視鏡検査室</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NOSE_BIOPSY_SAMPLING</LocID>
+				<Text>鼻腔生体組織検査（検体採取）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NOSE_BIOPSY_SAMPLING_DESCRIPTION</LocID>
+				<Text>鼻腔生体組織検査とは、外科的麻酔をかけて鼻腔内のサンプルを採取する手術です。これは通常、鼻の腫瘍が何でできているかを調べるために行われます。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NOSE_BIOPSY_TESTING</LocID>
+				<Text>鼻腔生体組織検査（検査）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NOSE_BIOPSY_TESTING_DESCRIPTION</LocID>
+				<Text>鼻腔生体組織検査とは、外科的麻酔をかけて鼻腔内のサンプルを採取する手術です。これは通常、鼻の腫瘍が何でできているかを調べるために行われます。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NASAL_SWAB_SAMPLING</LocID>
+				<Text>鼻咽頭綿棒検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NASAL_SWAB_SAMPLING_DESCRIPTION</LocID>
+				<Text>鼻咽頭綿棒検査は、呼吸器感染症の原因となるウイルスや細菌をチェックする検査です。呼吸器系の感染症には多くの種類があります。この検査は、医療機関があなたの感染症の種類を診断し、どのような治療法が最適であるかを判断するのに役立ちます。検査は鼻孔または上咽頭から細胞のサンプルを採取して行われます。上咽頭とは、鼻と喉の一番上の部分を指します。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋ドラフト＋微生物インキュベーター＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NASAL_SWAB_TESTING</LocID>
+				<Text>鼻腔ぬぐい液の培養</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_NASAL_SWAB_TESTING_DESCRIPTION</LocID>
+				<Text>鼻咽頭綿棒検査は、呼吸器感染症の原因となるウイルスや細菌をチェックする検査です。呼吸器系の感染症には多くの種類があります。この検査は、医療機関があなたの感染症の種類を診断し、どのような治療法が最適であるかを判断するのに役立ちます。検査は鼻孔または上咽頭から細胞のサンプルを採取して行われます。上咽頭とは、鼻と喉の一番上の部分を指します。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋ドラフト＋微生物インキュベーター＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<!-- Throat Examinations -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_OTOR_LARYNGOSCOPY</LocID>
+				<Text>喉頭内視鏡検査(耳鼻咽喉科)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_LARYNGOSCOPY</LocID>
+				<Text>高度喉頭内視鏡検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_BIOPSY_SAMPLING</LocID>
+				<Text>咽頭生体組織検査（検体採取）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_BIOPSY_SAMPLING_DESCRIPTION</LocID>
+				<Text>咽頭生体組織検査とは、外科的麻酔をかけて喉のサンプルを採取する手術です。これは通常、喉の腫瘍が何でできているかを調べるために行われます。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_BIOPSY_TESTING</LocID>
+				<Text>咽頭生体組織検査（検査）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_BIOPSY_TESTING_DESCRIPTION</LocID>
+				<Text>咽頭生体組織検査とは、外科的麻酔をかけて喉のサンプルを採取する手術です。これは通常、喉の腫瘍が何でできているかを調べるために行われます。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_SWAB_SAMPLING</LocID>
+				<Text>咽頭綿棒検査</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_SWAB_SAMPLING_DESCRIPTION</LocID>
+				<Text>咽頭綿棒検査（咽頭拭い液採取）は、咽頭の細菌感染症を診断するためによく用いられる検査です。このような感染症には、溶連菌感染症、肺炎、ジフテリア、扁桃炎、百日咳、髄膜炎などがあります。咽頭綿棒検査の目的は、感染症を引き起こす可能性のある生物が咽頭に存在するかどうかを検出することです。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋ドラフト＋微生物インキュベーター＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_SWAB_TESTING</LocID>
+				<Text>咽頭拭い液培養</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_THROAT_SWAB_TESTING_DESCRIPTION</LocID>
+				<Text>咽頭綿棒検査（咽頭拭い液培養）は、咽頭の細菌感染症を診断するためによく用いられる検査です。このような感染症には、溶連菌感染症、肺炎、ジフテリア、扁桃炎、百日咳、髄膜炎などがあります。咽頭綿棒検査の目的は、感染症を引き起こす可能性のある生物が咽頭に存在するかどうかを検出することです。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋ドラフト＋微生物インキュベーター＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<!-- Miscellanous -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SLEEP_STUDY</LocID>
+				<Text>睡眠ポリグラフ検査（ポリソムノグラフィー）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SLEEP_STUDY_DESCRIPTION</LocID>
+				<Text>ポリソムノグラフィーは、睡眠検査とも呼ばれ、睡眠障害の診断に用いられる検査です。睡眠ポリグラフ検査では、脳波、血液中の酸素濃度、心拍数、呼吸のほか、検査中の目や足の動きなどを記録します \n\n必要な部屋：睡眠検査室 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SKIN_INJECTION_TEST</LocID>
+				<Text>皮膚アレルギー検査（耳鼻咽喉科）</Text>
+			</GameDBLocalizedString>
+
+			<!-- Lab Tests -->
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RAPID_STREP_SAMPLING</LocID>
+				<Text>迅速溶連菌検査（検体採取）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RAPID_STREP_SAMPLING_DESCRIPTION</LocID>
+				<Text>迅速溶連菌検査（RST）は，A群溶血性レンサ球菌（GAS）による細菌性咽頭炎（溶連菌感染症）の診断を補助するために臨床現場で広く使用されている迅速抗原検出検査（RADT）です。現在、使用されている溶連菌迅速検査にはいくつかの種類があり、それぞれが独自の技術を採用しています。しかし、これらの検査法はいずれも、喉の綿棒に付着したA群溶血性レンサ球菌の特異的な抗原に反応してそ存在を検出するものです。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋ドラフト＋微生物インキュベーター＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RAPID_STREP_TESTING</LocID>
+				<Text>迅速溶連菌検査（検査）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_RAPID_STREP_TESTING_DESCRIPTION</LocID>
+				<Text>迅速溶連菌検査（RST）は，A群溶血性レンサ球菌（GAS）による細菌性咽頭炎（溶連菌感染症）の診断を補助するために臨床現場で広く使用されている迅速抗原検出検査（RADT）です。現在、使用されている溶連菌迅速検査にはいくつかの種類があり、それぞれが独自の技術を採用しています。しかし、これらの検査法はいずれも、喉の綿棒に付着したA群溶血性レンサ球菌の特異的な抗原に反応してそ存在を検出するものです。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋ドラフト＋微生物インキュベーター＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING</LocID>
+				<Text>喀痰培養（検体採取）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING_DESCRIPTION</LocID>
+				<Text>喀痰培養は、肺や呼吸器に感染する細菌や真菌を検出・同定するための検査です。痰は、肺や隣接する気道で作られる濃厚な液体です。細菌や真菌が繁殖しなければ、培養は陰性となります。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋ドラフト＋微生物インキュベーター＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SPUTUM_CULTURE_TESTING</LocID>
+				<Text>喀痰培養（検査）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>EXM_JM_SPUTUM_CULTURE_TESTING_DESCRIPTION</LocID>
+				<Text>喀痰培養は、肺や呼吸器に感染する細菌や真菌を検出・同定するための検査です。痰は、肺や隣接する気道で作られる濃厚な液体です。細菌や真菌が繁殖しなければ、培養は陰性となります。 \n\n検体採取：部屋/各種検査機器 \n\n必要な部屋：耳鼻咽喉科の耳鼻咽喉科検査室 \n\n必要装備：ガラス器具＋ドラフト＋微生物インキュベーター＋顕微鏡</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

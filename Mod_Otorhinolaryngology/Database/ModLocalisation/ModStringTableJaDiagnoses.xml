@@ -1,0 +1,763 @@
+<Database>
+	<GameDBStringTable ID="LOC_JA_ADDON_OTOR_DIAGNOSES">
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+		<Contributors>
+			<Name>James B</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+		<LocalizedStrings>
+			<!-- Diagnoses -->
+
+			<!-- Nose Disorders and Diseases -->
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CSN</LocID>
+				<Text>慢性副鼻腔炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CSN_DESCRIPTION</LocID>
+				<Text>副鼻腔炎は、感染症やアレルギーなどによって患者の副鼻腔が炎症を起こす病気ですが、慢性副鼻腔炎は、副鼻腔の炎症が3ヶ月以上続き、慢性的なアレルギーや鼻ポリープが原因である場合があります。このケースではアレルギーや一般の風邪や気管支炎などの他の疾患が原因です。この場合の治療は、炎症を治療するための生理食塩水と副腎皮質ホルモンの鼻腔スプレーの投与によって行います。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CSP</LocID>
+				<Text>鼻ポリープによる慢性副鼻腔炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CSP_DESCRIPTION</LocID>
+				<Text>副鼻腔炎は、感染症やアレルギーなどによって患者の副鼻腔が炎症を起こす病気ですが、慢性副鼻腔炎は、副鼻腔の炎症が3ヶ月以上続き、慢性的なアレルギーや鼻ポリープが原因である場合があります。このケースではアレルギー、インフルエンザ、喘息、嚢胞性線維症などが原因で鼻に腫瘍ができる「鼻ポリープ症」が原因で、通常は生理食塩水や副腎皮質ホルモンの点鼻薬が必要となり、状況によっては手術も必要となります。この場合の治療は、内視鏡下副鼻腔手術でポリープを除去し、重症であれば生理食塩水とコルチコステロイドの点鼻薬の投与を行います。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_ASN</LocID>
+				<Text>アレルギー性副鼻腔炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_ASN_DESCRIPTION</LocID>
+				<Text>副鼻腔炎は、感染症やアレルギーなどによって患者の副鼻腔が炎症を起こす病気ですが、慢性副鼻腔炎は、副鼻腔の炎症が3ヶ月以上続き、慢性的なアレルギーや鼻ポリープが原因である場合があります。このケースではアレルギーが原因であり、その治療には抗ヒスタミン剤が用いられます。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_ENS</LocID>
+				<Text>空鼻症候群（ENS）</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_ENS_DESCRIPTION</LocID>
+				<Text>二次性萎縮性鼻炎の一つである空鼻症候群（ENS）は、鼻甲介の小さい、もしくは手術による切除などを行った人が、鼻閉感、鼻の乾燥やカサカサ感、息苦しさなどの様々な症状を経験する臨床症候群です。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_NAR</LocID>
+				<Text>非アレルギー性鼻炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_NAR_DESCRIPTION</LocID>
+				<Text>非アレルギー性鼻炎は、明らかな原因のない慢性的なくしゃみや鼻づまり、鼻水を伴う鼻炎です。非アレルギー性鼻炎の症状は、花粉症（アレルギー性鼻炎）の症状と似ていますが、通常のアレルギー反応の証拠は何もありません。非アレルギー性鼻炎は、子供と大人の両方が罹患する可能性がありますが、20歳以降に多く見られます。非アレルギー性鼻炎の症状の誘因は様々で、空気中の特定の臭気や刺激物、天候の変化、一部の薬剤、特定の食品、慢性的な健康状態などが挙げられます。非アレルギー性鼻炎の診断は、アレルギー性の原因が除外された後に行われます。これには皮膚アレルギー検査や血液検査が必要です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_AFS</LocID>
+				<Text>アレルギー性真菌性副鼻腔炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_AFS_DESCRIPTION</LocID>
+				<Text>アレルギー性真菌性副鼻腔炎（AFS）は、副鼻腔の真菌感染症の中でも珍しい症状です。感染する真菌は環境中に存在し、厚い真菌の破片によるアレルギー反応が、粘り気のある粘液の発生と感染した副鼻腔の閉塞を引き起こします。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_DNS</LocID>
+				<Text>鼻中隔彎曲症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_DNS_DESCRIPTION</LocID>
+				<Text>鼻中隔彎曲症とは、何らかの外傷によって鼻の中隔が曲がってしまった状態を指します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_LOF</LocID>
+				<Text>顔面裂傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_LOF_DESCRIPTION</LocID>
+				<Text>患者の顔に裂傷が起きています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_THT</LocID>
+				<Text>鼻甲介肥大</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_THT_DESCRIPTION</LocID>
+				<Text>鼻腔は細長い通路で、鼻から入ってくる空気を温めたり、湿らせたりする働きがあります。鼻甲介が大きすぎると、空気の流れを妨げることがあります。医師はこの状態を「鼻甲介肥大症」と呼んでいます。この状態は、呼吸障害、頻繁な感染症、鼻血などの原因となります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_DSA</LocID>
+				<Text>嗅覚異常</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_DSA_DESCRIPTION</LocID>
+				<Text>嗅覚障害とは、嗅覚の質的変化を伴う疾患です。これは無嗅覚症や低嗅覚症などの嗅覚の量的な変化による症状とは異なります。嗅覚障害は、刺激性異臭症と自発的異臭症に分類されます。刺激性異臭症とは、匂い物質に対する知覚の歪みのことで、本人には実際と異なる匂いがします。自発的異臭症とは、匂い物質が存在しないのに匂いを知覚することです。嗅覚障害の原因は未だにはっきりとはしていません。一般的には神経疾患と考えられており、臨床的な関連付けがなされています。ほとんどの症例は特発性とされており、嗅覚障害に関連する主な前駆症状は、尿路結石、頭部外傷、鼻・副鼻腔疾患です。嗅覚障害は自然に治る傾向がありますが、患者には治療の選択肢があります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_NSC</LocID>
+				<Text>鼻腔癌(扁平上皮癌)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_NAC</LocID>
+				<Text>鼻腔癌(腺癌)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_NMA</LocID>
+				<Text>鼻腔癌(悪性黒色腫)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_NSC_DESCRIPTION</LocID>
+				<Text>副鼻腔・鼻腔癌は、副鼻腔や鼻腔の組織に悪性（癌）細胞ができる病気です。副鼻腔とは、鼻の周囲にある空洞という意味です。鼻傍は、鼻の周りの骨の中にある、空気で満たされた空洞です。副鼻腔は、呼吸中に鼻の中が乾燥しないようにするための粘液を作る細胞で覆われています。鼻は鼻腔に向かって開いており、鼻腔は2つの鼻腔に分かれています。呼吸の際には、これらの鼻腔を空気が通ります。鼻腔は、口の天井を形成する骨の上に位置し、後ろで曲がって喉に合流しています。鼻孔のすぐ内側の領域は鼻前庭と呼ばれています。それぞれの鼻腔の屋根にある特殊な細胞の小さな領域が、脳に信号を送り、嗅覚を与えます。副鼻腔と鼻腔は、空気をろ過して温め、肺に入る前に空気を湿らせます。副鼻腔や呼吸器系の他の部分を通る空気の動きは、話すための音を作るのに役立ちます。副鼻腔・鼻腔がんは、頭頸部がんの一種です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_FON</LocID>
+				<Text>鼻への異物混入</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_FON_DESCRIPTION</LocID>
+				<Text>患者の鼻の中に異物がある状態です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_SSS</LocID>
+				<Text>サイレント副鼻腔症候群</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_SSS_DESCRIPTION</LocID>
+				<Text>サイレント副鼻腔症候群は、無症候性の慢性上顎洞炎が存在する場合に、眼窩底の崩壊により二次的に発生する眼球炎または眼球下垂を特徴とする疾患です。この疾患はまた、「慢性上顎無気力症」や「眼窩内圧症候群」という別名でも知られていますが、これらは別の疾患であると考える説もあります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_RST</LocID>
+				<Text>急性鼻副鼻腔炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_RST_DESCRIPTION</LocID>
+				<Text>急性鼻副鼻腔炎は、世界的に流行している一般的な疾患であり、医療機関にとって大きな負担となっています。急性鼻副鼻腔炎の診断は臨床的に下され、通常X線検査は行われません。ほとんどは対症療法で治療されますが、二次的な細菌感染が優勢な場合は、症状が10日以上続くことがあります。抗生物質の投与は、中等度または重度の症例、あるいは合併症を発症している場合に行われます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_CRS</LocID>
+				<Text>慢性鼻副鼻腔炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_CRS_DESCRIPTION</LocID>
+				<Text>鼻副鼻腔炎は、副鼻腔の粘膜が感染したり炎症を起こしたりして腫れ、余分な粘液が発生することで起こります。腫れた副鼻腔の粘膜は、粘液の排出を妨げることもあります。また、治療を受けているにもかかわらず12週間以上継続し、鼻づまり、鼻からの粘液の排出、喉の奥に垂れる粘液、顔面の痛み、圧迫感、「膨らみ」、嗅覚の低下などの症状のうち、少なくとも2つの症状が発生する状態を指します。慢性鼻副鼻腔炎は、より一般的な鼻副鼻腔炎（急性鼻副鼻腔炎と呼ばれる）とは異なり、より持続的な問題であり、特定の治療方法を必要とします。症状がより軽度で慢性的であるため、患者と医療従事者の両方から見過ごされることがあります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_RPM</LocID>
+				<Text>鼻瘤</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_RPM_DESCRIPTION</LocID>
+				<Text>鼻瘤は、大きくて赤い、でこぼこした、または球根状の鼻を特徴とする皮膚疾患です。これは、酒さの一部として発生することがあります。鼻瘤の正確な原因は不明ですが、重症の酒さの亜種と考えられています。この症状は、特に50歳から70歳の男性に著しく多く見られます。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_CLP</LocID>
+				<Text>口唇裂・口蓋裂</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_CLP_DESCRIPTION</LocID>
+				<Text>口唇裂と口蓋裂は、上唇、口蓋、またはその両方に生じる開口部または裂け目です。口唇裂および口蓋裂は、胎児の中で発達している顔の構造が完全に閉じていない場合に生じます。口唇裂と口蓋裂は、最も一般的な先天性欠損症の一つで、単独で発生することがほとんどですが、多くの遺伝性疾患や症候群とも関連しています。口唇裂や口蓋裂の新生児が生まれた場合、不安になるかもしれませんが、殆どの場合、一連の手術によって正常な機能を回復し、最小限の傷跡でより正常な外観を得ることができます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_IVP</LocID>
+				<Text>鼻副鼻腔内反性乳頭腫</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_IVP_DESCRIPTION</LocID>
+				<Text>鼻副鼻腔内反性乳頭腫腫は、鼻腔の後面に形成される非癌性の腫瘍です。成長すると、時には副鼻腔や眼窩にまで達することがあります。稀に悪性化し、扁平上皮癌と呼ばれる侵攻性の癌になることもあります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_PBN</LocID>
+				<Text>慢性的な鼻出血(血管)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_PBN_DESCRIPTION</LocID>
+				<Text>慢性的な鼻出血は、潜在的に問題のある血管や外傷、その他の病気が原因で鼻の出血が慢性化している状態です。この場合は、血管に問題があることが原因です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_SDN</LocID>
+				<Text>鞍鼻</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_SDN_DESCRIPTION</LocID>
+				<Text>鞍鼻は、鼻の外傷、先天性梅毒、再発性多発性軟骨炎、多発性血管炎を伴う肉芽腫症、コカインの乱用、ハンセン病などに関連する疾患です。最も一般的な原因は鼻腔内の外傷です。鼻梁の崩壊により、鼻の高さが失われることが特徴です。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_SPF</LocID>
+				<Text>鼻中隔穿孔</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_SPF_DESCRIPTION</LocID>
+				<Text>鼻中隔穿孔とは、鼻腔を仕切っている骨や軟骨の壁である鼻中隔に穴や裂け目ができる病気です。これは、鼻ピアスのように直接的にもたらされる場合と、メチルフェニデート、メタンフェタミン、コカイン、砕かれた処方薬、充血除去剤の鼻腔スプレーの鼻腔内への長期的な外用薬の塗布、慢性的な鼻出血、過度の鼻ほじり、鼻中隔形成術や鼻形成術などの鼻の手術の合併症として間接的にもたらされる場合があります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_SPH</LocID>
+				<Text>鼻中隔血腫</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_SPH_DESCRIPTION</LocID>
+				<Text>鼻中隔血腫とは、鼻中隔壁（2つの鼻孔の間の空間）に血液が溜まった状態です。血腫は、打撲や血栓と似ていますが、放置すると組織を傷つけ、感染症を引き起こす可能性があります。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_CSSP</LocID>
+				<Text>軽度の鼻ポリープを伴う慢性副鼻腔炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_CSSP_DESCRIPTION</LocID>
+				<Text>副鼻腔炎は、感染症やアレルギーなどによって患者の副鼻腔が炎症を起こす病気ですが、慢性副鼻腔炎は、副鼻腔の炎症が3ヶ月以上続き、慢性的なアレルギーや鼻ポリープが原因である場合があります。この場合は、アレルギー、インフルエンザ、喘息、嚢胞性線維症などが原因で鼻にポリープができる「鼻ポリープ症」が原因で、通常は生理食塩水や副腎皮質ホルモンの点鼻薬が必要となり、状況によっては手術も必要となります。この場合の治療は、鼻ポリープが軽度であるため、生理食塩水と副腎皮質ホルモンの点鼻薬を服用します。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_MEC</LocID>
+				<Text>髄膜脳瘤</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_MEC_DESCRIPTION</LocID>
+				<Text>髄膜脳瘤は、頭蓋骨の欠損部から液体、脳組織、髄膜（脳と脊髄を覆う膜）の袋が異常に広がっている脳脊髄膜瘤の一種です。髄膜水腫には大きく分けて2つのタイプがあり、水腫の場所によって名前が付けられています。前頭葉型は前頭骨と篩骨にあり、後頭葉型は後頭骨にあります。</Text>
+			</GameDBLocalizedString>
+
+			<!-- Ear Disorders and Diseases -->
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_SED</LocID>
+				<Text>メニエール病(重症)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_SED_DESCRIPTION</LocID>
+				<Text>メニエール病は、めまいや難聴の原因となる内耳の病気です。ほとんどの場合、メニエール病は片方の耳だけに影響を与えます。メニエール病はどの年齢でも発症する可能性がありますが、通常は若年層から中高年層にかけて発症します。メニエール病は慢性疾患と考えられていますが、様々な治療法によって症状を緩和し、生活への長期的な影響を最小限に抑えることができます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_SVE</LocID>
+				<Text>耳の分離</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_SVE_DESCRIPTION</LocID>
+				<Text>耳の分離は、耳が切り取られたり、噛み切られたことを意味します。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_BTE</LocID>
+				<Text>気圧障害</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_BTE_DESCRIPTION</LocID>
+				<Text>耳の気圧障害とは、鼓膜の内側と外側の圧力差によって耳に違和感を感じる症状です。耳の損傷を含む場合もあります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_FOE</LocID>
+				<Text>耳への異物混入</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_FOE_DESCRIPTION</LocID>
+				<Text>患者の耳の中に異物が入っている状態です。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_ACN</LocID>
+				<Text>前庭神経鞘腫</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_ACN_DESCRIPTION</LocID>
+				<Text>前庭神経鞘腫（音響神経腫、聴神経腫瘍、音響神経鞘腫とも呼ばれる）は、内耳に供給される平衡神経と聴覚神経から発生する、良性で通常はゆっくりと成長する腫瘍です。この腫瘍は、神経線維を玉ねぎの皮のように包んで神経を支え、絶縁する役割を果たしているシュワン細胞が過剰に増殖したものです。腫瘍が成長すると、聴覚と平衡神経に影響を及ぼし、通常、片側または非対称性の難聴、耳鳴り、めまい/平衡感覚の喪失を引き起こします。腫瘍が大きくなると、顔面感覚神経（三叉神経）に干渉し、顔面のしびれを引き起こすことがあります。また、顔面神経（顔の筋肉をつかさどる神経）にも影響を与え、腫瘍のある側の顔面の脱力感や麻痺を引き起こすことがあります。腫瘍が更に大きくなると、脳幹や小脳などの周辺の脳構造を圧迫し、生命を脅かすようになります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_VNI</LocID>
+				<Text>前庭神経炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_VNI_DESCRIPTION</LocID>
+				<Text>前庭神経炎は、前庭蝸牛神経と呼ばれる内耳の神経に影響を与える疾患です。この神経は、バランスや頭の位置に関する情報を内耳から脳に送っています。この神経が腫れる（炎症を起こす）と、脳がこれらの情報を判断する働きが妨げられます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CTN</LocID>
+				<Text>耳垢栓塞</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CTN_DESCRIPTION</LocID>
+				<Text>耳垢は耳を保護するために体内で作られており、潤滑作用と抗菌作用があります。耳垢を放置しておくと、難聴、炎症、耳の痛み、めまい、耳鳴りなどの原因となります。耳垢はいくつかの方法で取り除くことができます。そのうちのいくつかは、自宅で行うことができます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_BPPV</LocID>
+				<Text>良性発作性頭位めまい症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_BPPV_DESCRIPTION</LocID>
+				<Text>良性発作性頭位めまい症（BPPV）は、内耳の異常によって起こる疾患です。症状としては、頭の位置を変えると回転するような感覚、つまり動作に伴うめまいが短時間に繰り返し起こります。これは、寝返りを打ったり、体勢を変えたりしたときに起こります。1回のめまいの持続時間は通常1分未満です。吐き気を伴うこともよくあります。BPPVは、めまいの最も一般的な原因の1つです。BPPVは、頭部外傷によって生じることもあれば、単に高齢者に生じることもあります。特定の原因が見つからないことが多いです。根本的な発症メカニズムは、小さな石灰化した耳石が内耳の中でゆるやかに動き回ることです。内路炎やメニエール病と並ぶ平衡感覚障害の一種です。診断は、Dix-Hallpike法によるテストで眼振（目の特定の動きのパターン）が認められ、他の可能性のある原因が除外された場合に行われるのが一般的です。典型的なケースでは、医学的な画像診断は必要ありません。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_PCHA</LocID>
+				<Text>耳介血腫</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_PCHA_DESCRIPTION</LocID>
+				<Text>レスリングの試合を観戦されたことのある方は、選手の耳の異変に気づかれたことがあるかもしれません。耳介血腫は、カリフラワー耳やレスラー耳とも呼ばれ、外傷によって起こる耳の変形です。耳介血腫は、殴られたり、叩かれたりした後に、ピンナに血液が溜まることで起こります。ピンナとは外耳のことです。この血液の溜まりは、血腫と呼ばれ、すぐに治療する必要があります。耳介血腫には治療法がありませんが、外傷を受けた後でも予防することができます。だからこそ、警告のサインを知り、すぐに対処することが肝要なのです。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_EWR</LocID>
+				<Text>耳垢除去の予約</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_EWR_DESCRIPTION</LocID>
+				<Text>患者は耳鼻科の専門医を予約して耳垢を除去します。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_MEDR</LocID>
+				<Text>鼓膜損傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_MEDR_DESCRIPTION</LocID>
+				<Text>鼓膜破裂（鼓膜穿孔）とは、外耳道と中耳（鼓膜）を隔てる薄い組織に穴が開いたり、裂けたりすることです。鼓膜が破れると難聴になることがある他、中耳が感染症にかかりやすくなります。鼓膜の破裂は、通常は治療しなくても数週間で治りますが、時には、パッチや手術による修復が必要になることもあります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_SEDR</LocID>
+				<Text>未治癒の鼓膜損傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_SEDR_DESCRIPTION</LocID>
+				<Text>鼓膜破裂（鼓膜穿孔）とは、外耳道と中耳（鼓膜）を隔てる薄い組織に穴が開いたり、裂けたりすることです。鼓膜が破れると難聴になることがある他、中耳が感染症にかかりやすくなります。鼓膜の破裂は、通常は治療しなくても数週間で治りますが、時には、パッチや手術による修復が必要になることもあります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_ANM</LocID>
+				<Text>聴覚神経障害(軽症)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_ANS</LocID>
+				<Text>聴覚神経障害(重症)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_ANM_DESCRIPTION</LocID>
+				<Text>聴神経症は、蝸牛の外有毛細胞は存在し機能しているものの、音の情報が聴神経から脳に十分に伝達されない聴覚障害です。通常、末梢神経の疾患を意味しますが、聴神経障害スペクトラムでは、聴神経そのものが害されるとは限りません。集団における有病率は比較的知られていません。難聴の高リスク要因を持つ新生児の有病率は最大で40％です（Vignesh, Jaya, and Muraleedharan 2016）。これらの高リスク要因とは、低酸素症、低出生体重児、早産、高ビリルビン血症、黄疸、アミノグリコシド系抗生物質治療などです。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_PBCM</LocID>
+				<Text>加齢性難聴(軽症)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_PBCS</LocID>
+				<Text>加齢性難聴(重症)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_PBCM_DESCRIPTION</LocID>
+				<Text>加齢に伴って徐々に起こる難聴（老齢性難聴）は一般的なものです。アメリカでは、65歳から75歳までの人の約3分の1が何らかの難聴を抱えており、75歳以上の人では2人に1人の割合で難聴者がいると言われています。加齢と大きな音への慢性的な暴露が難聴の原因となります。また、耳垢が多いなどの他の要因により、一時的に耳の聞こえが悪くなることもあります。ほとんどの難聴は元に戻すことはできませんが、医師や聴覚の専門家と一緒に、聞こえる音を改善するための対策を講じることができます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_LBRT</LocID>
+				<Text>内耳炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_LBRT_DESCRIPTION</LocID>
+				<Text>内耳炎とは、内耳の炎症のことです。迷路炎とも呼び、頭の位置や動きの変化を感知する前庭系が複雑な形状であることに由来しています。内耳炎は世界が回っているような感覚をもたらし、難聴や耳鳴りを起こす可能性もあります。症状は、1回の発作、連続した発作、または3～6週間かけて軽減する持続的な症状として起こります。また、吐き気や嘔吐、眼振を伴うこともあります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_OTP</LocID>
+				<Text>耳瘤腫症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_OTP_DESCRIPTION</LocID>
+				<Text>耳瘤腫症は、耳の皮脂腺の肥大と過形成に用いられる用語です。これは通常、原因不明の一般的な慢性皮膚疾患である酒さの最終段階です。私達はここに、耳瘤腫症のまれな症例を、その臨床的特徴、病因、診断、内科的および外科的治療のレビューとともに紹介します。この患者は長年にわたって診断されず、誤った治療を受けていましたが、最終的にこの稀な疾患と診断され、外科的手法により治療に成功しました。私達の知る限り、この症例は耳鼻咽喉科領域の文献に掲載された2例目の耳瘤腫症です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_ESC</LocID>
+				<Text>聴器癌(扁平上皮癌)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_EAC</LocID>
+				<Text>聴器癌(腺癌)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_EMA</LocID>
+				<Text>聴器癌(悪性黒色腫)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_ESC_DESCRIPTION</LocID>
+				<Text>聴器癌(耳の癌)は、耳の内側と外側の両方に発生する可能性があり、多くの場合、外耳の皮膚がんから始まり、外耳道や鼓膜などの耳の構造全体に広がっていきます。耳の中から発生すると、側頭骨と呼ばれる耳の内側の骨が侵されることがあります。側頭骨には乳様突起も含まれます。乳様突起は、耳の後ろにある骨の塊です。耳癌は非常に稀です。米国では、毎年、約300人がこの癌と診断されています。比較対象として、米国国立がん研究所によると、2018年には新たに25万人以上の乳がん信源者が診断されると予想されています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_NOM</LocID>
+				<Text>壊死性中耳炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_NOE</LocID>
+				<Text>壊死性外耳道炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<!-- NEW -->
+				<LocID>DIA_CRP_JM_NOM_DESCRIPTION</LocID>
+				<Text>壊死性／悪性外耳道炎（MOE）は、外耳道と側頭骨を侵す感染症です。原因菌は通常、緑膿菌であり、糖尿病を持つ高齢者によく見られます。感染は外耳道炎から始まり、側頭骨の骨髄炎へと進行します。外耳道外への感染拡大は、サントリーニ裂構や骨軟骨接合部を介して起こります。悪性外耳道炎（MEO）の症例を最初に報告した医師は、おそらく1838年のToulmoucheです。1959年にはMeltzerが側頭骨の仮性骨髄炎の症例を報告しています。</Text>
+			</GameDBLocalizedString>
+
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_SWE</LocID>
+				<Text>重度の外耳道炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_GEE</LocID>
+				<Text>重度の滲出性中耳炎</Text>
+			</GameDBLocalizedString>
+
+			<!-- Throat and Mouth Disorders and Diseases -->
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CSA</LocID>
+				<Text>慢性唾液腺炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CSA_DESCRIPTION</LocID>
+				<Text>慢性唾液腺炎は、対照的に、典型的には痛みが少なく、紅斑を伴わない反復的な腺の肥大（しばしば食後）を伴います。これは脱水症状ではなく、唾液の分泌量の減少に関連する疾患と関連しています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_ASS</LocID>
+				<Text>急性化膿性唾液腺炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_ASS_DESCRIPTION</LocID>
+				<Text>急性唾液腺炎は、唾液腺の細菌性炎症です。通常、1つの主要な唾液腺（最も一般的には耳下腺）が侵され、衰弱した患者、入院中の患者、または術後の患者によく見られます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_DTA</LocID>
+				<Text>ジフテリア</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_DTA_DESCRIPTION</LocID>
+				<Text>ジフテリア（dif-THEER-e-uh）は重篤な細菌感染症で、通常は鼻や喉の粘膜を侵します。薬で治療することができますが、進行すると心臓、腎臓、神経系にダメージを与え、治療しても死に至る可能性があり、特に子供の場合はその危険性が高くなります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_VCP</LocID>
+				<Text>声帯神経麻痺</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_VCP_DESCRIPTION</LocID>
+				<Text>声帯麻痺は、声帯（喉頭）への神経伝達が阻害されることで、声帯の筋肉が麻痺して起こります。声帯が麻痺すると、会話や呼吸にも影響が出ます。声帯と呼ばれますが、これは単に音を出すだけの器官ではありません。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_TSC</LocID>
+				<Text>咽頭癌(扁平上皮癌)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_TAC</LocID>
+				<Text>咽頭癌(腺癌)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_TML</LocID>
+				<Text>咽頭癌(悪性腫瘍)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_TSC_DESCRIPTION</LocID>
+				<Text>喉の扁平上皮癌は、喉の癌の中で最も一般的なタイプで、喉の内壁の異常な細胞の制御不能な増殖によって起こります。咽頭は、咽頭（舌の後ろの上部）と喉頭（声帯）から構成されています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CPHG</LocID>
+				<Text>慢性咽頭炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CPHG_DESCRIPTION</LocID>
+				<Text>咽頭炎(扁桃炎)とは、喉の奥にある咽頭または扁桃が炎症を起こしている状態です。急性咽頭炎・扁桃炎の方が一般的で、症状は通常10日以内に治まります。ほとんどはウイルス性ですが、中には細菌性のものもあります。抗生物質は、細菌感染が原因である場合にのみ有効です。しかし、明らかに細菌性であっても、それを見分けるのが難しい場合もあるため、必ずしもすべての患者層に抗生物質の投与が推奨されるわけではありません。慢性咽頭炎・扁桃炎は、感染症以外にもさまざまな要因で引き起こされる可能性があります。慢性咽頭炎・扁桃炎では、痛みが治まらないか、頻繁に再発します。喉の痛みが数週間以上続く場合、咽頭炎・扁桃炎は慢性化している可能性があります。これらにはいくつかの根本的な原因があり、治療は根本的な原因が何であるかによります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_SPT</LocID>
+				<Text>咽頭炎(扁桃炎)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_SPT_DESCRIPTION</LocID>
+				<Text>咽頭炎(扁桃炎)は、細菌の一種（A群溶血性連鎖球菌）によって引き起こされる感染症です。咽頭炎・扁桃炎は、のどの痛みのほぼ3分の1の原因であると言われています。通常、抗生物質による治療が必要です。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_HFMV2</LocID>
+				<Text>手足口病</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_HFM_DESCRIPTION</LocID>
+				<Text>手足口病(HFMD)は、一群のウイルスによって引き起こされる一般的な感染症です。通常、発熱と全身の不調から始まります。続いて1～2日後に、手足や口の中に平らな変色した斑点や水ぶくれのような隆起が生じます。この病気には治療法がなく、病気が治るまでは症状に応じた治療を行う必要があります。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_LGP</LocID>
+				<Text>喉頭乳頭腫</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_LGP_DESCRIPTION</LocID>
+				<Text>喉頭乳頭腫症は、再発性呼吸器乳頭腫症や声門乳頭腫症とも呼ばれ、気道に沿って良性の腫瘍（乳頭腫）が形成されるまれな疾患です。発症年齢により、若年性喉頭乳頭腫症と成人性喉頭乳頭腫症の2つのタイプがあります。喉頭乳頭腫症は、ヒト乳頭腫ウイルス（HPV）の咽頭への感染により発生します。腫瘍が原因で気道が狭くなり、声変わりや気道閉塞を起こすことがあります。喉頭乳頭腫症は、喉頭上の成長を観察する際に間接的な喉頭鏡検査によって最初に診断され、生体組織検査によって確認することができます。喉頭乳頭腫症の治療は、乳頭腫の除去と再発の抑制を目的としています。喉頭乳頭腫症の治療は主に外科的に行われますが、場合によっては補助的な非外科的治療や内科的治療が検討されることもあります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_VCN</LocID>
+				<Text>声帯ポリープ</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_VCN_DESCRIPTION</LocID>
+				<Text>声帯ポリープとは、声帯にできる硬くてざらざらした非癌性の成長物です。ポリープの大きさは、小指の先ほどの大きさから、豆粒ほどの大きさまで様々です。声帯ポリープ（声帯結節）は、特に大きな声で歌ったり、叫んだり、長時間話したりするなど、声を酷使することで発生します。声帯ポリープは、その原因によってそれぞれ別の名前で呼ばれています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRM_CRP_JM_LYC</LocID>
+				<Text>喉頭の外傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRM_CRP_JM_LYC_DESCRIPTION</LocID>
+				<Text>喉頭の外傷・裂傷とは、声帯がある気道の上部である声帯（喉頭）の損傷のことです。気道への鈍的外傷はよくあることですが、成人に比べて小児では発生頻度が低くなります。小児の場合、外傷は通常、首への落下や打撃、またはその他の喉の損傷によって引き起こされます。損傷は、軽度の声帯の弱化から、喉頭や気管の軟骨構造の骨折まで多岐にわたります。喉頭や気管の軟骨構造の骨折は、呼/吸気が頸部や胸部に逃げる原因となり、診断と治療を迅速に行わなければ、重大な呼吸障害を引き起こし、死に至ることもあります。小児の場合、喉頭や気管は軟骨構造が柔らかくサイズも小さいため、骨折はあまり発生しません。大きな病院であっても、実際に喉頭気管骨折の症例を目にするのはごくわずかです。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRM_CRP_JM_LYL</LocID>
+				<Text>喉頭の裂傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRM_CRP_JM_LYL_DESCRIPTION</LocID>
+				<Text>喉頭の外傷・裂傷とは、声帯がある気道の上部である声帯（喉頭）の損傷のことです。気道への鈍的外傷はよくあることですが、成人に比べて小児では発生頻度が低くなります。小児の場合、外傷は通常、首への落下や打撃、またはその他の喉の損傷によって引き起こされます。損傷は、軽度の声帯の弱化から、喉頭や気管の軟骨構造の骨折まで多岐にわたります。喉頭や気管の軟骨構造の骨折は、呼/吸気が頸部や胸部に逃げる原因となり、診断と治療を迅速に行わなければ、重大な呼吸障害を引き起こし、死に至ることもあります。小児の場合、喉頭や気管は軟骨構造が柔らかくサイズも小さいため、骨折はあまり発生しません。大きな病院であっても、実際に喉頭気管骨折の症例を目にするのはごくわずかです。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_GRDV2</LocID>
+				<Text>胃食道逆流症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_GRD</LocID>
+				<Text>胃食道逆流症(陳旧性)</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_GRD_DESCRIPTION</LocID>
+				<Text>胃食道逆流症（GERD）は、食道と胃の間にあるリング状の筋肉である下部食道括約筋（LES）に影響を与える消化器系疾患です。妊娠中の女性を含む多くの人が、GERDによる胸焼けや消化不良に悩まされています。放置すると食道炎やバレット食道、さらには食道がんの原因にもなります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_OSA2</LocID>
+				<Text>閉塞性睡眠時無呼吸</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_OSA_DESCRIPTION</LocID>
+				<Text>閉塞性睡眠時無呼吸症候群（OSA）は、睡眠時無呼吸症候群の中でも最も一般的なタイプであり、呼吸しようと努力しているにもかかわらず、睡眠中に上気道が完全または部分的に閉塞する現象が繰り返されることを特徴とし、通常、血中酸素飽和度の低下を伴うと言われています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRM_CRP_JM_PYC</LocID>
+				<Text>咽頭の外傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRM_CRP_JM_PYC_DESCRIPTION</LocID>
+				<Text>咽頭の外傷・裂傷とは、喉、つまり咽頭が傷を負った状態のことです。咽頭穿孔は、小児には珍しい損傷です。現在までに報告されている症例のほとんどは、器具や貫通した傷に起因するものです。咽頭壁の裂傷は、空気や分泌物、細菌を咽頭傍空間や縦隔に侵入させる可能性があり、その結果、生命を脅かす後遺症を引き起こす可能性があります。なお、これらの傷の処置方法については選択の余地があります。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRM_CRP_JM_PYL</LocID>
+				<Text>咽頭の裂傷</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>TRM_CRP_JM_PYL_DESCRIPTION</LocID>
+				<Text>咽頭の外傷・裂傷とは、喉、つまり咽頭が傷を負った状態のことです。咽頭穿孔は、小児には珍しい損傷です。現在までに報告されている症例のほとんどは、器具や貫通した傷に起因するものです。咽頭壁の裂傷は、空気や分泌物、細菌を咽頭傍空間や縦隔に侵入させる可能性があり、その結果、生命を脅かす後遺症を引き起こす可能性があります。なお、これらの傷の処置方法については選択の余地があります。 </Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CWP</LocID>
+				<Text>気管軟化症</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CWP_DESCRIPTION</LocID>
+				<Text>気管軟化症とは、気道（気管）を開いている軟骨が軟らかくなり、特に気流が増加したときに気管が部分的につぶれてしまう状態または事故です。通常の症状は、息を吐くときの呻吟です。これは通常、気管虚脱として知られています。気管は通常、息を吸うときにわずかに開き、息を吐くときにわずかに狭まります。気管軟化症ではこれらの過程が誇張され、息を吐くときに気道がつぶれてしまいます。この症状がさらに大きな気道（気管支）にまで及ぶ場合（気管支軟化症もある場合）は、気管気管支軟化症と呼ばれる。また、同じ症状が喉頭にも及ぶことがあり、これを喉頭軟化症といいます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CLRG</LocID>
+				<Text>慢性喉頭炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CLRG_DESCRIPTION</LocID>
+				<Text>3週間以上続く喉頭炎は、慢性喉頭炎と呼ばれています。このタイプの喉頭炎は、一般的に長期にわたって刺激物にさらされることで起こります。慢性喉頭炎は、声帯の緊張や声帯の傷や成長（ポリープや結節）の原因となります。慢性喉頭炎の原因としては、煙、化学物質、アレルゲンなどの吸入刺激物、胃食道逆流症、喫煙、アルコールの使用、慢性副鼻腔炎、声の使い過ぎなどが挙げられます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CTSA</LocID>
+				<Text>中枢性睡眠時無呼吸症候群</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CTSA_DESCRIPTION</LocID>
+				<Text>中枢性睡眠時無呼吸症候群は、睡眠中に呼吸の停止と開始を繰り返す病気です。これは脳が呼吸をコントロールする筋肉に適切な信号を送れないために起こります。この症状は、上気道の閉塞により正常な呼吸ができない閉塞性睡眠時無呼吸症候群とは異なる疾患であり、より発症率が低いです。中枢性睡眠時無呼吸症候群は、心不全や脳卒中などの他の疾患が原因で発生することがあります。また、高地での睡眠が原因となることもあります。治療には、既存の疾患の治療、呼吸を補助する装置の使用、補助酸素の使用などがあります。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_RKE</LocID>
+				<Text>ラインケ浮腫</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_RKE_DESCRIPTION</LocID>
+				<Text>ラインケ浮腫はラインケ腔に溜まった液体(浮腫)によって声帯が腫れる現象です。1895年にドイツの解剖学者Friedrich B. Reinkeによって初めて発見されたラインケ腔は、声帯の外側の細胞の下にあるゼラチン状の層で、人が話すときには、これが振動して音が発生します（発声）。ラインケ腔はまた声帯粘膜固有層とも呼ばれ、声帯が液体で満たされた「袋状」の外観を持っています。声帯が腫れることで、声が深くなり、かすれてしまいます。そのため、ラインケ浮腫の主な症状は、喉頭炎に似た嗄声となります。主な原因は喫煙で、実際、診断された患者の97％は習慣的に喫煙しています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_OVC</LocID>
+				<Text>音声疲労</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_OVC_DESCRIPTION</LocID>
+				<Text>音声疲労は、声を使いすぎることで起こります。これは、教師や歌手、コールセンターの従業員など、プロの声楽家によく見られます。走って足が疲れるように、声も長時間使うと疲れてしまいます。私達のボイスセラピストは、60分声を使うごとに10分の休息が必要であると推奨しており、使いすぎると声帯にダメージを与えます。1日の終わりや1時間後に声が出なくなることが多い場合は、声帯の組織がダメージを受けている可能性があります。喉頭科医は声帯の成長やその他の状態を検査し、声帯へのストレスを軽減する技術を学び、組織の損傷を回復させるためにボイスセラピーを推奨することがあります。ボイスセラピーでは、声を出すための基本的な技術と、声帯のバランスを整えることに重点を置きます。セラピーはそれぞれの声の使用者とその要求に合わせて行われます。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CTS</LocID>
+				<Text>慢性扁桃腺炎</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>DIA_CRP_JM_CTS_DESCRIPTION</LocID>
+				<Text>扁桃腺炎とは、喉の奥にある楕円形の組織である扁桃が炎症を起こすことです。扁桃腺炎の兆候や症状としては、扁桃腺の腫れ、喉の痛み、嚥下困難、首の両側のリンパ節の圧痛などがあります。扁桃腺炎のほとんどは、一般的なウイルスの感染によって引き起こされますが、細菌の感染でも扁桃腺炎を引き起こすことがあります。扁桃腺炎は、症状が3カ月以上続くと慢性化することがあります。この場合、医師は扁桃腺の除去（扁桃腺摘出術）を推奨することがあります。</Text>
+			</GameDBLocalizedString>
+
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
