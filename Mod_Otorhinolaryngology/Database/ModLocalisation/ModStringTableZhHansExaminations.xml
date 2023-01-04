@@ -1,0 +1,233 @@
+<Database>
+    <GameDBStringTable ID="LOC_EN_ADDON_OTOR_EXAMINATIONS">
+        <LanguageCode>zh-Hans</LanguageCode>
+        <LanguageNameLocalized>简体中文</LanguageNameLocalized>
+        <Contributors>
+            <Name>ccace</Name>
+        </Contributors>
+        <LocalizedStrings>
+        <!-- Examinations -->
+	    
+		 <!-- Ear Examinations -->
+		 
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OAE</LocID>                  
+			<Text>OAE</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OAE_DESCRIPTION</LocID>                  
+			<Text>OAE（耳声发射）测试检查内耳对声音的部分反应。这项测试主要针对因年龄原因而无法对行为听力测试做出反应的婴儿和儿童。\n\n所需房间：耳鼻喉实验室</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOMETRY</LocID>                  
+			<Text>（耳鼻喉实验室）听力测试</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM</LocID>                  
+			<Text>听力检查</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_AUDIOGRAM_DESCRIPTION</LocID>                  
+			<Text>听力检查是一个图表，显示了通过听力计测量的标准化频率的可听阈值。Y轴表示以分贝测量的强度，X轴表示以赫兹测量的频率。\\n\n所需房间：耳鼻喉科的录音室</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OTOSCOPY</LocID>                  
+			<Text>耳镜检查</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_OTOSCOPY_DESCRIPTION</LocID>                  
+			<Text>耳镜检查是一种临床程序，用于检查耳朵的结构，特别是外耳道、鼓膜和中耳。临床医生在日常健康体检、检查任何诊断线索和评估特定耳朵投诉时使用该流程。\n\n所需房间：内窥镜检查室</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+            <LocID>EXM_JM_EAR_BIOPSY_SAMPLING</LocID>                  
+	        <Text>耳活检 - 采样</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_EAR_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	        <Text>耳活检是一种外科检查，在麻醉下提取耳道样本。这通常是为了找出耳朵肿瘤的具体种类。\n\n采样：任何门诊室/检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿和显微镜</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_EAR_BIOPSY_TESTING</LocID>                  
+	        <Text>耳活检 - 检测</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_EAR_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	        <Text>耳活检是一种外科检查，在麻醉下提取耳道样本。这通常是为了找出耳朵肿瘤的具体种类。\n\n采样：任何门诊室/检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿和显微镜</Text> 
+	        </GameDBLocalizedString>
+			
+		 <!-- Nose Examinations -->
+		 
+		    <GameDBLocalizedString>      
+			<LocID>EXM_JM_RHINOSCOPY</LocID>                  
+			<Text>鼻镜检查</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_RHINOSCOPY_DESCRIPTION</LocID>                  
+			<Text>鼻镜检查是一种检查鼻子和喉咙的方法。虽然有其他方法可以观察鼻子，但这些方法只能让医生看到鼻腔内大约一英寸的地方。鼻镜检查可以让医生看到鼻子、喉咙、腺样体和声带的几乎所有内部。\\n\n所需房间：内窥镜检查室</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_SAMPLING</LocID>                  
+	        <Text>鼻活检 - 采样</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	        <Text>鼻活检是一种外科检查，在麻醉下提取鼻腔样本。这通常是为了找出鼻子肿瘤的具体种类。\n\n采样：任何门诊室/检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿和显微镜</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_TESTING</LocID>                  
+	        <Text>鼻活检 - 检测</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_NOSE_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	        <Text>鼻活检是一种外科检查，在麻醉下提取鼻腔样本。这通常是为了找出鼻子肿瘤的具体种类。\n\n采样：任何门诊室/检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿和显微镜</Text> 
+	        </GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+	        <LocID>EXM_JM_NASAL_SWAB_SAMPLING</LocID>
+	        <Text>鼻拭子</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>  
+	        <LocID>EXM_JM_NASAL_SWAB_SAMPLING_DESCRIPTION</LocID>  
+	        <Text>鼻拭子是一种检查导致呼吸道感染的病毒和细菌的测试。呼吸道感染有多种类型。鼻拭子测试可以帮助您的医生诊断您的感染类型，以及哪种治疗方法最适合您。测试可以通过从鼻孔或鼻咽中提取细胞样本来完成。鼻咽是你鼻子和喉咙的最上部。\n\n采样：任何门诊室/任何检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿+通风柜+微生物培养箱+显微镜</Text> 
+	        </GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+	        <LocID>EXM_JM_NASAL_SWAB_TESTING</LocID>
+	        <Text>鼻拭子培养</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>
+	        <LocID>EXM_JM_NASAL_SWAB_TESTING_DESCRIPTION</LocID>  
+	        <Text>鼻拭子是一种检查导致呼吸道感染的病毒和细菌的测试。呼吸道感染有多种类型。鼻拭子测试可以帮助您的医生诊断您的感染类型，以及哪种治疗方法最适合您。测试可以通过从鼻孔或鼻咽中提取细胞样本来完成。鼻咽是你鼻子和喉咙的最上部。\n\n采样：任何门诊室/任何检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿+通风柜+微生物培养箱+显微镜</Text> 
+	        </GameDBLocalizedString>
+			
+		 <!-- Throat Examinations -->
+		 
+            <GameDBLocalizedString>
+			<LocID>EXM_OTOR_LARYNGOSCOPY</LocID>
+			<Text>（耳鼻喉实验室）喉镜</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_LARYNGOSCOPY</LocID>
+			<Text>高级喉镜检查</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_SAMPLING</LocID>                  
+	        <Text>咽喉活检 - 取样</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_SAMPLING_DESCRIPTION</LocID>                  
+	        <Text>咽喉活检是一种外科检查，在麻醉下提取咽喉样本。这通常是为了找出咽喉肿瘤的具体种类。\n\n采样：任何门诊室/检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿和显微镜</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_TESTING</LocID>                  
+	        <Text>咽喉活检 - 检测</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>      
+	        <LocID>EXM_JM_THROAT_BIOPSY_TESTING_DESCRIPTION</LocID>                  
+	        <Text>咽喉活检是一种外科检查，在麻醉下提取咽喉样本。这通常是为了找出咽喉肿瘤的具体种类。\n\n采样：任何门诊室/检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿和显微镜</Text> 
+	        </GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+	        <LocID>EXM_JM_THROAT_SWAB_SAMPLING</LocID>
+	        <Text>咽拭子</Text> 
+            </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>  
+	        <LocID>EXM_JM_THROAT_SWAB_SAMPLING_DESCRIPTION</LocID>  
+	        <Text>咽拭子培养，或咽培养，是一种常用于诊断咽喉细菌感染的测试。这些感染包括链球菌性咽喉炎、肺炎、白喉、扁桃体炎、百日咳和脑膜炎。咽拭子培养的目的是检测喉咙中是否存在可能导致感染的微生物。\n\n采样：任何门诊室/任何检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿+通风柜+微生物培养箱+显微镜</Text> 
+	        </GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+	        <LocID>EXM_JM_THROAT_SWAB_TESTING</LocID>
+	        <Text>咽拭子培养</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>
+	        <LocID>EXM_JM_THROAT_SWAB_TESTING_DESCRIPTION</LocID>  
+	        <Text>咽拭子培养，或咽培养，是一种常用于诊断咽喉细菌感染的测试。这些感染包括链球菌性咽喉炎、肺炎、白喉、扁桃体炎、百日咳和脑膜炎。咽拭子培养的目的是检测喉咙中是否存在可能导致感染的微生物。\n\n采样：任何门诊室/任何检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿+通风柜+微生物培养箱+显微镜</Text> 
+	        </GameDBLocalizedString>
+		
+		 <!-- Miscellanous -->
+		 
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY</LocID>                  
+			<Text>多导睡眠图</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>      
+			<LocID>EXM_JM_SLEEP_STUDY_DESCRIPTION</LocID>                  
+			<Text>多导睡眠图，也称为睡眠研究，是一种用于诊断睡眠障碍的测试。多导睡眠图记录了你的脑电波、血液中的氧气水平、心率和呼吸，以及研究期间的眼睛和腿部运动。\n\n所需房间：睡眠检查室 </Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>     
+			<LocID>EXM_JM_SKIN_INJECTION_TEST</LocID>      
+			<Text>（耳鼻喉实验室）皮肤过敏试验</Text> 
+			</GameDBLocalizedString>
+			
+		  <!-- Lab Tests -->
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_SAMPLING</LocID>
+			<Text>链球菌快速检测 - 取样</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_SAMPLING_DESCRIPTION</LocID>  
+			<Text>快速链球菌试验（RST）是一种快速抗原检测试验（RADT），广泛应用于临床，以帮助诊断由A组链球菌（GAS）引起的细菌性咽炎，有时称为链球菌性咽喉炎。目前有几种类型的快速链球菌试验正在使用，每种测试都采用不同的技术。然而，它们都是通过对咽拭子上的GAS特异性抗原作出反应来检测人喉咙中GAS的存在。\n\n采样：任何门诊室/任何检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿+通风柜+微生物培养箱+显微镜</Text> 
+			</GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+			<LocID>EXM_JM_RAPID_STREP_TESTING</LocID>
+			<Text>链球菌快速检测 - 检测</Text> 
+			</GameDBLocalizedString>
+			
+			<GameDBLocalizedString>
+			<LocID>EXM_JM_RAPID_STREP_TESTING_DESCRIPTION</LocID>  
+			<Text>快速链球菌试验（RST）是一种快速抗原检测试验（RADT），广泛应用于临床，以帮助诊断由A组链球菌（GAS）引起的细菌性咽炎，有时称为链球菌性咽喉炎。目前有几种类型的快速链球菌试验正在使用，每种测试都采用不同的技术。然而，它们都是通过对咽拭子上的GAS特异性抗原作出反应来检测人喉咙中GAS的存在。\n\n采样：任何门诊室/任何检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿+通风柜+微生物培养箱+显微镜</Text> 
+			</GameDBLocalizedString>
+	
+	        <GameDBLocalizedString>  
+	        <LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING</LocID>
+	        <Text>痰培养 - 取样</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>  
+	        <LocID>EXM_JM_SPUTUM_CULTURE_SAMPLING_DESCRIPTION</LocID>  
+	        <Text>痰培养是一种检测和鉴定感染肺部或呼吸道的细菌或真菌的测试。痰液是肺部和邻近气道中产生的一种粘稠液体，如果没有细菌或真菌生长，则培养物为阴性。\n\n采样：任何门诊室/任何检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿+通风柜+微生物培养箱+显微镜</Text> 
+	        </GameDBLocalizedString>
+			
+            <GameDBLocalizedString>  
+	        <LocID>EXM_JM_SPUTUM_CULTURE_TESTING</LocID>
+	        <Text>痰培养 - 检测</Text> 
+	        </GameDBLocalizedString>
+			
+	        <GameDBLocalizedString>
+	        <LocID>EXM_JM_SPUTUM_CULTURE_TESTING_DESCRIPTION</LocID>  
+	        <Text>痰培养是一种检测和鉴定感染肺部或呼吸道的细菌或真菌的测试。痰液是肺部和邻近气道中产生的一种粘稠液体，如果没有细菌或真菌生长，则培养物为阴性。\n\n采样：任何门诊室/任何检查室\n\n所需房间：耳鼻喉实验室\n\n所需设备：玻璃器皿+通风柜+微生物培养箱+显微镜</Text> 
+        	</GameDBLocalizedString>
+	
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
