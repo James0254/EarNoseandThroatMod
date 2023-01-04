@@ -1,0 +1,721 @@
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_OTOR_DIAGNOSES">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>ccace</Name>
+	</Contributors>
+	<LocalizedStrings>
+	  <!-- Diagnoses -->
+	  
+	   <!-- Nose Disorders and Diseases -->
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CSN</LocID>                         
+		 <Text>慢性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+	   
+	    <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CSN_DESCRIPTION</LocID>             
+		 <Text>鼻窦炎是一种患者鼻窦因感染或过敏而发炎的情况，但在慢性鼻窦炎的情况下，鼻窦炎症会持续3个月以上，通常由慢性过敏或鼻息肉引起。在这种情况下，它是由过敏或其他疾病引起的，如普通感冒或支气管炎。这种情况的治疗是用盐水和皮质类固醇鼻喷雾剂来治疗炎症。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CSP</LocID>                         
+		 <Text>慢性鼻窦炎伴鼻息肉</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CSP_DESCRIPTION</LocID>             
+		 <Text>鼻窦炎是一种患者鼻窦因感染或过敏而发炎的情况，但在慢性鼻窦炎的情况下，鼻窦炎症会持续3个月以上，通常由慢性过敏或鼻息肉引起。在这种情况下，它是由鼻息肉病引起的，鼻息肉是由于过敏、流感、哮喘或囊性纤维化而在鼻内形成的，这通常需要盐水和皮质类固醇鼻喷雾剂，在某些情况下还需要手术。这种情况的治疗方法是鼻内窥镜鼻窦手术切除息肉，并在息肉严重时使用盐水和皮质类固醇鼻喷雾剂治疗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ASN</LocID>                         
+	 	 <Text>过敏性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ASN_DESCRIPTION</LocID>             
+		 <Text>鼻窦炎是一种鼻窦发炎的情况。病例可能由过敏等引起）。在这种情况下，它是由过敏引起的，治疗方法是抗组胺药。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ENS</LocID>                         
+		 <Text>空鼻综合征</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ENS_DESCRIPTION</LocID>             
+		 <Text>空鼻综合征（ENS）是继发性萎缩性鼻炎的一种形式，是一种临床综合征，在该综合征中，鼻腔通畅的人会出现一系列症状，最常见的症状是鼻塞、鼻干燥和结痂，以及无法呼吸的感觉。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_NAR</LocID>                         
+		 <Text>喷嚏</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_NAR_DESCRIPTION</LocID>             
+		 <Text>非过敏性鼻炎包括无明显原因的慢性打喷嚏或充血、流鼻涕。非过敏性鼻炎的症状与花粉热（过敏性鼻炎）的症状相似，但没有常见的过敏反应证据。非过敏性变应性鼻炎可影响儿童和成人，但在20岁后更常见。非过敏性鼻炎症状的触发因素各不相同，可能包括空气中的某些气味或刺激物、天气变化、某些药物、某些食物和慢性健康状况。在排除过敏原因后，诊断为非过敏性。这可能需要过敏皮肤或血液测试。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>DIA_CRP_JM_AFS</LocID>                         
+		 <Text>过敏性真菌性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_AFS_DESCRIPTION</LocID>             
+		 <Text>过敏性真菌性鼻窦炎。过敏性真菌性鼻窦炎（AFS）是一种罕见的鼻窦真菌感染。感染的真菌在环境中发现，并引起过敏反应，导致厚厚的真菌碎屑、粘稠的粘液和感染的鼻窦堵塞。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_DNS</LocID>                         
+		 <Text>鼻中隔偏曲</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_DNS_DESCRIPTION</LocID>             
+		 <Text>鼻中隔偏曲意味着鼻中隔因某种创伤而弯曲。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_LOF</LocID>                         
+		 <Text>面部撕裂</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_LOF_DESCRIPTION</LocID>             
+		 <Text>病人的脸被撕裂了。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_THT</LocID>                         
+		 <Text>鼻甲肥大</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_THT_DESCRIPTION</LocID>             
+		 <Text>鼻甲是长而窄的通道，有助于温暖和湿润通过鼻子流入的空气。鼻甲也称为鼻甲。如果鼻甲太大，实际上会阻碍气流。医生称这种情况为鼻甲肥大。这种情况会导致呼吸问题、频繁感染和流鼻血。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_DSA</LocID>                         
+		 <Text>嗅觉障碍</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_DSA_DESCRIPTION</LocID>             
+		 <Text>嗅觉障碍是一种被描述为嗅觉的任何定性改变或扭曲的疾病。定性改变不同于定量改变，包括嗅觉缺失和尿道下裂。嗅觉障碍可分为幻视症（也称为原嗅觉障碍）或幻视症。幻觉是一种对气味感知的扭曲。气味与记忆中的气味不同。幻视是指当没有气味存在时对气味的感知。嗅觉障碍的原因仍然是一个理论。它通常被认为是一种神经系统疾病，并与该疾病有临床联系。大多数病例被描述为特发性，与腮腺炎相关的主要前因是URTIs、头部创伤和鼻鼻窦疾病。嗅觉障碍倾向于自行消失，但对于需要立即缓解的患者，有治疗的选择。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_NSC</LocID>                         
+		 <Text>鼻癌（鳞状细胞癌）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_NAC</LocID>                         
+		 <Text>鼻癌（腺癌）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_NMA</LocID>                         
+		 <Text>鼻癌（黑色素瘤）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_NSC_DESCRIPTION</LocID>             
+		 <Text>鼻窦和鼻腔癌是一种在鼻窦和鼻腔组织中形成恶性（癌）细胞的疾病。“鼻旁”是指鼻子附近。副鼻窦是鼻子周围骨骼中中空、充满空气的空间。鼻窦里排列着分泌粘液的细胞，这可以防止鼻子内部在呼吸过程中干燥。鼻子通向鼻腔，鼻腔分为两个鼻道。在呼吸过程中，空气通过这些通道流动。鼻腔位于构成口腔顶部的骨骼上方，并在后部向下弯曲以连接喉咙。鼻孔内部的区域称为鼻前庭。每个鼻道顶部的一小块特殊细胞向大脑发送信号，以赋予嗅觉。鼻窦和鼻腔一起过滤和加热空气，使其在进入肺部之前保持湿润。空气通过鼻窦和呼吸系统其他部分的运动有助于发出说话的声音。副鼻窦和鼻腔癌是头颈部癌症的一种类型。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_FON</LocID>                         
+		 <Text>鼻中异物</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_FON_DESCRIPTION</LocID>             
+		 <Text>患者的鼻子里有一个物体。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_SSS</LocID>                         
+		 <Text>病态窦房结综合征</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_SSS_DESCRIPTION</LocID>             
+		 <Text>病态窦房结综合征是一种以无症状慢性上颌窦炎患者眶底塌陷继发眼球内陷或眼球下凹为特征的疾病。这种疾病谱也有两个不同的名称：“慢性上颌不张”和“内爆窦综合征”，尽管有些人仍然认为这些不同的临床实体。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_RST</LocID>                         
+		 <Text>急性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_RST_DESCRIPTION</LocID>             
+		 <Text>急性鼻窦炎是一种在世界范围内流行的常见疾病。这是卫生服务的重大负担。它最常见的是由病毒引起的，本质上是自限性的疾病。急性鼻窦炎的诊断是临床上的，鼻窦造影术不是常规的。大多数急性鼻窦炎病例都是对症治疗。然而，当继发性细菌感染盛行时，症状可能会持续10天以上。抗生素用于中度或重度病例，或出现急性鼻窦炎并发症时。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_CRS</LocID>                         
+		 <Text>慢性鼻窦炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_CRS_DESCRIPTION</LocID>             
+		 <Text>当鼻窦衬里受到感染或刺激，肿胀并产生多余的粘液时，就会发生鼻窦炎。肿胀的衬里也可能妨碍粘液的排出。慢性鼻窦炎是指尽管接受了治疗，但至少持续12周，并导致以下症状中的至少两种：鼻塞、鼻涕从鼻子排出或粘液从喉咙后部滴落、面部疼痛、压力或“饱胀”、嗅觉减退。慢性鼻窦炎不同于更常见的鼻窦炎（称为急性鼻窦炎），这是一种感冒后经常发生的鼻窦暂时感染。慢性鼻窦炎是一个更持久的问题，需要特定的治疗方法。它有时被患者和医疗保健提供者忽视，因为症状更低级和更慢性。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_RPM</LocID>                         
+		 <Text>肥大性酒渣鼻</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_RPM_DESCRIPTION</LocID>             
+		 <Text>肥大性酒渣鼻是一种皮肤病，其特征是鼻子大、红、凸或球状。它可以作为水肿性酒渣鼻的一部分发生。鼻赘的确切原因尚不清楚，但它被认为是严重酒渣鼻的一种亚型。这种情况在男性中更为常见，尤其是在50至70岁之间。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_CLP</LocID>                         
+		 <Text>唇腭裂</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_CLP_DESCRIPTION</LocID>             
+		 <Text>唇裂和腭裂是上唇、口腔（腭）或两者的开口或裂口。当未出生婴儿的面部结构没有完全闭合时，就会导致唇裂和腭裂。唇裂和腭裂是最常见的出生缺陷之一。它们最常见于孤立的出生缺陷，但也与许多遗传性遗传疾病或综合征有关。生一个有唇裂的孩子可能会让人心烦，但唇裂和腭裂是可以纠正的。在大多数婴儿中，一系列的手术可以恢复正常的功能，并在最小的疤痕下获得更正常的外观。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_IVP</LocID>                         
+		 <Text>倒置乳头状瘤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_IVP_DESCRIPTION</LocID>             
+		 <Text>倒置乳头状瘤是一种在鼻腔后部形成的非癌性肿瘤。随着它们的生长，它们有时会延伸到鼻窦或眼眶。有时，倒乳头状瘤会发生恶性转化，成为一种侵袭性的癌症，称为鳞状细胞癌。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_PBN</LocID>                         
+		 <Text>慢性鼻出血（血管）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_PBN_DESCRIPTION</LocID>             
+		 <Text>慢性鼻出血是指由于潜在的血管问题、创伤或任何其他疾病导致的慢性鼻出血。在这种情况下，它是由有问题的血管引起的。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_SDN</LocID>                         
+		 <Text>鞍鼻</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_SDN_DESCRIPTION</LocID>             
+		 <Text>鞍鼻是一种与鼻外伤、先天性梅毒、复发性多软骨炎、肉芽肿伴多血管炎、可卡因滥用和麻风病等疾病相关的疾病。最常见的原因是鼻外伤。它的特点是由于桥梁倒塌，鼻子高度降低。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_SPF</LocID>                         
+		 <Text>鼻中隔穿孔</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_SPF_DESCRIPTION</LocID>             
+		 <Text>鼻中隔穿孔是指鼻中隔（分隔鼻腔的骨/软骨壁）出现孔洞或裂缝的医学状况。这可能是直接导致的，如鼻穿孔，也可能是间接导致的，例如长期局部用药，包括鼻内哌醋甲酯、甲基苯丙胺、可卡因、碎处方药或减充血剂鼻喷雾剂、慢性鼻出血、过度抠鼻，以及鼻外科手术（如鼻中隔成形术或鼻整形术）的并发症。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_SPH</LocID>                         
+		 <Text>鼻中隔血肿</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_SPH_DESCRIPTION</LocID>             
+		 <Text>鼻中隔血肿是指中隔或两个鼻孔之间的间隙中的血液聚集。血肿类似于瘀伤或血块，但如果不加以治疗，它会损伤组织并导致感染。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_CSSP</LocID>                         
+		 <Text>慢性鼻窦炎伴轻度鼻息肉病</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_CSSP_DESCRIPTION</LocID>             
+		 <Text>鼻窦炎是一种患者鼻窦因感染或过敏而发炎的情况，但在慢性鼻窦炎的情况下，鼻窦炎症会持续3个月以上，通常由慢性过敏或鼻息肉引起。在这种情况下，它是由鼻息肉病引起的，鼻息肉是由于过敏、流感、哮喘或囊性纤维化而在鼻内形成的，这通常需要盐水和皮质类固醇鼻喷雾剂，在某些情况下还需要手术。这种情况的治疗是盐水和皮质类固醇鼻喷雾剂，因为鼻息肉是轻微的。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>DIA_CRP_JM_MEC</LocID>                         
+		 <Text>脑膜脑膨出</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   <!-- NEW -->
+		 <LocID>DIA_CRP_JM_MEC_DESCRIPTION</LocID>             
+		 <Text>脑膜脑膨出是脑膨出的一种类型，它是一种由液体、脑组织和脑膜（覆盖大脑和脊髓的膜）组成的异常囊，通过颅骨缺损延伸。脑膜脑膨出有两种主要类型，根据囊的位置来命名。额窦型位于额骨和筛骨，而枕骨型位于枕骨。</Text>  
+		</GameDBLocalizedString>
+		
+	  <!-- Ear Disorders and Diseases -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SED</LocID>                         
+		 <Text>梅尼埃病（重度）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SED_DESCRIPTION</LocID>             
+		 <Text>梅尼埃病是一种内耳疾病，可导致眩晕（眩晕）和听力损失。在大多数情况下，梅尼埃氏病只影响一只耳朵。梅尼埃病可以发生在任何年龄，但通常发生在年轻人和中年人之间。这被认为是一种慢性疾病，但各种治疗方法可以帮助缓解症状，并将对生活的长期影响降至最低。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_SVE</LocID>                         
+		 <Text>断耳</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_SVE_DESCRIPTION</LocID>             
+		 <Text>耳朵被切断意味着耳朵被切断或咬断。 </Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_BTE</LocID>                         
+		 <Text>气压伤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_BTE_DESCRIPTION</LocID>             
+		 <Text>耳气压伤是由于鼓膜内外的压力差而引起的耳朵不适。这可能包括对耳朵的损伤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_FOE</LocID>                         
+		 <Text>耳内异物</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_FOE_DESCRIPTION</LocID>             
+		 <Text>患者的耳朵里有一个异物。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_ACN</LocID>                         
+		 <Text>听神经瘤</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_ACN_DESCRIPTION</LocID>             
+		 <Text>前庭神经鞘瘤（也称为听神经瘤、听神经瘤或听神经鞘瘤）是一种良性的、通常生长缓慢的肿瘤，由内耳的平衡神经和听觉神经发育而来。这种肿瘤来源于雪旺细胞的过度产生，雪旺细胞通常包裹在洋葱皮等神经纤维周围，帮助支撑和隔离神经。随着前庭神经鞘瘤的生长，它会影响听力和平衡神经，通常会导致单侧（单侧）或不对称听力损失、耳鸣（耳鸣）和头晕/失去平衡。随着肿瘤的生长，它会干扰面部感觉神经（三叉神经），导致面部麻木。前庭神经鞘瘤也会影响面部神经（面部肌肉），导致肿瘤一侧的面部无力或瘫痪。如果肿瘤变大，它最终会压迫附近的大脑结构（如脑干和小脑），从而危及生命。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_VNI</LocID>                         
+		 <Text>前庭神经元炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_VNI_DESCRIPTION</LocID>             
+		 <Text>前庭神经元炎是一种影响内耳神经的疾病，称为前庭耳蜗神经。该神经将平衡和头部位置信息从内耳发送到大脑。当这条神经肿胀（发炎）时，它会打乱大脑通常对信息的解读方式。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_CTN</LocID>                         
+		 <Text>子宫颈撞击</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CTN_DESCRIPTION</LocID>             
+		 <Text>耳垢，也称为耵聍，是由身体制造的，用来保护耳朵。耳垢具有润滑和抗菌性能。未经治疗的堆积会导致听力损失、刺激、耳朵疼痛、头晕、耳鸣和其他问题。耳垢可以用几种方法去除；其中一些方法可以在家里完成。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_BPPV</LocID>                         
+		 <Text>良性阵发性位置性眩晕</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_BPPV_DESCRIPTION</LocID>             
+		 <Text>良性阵发性位置性眩晕（BPPV）是一种由内耳问题引起的疾病。症状反复出现，短暂的眩晕伴随着运动，也就是说，头部位置发生变化时会产生旋转感。这可能发生在床上转动或改变位置时。每一次眩晕通常持续不到一分钟。恶心是常见的。BPPV是眩晕最常见的原因之一。BPPV可由头部受伤引起，或仅发生在年龄较大的人群中。通常找不到具体原因。潜在的机制包括一个小的钙化耳石在内耳松动地移动。它是一种平衡失调，伴有迷路炎和梅尼埃病。当Dix–Hallpike测试结果为眼球震颤（眼睛的一种特定运动模式），并且排除了其他可能的原因时，通常会做出诊断。在典型情况下，不需要医学成像。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_PCHA</LocID>                         
+		 <Text>线粒体周围血肿</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_PCHA_DESCRIPTION</LocID>             
+		 <Text>如果你曾经参加过摔跤比赛，你可能会注意到一些运动员的耳朵有些不同。花椰菜耳朵，也称为软骨膜血肿或摔跤手的耳朵，是一种由外伤引起的耳朵畸形。花椰菜耳朵在被击中或击中后，当你的耳廓中出现血泊时。耳廓是你的外耳。这种被称为血肿的血液汇集需要立即治疗。虽然花椰菜耳朵没有治疗方法，但即使在创伤发生后也可以预防。因此，了解警告信号并立即采取行动至关重要。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>DIA_CRP_JM_EWR</LocID>                         
+		 <Text>预约耳垢清除</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_EWR_DESCRIPTION</LocID>             
+		 <Text>患者与耳鼻喉科专家预约，去除耳垢。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_MEDR</LocID>                         
+		 <Text>鼓膜破裂</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_MEDR_DESCRIPTION</LocID>             
+		 <Text>鼓膜破裂（鼓膜穿孔）是将耳道与中耳（鼓膜）分开的薄组织中的一个洞或撕裂。鼓膜破裂会导致听力损失。它也会使你的中耳容易受到感染。鼓膜破裂通常会在几周内愈合，而无需治疗。但有时需要补片或手术修复才能痊愈。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SEDR</LocID>                         
+		 <Text>鼓膜破裂未愈合</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SEDR_DESCRIPTION</LocID>             
+		 <Text>鼓膜破裂（鼓膜穿孔）是将耳道与中耳（鼓膜）分开的薄组织中的一个洞或撕裂。鼓膜破裂会导致听力损失。它也会使你的中耳容易受到感染。鼓膜破裂通常会在几周内愈合，而无需治疗。但有时需要补片或手术修复才能痊愈。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_ANM</LocID>                         
+		 <Text>听神经病变（轻度）</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_ANS</LocID>                         
+		 <Text>听神经病变（严重）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_ANM_DESCRIPTION</LocID>             
+		 <Text>听觉神经病变（严重）是一种听力障碍，其中耳蜗的外毛细胞存在并发挥功能，但听觉神经不能将声音信息充分传递到大脑。AN的听力损失范围从正常的听力敏感性到严重的听力损失。神经病变通常是指周围神经或神经的疾病，但听觉神经本身并不总是受到听觉神经病变频谱障碍的影响。人口中的患病率相对未知。具有听力损失高风险因素的新生儿的患病率高达40%（Vignesh、Jaya和Muraledharan 2016）。这些高危因素包括：缺氧、低出生体重、早产、高胆红素血症、黄疸和氨基糖苷类抗生素治疗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_PBCM</LocID>                         
+		 <Text>老年性耳聋（轻度）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_PBCS</LocID>                         
+		 <Text>老年性耳聋 (严重)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_PBCM_DESCRIPTION</LocID>             
+		 <Text>随着年龄增长而逐渐发生的听力损失（老年性耳聋）是常见的。在美国，大约三分之一的65岁至75岁的人有一定程度的听力损失。对于75岁以上的人，这个数字大约为1/2。衰老和长期暴露在噪音中都会导致听力损失。其他因素，如耳垢过多，会暂时降低耳朵的声音传导能力。你无法扭转大多数类型的听力损失。然而，您和您的医生或听力专家可以采取措施改善您的听力。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_LBRT</LocID>                         
+		 <Text>内耳炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_LBRT_DESCRIPTION</LocID>             
+		 <Text>内耳炎是内耳的炎症。内耳炎（迷路炎）得名于前庭系统所在的迷路，前庭系统可感知头部位置或头部运动的变化。这会导致一种世界旋转的感觉，也可能导致听力损失或耳鸣。它可以是一次发作、一系列发作，也可以是持续三到六周的症状。它可能与恶心、呕吐和眼球震颤有关。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_OTP</LocID>                         
+		 <Text>耳肿块</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_OTP_DESCRIPTION</LocID>             
+		 <Text>耳肿块是用于皮脂腺肥大和耳朵增生的术语。通常是念珠菌病的末期，这是一种常见的慢性皮肤疾病，病因不明。我们在此提出一个罕见的耳赘病例，其临床特征、病因、诊断以及医学和外科治疗的回顾。这位患者多年来一直未被诊断和治疗不当，最终被诊断出患有这种罕见的疾病，并通过手术技术成功治疗。据我们所知，这是耳鼻喉科文献中出现的第二例耳赘生物。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_ESC</LocID>                         
+		 <Text>耳道癌（鳞状细胞癌）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_EAC</LocID>                         
+		 <Text>耳道癌（腺癌）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_EMA</LocID>                         
+		 <Text>耳道癌（黑色素瘤）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_ESC_DESCRIPTION</LocID>             
+		 <Text>耳癌可以影响耳朵的内部和外部。它通常始于外耳的皮肤癌，然后扩散到各种耳朵结构，包括耳道和鼓膜。耳癌也可能从耳内开始。它可以影响耳朵内部的骨骼，称为颞骨。颞骨还包括乳突骨。这是你在耳后感觉到的骨质肿块。耳癌非常罕见。美国每年只有大约300人被确诊感染。相比之下，根据国家癌症研究所的数据，2018年预计将有超过25万例乳腺癌新病例被确诊。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_NOM</LocID>                         
+		 <Text>坏死性中耳炎</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_NOE</LocID>                         
+		 <Text>坏死性外耳炎</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>DIA_CRP_JM_NOM_DESCRIPTION</LocID>             
+		 <Text>坏死性/恶性外耳炎（MOE）是一种影响外耳道和颞骨的感染。致病微生物通常是铜绿假单胞菌，这种疾病通常表现在老年糖尿病患者身上。感染开始于外耳炎，进展为颞骨骨髓炎。疾病在外耳道外的传播通过圣托里尼的裂隙和骨软骨连接处发生。1838年，Toulmouche可能是第一位报告恶性外耳炎（MEO）病例的医生。1959年，梅尔策报告了一例颞骨假性单核骨髓炎。</Text>  
+		</GameDBLocalizedString>
+		
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SWE</LocID>                         
+		 <Text>严重外耳炎</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GEE</LocID>                         
+		 <Text>严重的胶耳</Text>	
+		</GameDBLocalizedString>
+		
+	  <!-- Throat and Mouth Disorders and Diseases -->
+		
+        <GameDBLocalizedString> 
+		 <LocID>DIA_CRP_JM_CSA</LocID>                         
+		 <Text>慢性涎腺炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_CSA_DESCRIPTION</LocID>             
+		 <Text>相比之下，慢性唾液腺炎通常疼痛较轻，并与腺体的复发性肿大（通常在饭后）相关，通常没有红斑。该病的慢性形式与唾液流量减少而非脱水相关。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_ASS</LocID>                         
+		 <Text>急性化脓性唾液腺炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_ASS_DESCRIPTION</LocID>             
+		 <Text>急性唾液腺炎是一种唾液腺的细菌性炎症。它通常影响一个主要的唾液腺，最常见的是腮腺，并且常见于身体虚弱、住院或术后患者。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>DIA_CRP_JM_DTA</LocID>                         
+		 <Text>白喉</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_DTA_DESCRIPTION</LocID>             
+		 <Text>白喉是一种严重的细菌感染，通常会影响鼻子和喉咙的黏膜。由于广泛的疫苗接种，白喉在美国和其他发达国家极为罕见。白喉可以通过药物治疗。但在晚期，白喉会损害你的心脏、肾脏和神经系统。即使经过治疗，白喉也可能致命，尤其是儿童。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_VCP</LocID>                         
+		 <Text>声带麻痹</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_VCP_DESCRIPTION</LocID>             
+		 <Text>声带麻痹发生在你的声音盒（喉）的神经冲动被破坏时。这会导致声带肌肉麻痹。声带麻痹会影响你说话甚至呼吸的能力。这是因为你的声带，有时称为声带，不仅仅是产生声音。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_TSC</LocID>                         
+		 <Text>喉癌（鳞状细胞癌）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_TAC</LocID>                         
+		 <Text>喉癌（腺癌）</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>DIA_CRP_JM_TML</LocID>                         
+		 <Text>喉癌（黑色素瘤）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_TSC_DESCRIPTION</LocID>             
+		 <Text>喉鳞状细胞癌是最常见的喉癌类型。喉鳞状细胞癌是一种不受控制的喉粘膜异常细胞生长。喉咙由咽（舌头后面的上部）和喉（甲状腺）组成。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_CPHG</LocID>                         
+		 <Text>慢性咽炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		 <LocID>DIA_CRP_JM_CPHG_DESCRIPTION</LocID>             
+		 <Text>咽炎是一种咽喉后部的炎性疾病。急性咽炎更常见，症状通常在十天内消失。急性咽炎的治疗通常集中于治疗症状。大多数急性咽炎是病毒性的，但也有一些是细菌性的。只有当细菌感染是急性咽炎的原因时，抗生素才有帮助。但即使很明显是细菌性的（有时很难说），也不一定建议所有患者使用抗生素治疗。然而，慢性咽炎可由感染以外的多种不同因素引起。在慢性咽炎中，疼痛不会消失或经常复发。如果喉咙痛持续数周以上，咽炎可能是慢性的。慢性咽炎有几个潜在的原因，治疗取决于潜在的原因是什么。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SPT</LocID>                         
+		 <Text>链球菌性咽喉炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_SPT_DESCRIPTION</LocID>             
+		 <Text>链球菌性咽喉炎是由一种细菌（A组链球菌）引起的感染。几乎三分之一的喉咙痛是由链球菌引起的。链球菌性咽喉炎通常需要抗生素治疗。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_HFMV2</LocID>                         
+		 <Text>手足口病</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_HFM_DESCRIPTION</LocID>             
+		 <Text>手足口病（HFMD）是由一组病毒引起的常见感染。它通常以发烧和感觉不适开始。一两天后，手、脚和嘴上会出现可能起泡的扁平变色斑点或肿块。这种疾病没有治疗方法，你只需要治疗症状，直到疾病结束。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_LGP</LocID>                         
+		 <Text>喉乳头状瘤病</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_LGP_DESCRIPTION</LocID>             
+		 <Text>喉乳头状瘤病，也称为复发性呼吸道乳头状瘤或声门乳头状瘤，是一种罕见的疾病，良性肿瘤（乳头状瘤）沿着空气消化道形成。根据发病年龄有两种变异：青少年和成人喉乳头状瘤病。这些肿瘤是由人乳头瘤病毒（HPV）感染咽喉引起的。肿瘤可能会导致气道变窄，这可能会导致声音改变或气道阻塞。喉乳头瘤病最初是通过间接喉镜在观察到喉部生长后诊断的，并可通过活检进行确认。喉乳头状瘤病的治疗旨在去除乳头状瘤并限制其复发。由于病毒的复发性，通常需要反复治疗。喉乳头状瘤病主要通过手术治疗，但在某些情况下可考虑采用非手术和/或医学辅助治疗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_VCN</LocID>                         
+		 <Text>声带结节</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_VCN_DESCRIPTION</LocID>             
+		 <Text>声带结节是声带上坚硬、粗糙、非癌性的生长。它们可以小如针头，也可以大如豌豆。你会因用力过猛或过度使用声音而得结节，尤其是唱歌、喊叫、大声说话或长时间说话。声带小结根据其病因而被称为其他名称。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYC</LocID>                         
+		 <Text>喉穿透</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYC_DESCRIPTION</LocID>             
+		 <Text>喉穿透                                                                      是对声带所在气道上部的音盒或喉的损伤。气道钝性损伤相当常见，但在儿童中发生的频率低于成人。在儿科病例中，创伤通常是由颈部跌倒或打击或其他喉咙损伤引起的。损伤范围从轻微的声带无力到喉或气管软骨结构断裂。这些骨折会导致空气进入颈部和胸部，如果不及时诊断和治疗，会导致严重的呼吸系统损害，甚至死亡。在儿童时期，喉和气管具有柔软的软骨结构和较小的体积。因此，儿童骨折的发生率较低。即使是最大的医院也只看到少数真正的喉气管骨折病例。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYL</LocID>                         
+		 <Text>喉撕裂</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_LYL_DESCRIPTION</LocID>             
+		 <Text>喉撕裂是对声带所在气道上部的音盒或喉的损伤。气道钝性损伤相当常见，但在儿童中发生的频率低于成人。在儿科病例中，创伤通常是由颈部跌倒或打击或其他喉咙损伤引起的。损伤范围从轻微的声带无力到喉或气管软骨结构断裂。这些骨折会导致空气进入颈部和胸部，如果不及时诊断和治疗，会导致严重的呼吸系统损害，甚至死亡。在儿童时期，喉和气管具有柔软的软骨结构和较小的体积。因此，儿童骨折的发生率较低。即使是最大的医院也只看到少数真正的喉气管骨折病例。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GRDV2</LocID>                         
+		 <Text>胃食管反流病</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GRD</LocID>                         
+		 <Text>胃食管反流病（已过时）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_GRD_DESCRIPTION</LocID>             
+		 <Text>胃食管反流病，或称GERD，是一种影响食管下括约肌（LES）的消化系统疾病，LES是食管和胃之间的肌肉环。许多人，包括孕妇，都患有GERD引起的烧心或酸消化不良。如果不加以治疗，将导致食管炎、巴雷特食管甚至食管癌。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_OSA2</LocID>                         
+		 <Text>阻塞性睡眠呼吸暂停</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_OSA_DESCRIPTION</LocID>             
+		 <Text>阻塞性睡眠呼吸暂停（OSA）是最常见的睡眠呼吸暂停类型，其特征是尽管努力呼吸，但在睡眠过程中上呼吸道反复出现完全或部分阻塞，通常与血氧饱和度降低有关。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>TRM_CRP_JM_PYC</LocID>                         
+		 <Text>咽穿透</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_PYC_DESCRIPTION</LocID>             
+		 <Text>咽喉创伤是对咽喉或咽部的损伤。咽喉穿孔是儿童中一种罕见的损伤。迄今为止，大多数报告的病例都是继发于器械或穿透性伤口。咽壁撕裂可能会将空气、分泌物和细菌引入咽旁间隙和纵隔，因此可能会造成危及生命的后遗症。这些受伤的处理方式存在争议。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>TRM_CRP_JM_PYL</LocID>                         
+		 <Text>咽撕裂</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>TRM_CRP_JM_PYL_DESCRIPTION</LocID>             
+		 <Text>咽喉创伤是对咽喉或咽部的损伤。咽喉穿孔是儿童中一种罕见的损伤。迄今为止，大多数报告的病例都是继发于器械或穿透性伤口。咽壁撕裂可能会将空气、分泌物和细菌引入咽旁间隙和纵隔，因此可能会造成危及生命的后遗症。这些受伤的处理方式存在争议。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CWP</LocID>                         
+		 <Text>气管软化症</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CWP_DESCRIPTION</LocID>             
+		 <Text>气管软化症是指保持气道（气管）开放的软骨变软，导致气管部分塌陷，尤其是在气流增加时。当一个人呼气时，通常的症状是喘鸣。这通常被称为塌陷的气管。吸气时气管通常会稍微张开，呼气时气管会稍微变窄。这些过程在气管软化症中被夸大，导致呼气时气道塌陷。如果病情进一步扩展到大气道（支气管）（如果也有支气管软化症），则称为气管支气管软化症。同样的情况也会影响喉部，这就是所谓的喉软化症。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CLRG</LocID>                         
+		 <Text>慢性喉炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CLRG_DESCRIPTION</LocID>             
+		 <Text>持续三周以上的喉炎被称为慢性喉炎。这种类型的喉炎通常是由于长期接触刺激性物质引起的。慢性喉炎可导致声带劳损和损伤或声带生长（息肉或结节）。慢性喉炎可由吸入刺激物引起——烟雾、化学物质和过敏原、胃食管反流病、吸烟、饮酒、慢性鼻窦炎和过度使用声音。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CTSA</LocID>                         
+		 <Text>中枢性睡眠呼吸暂停</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CTSA_DESCRIPTION</LocID>             
+		 <Text>中枢性睡眠呼吸暂停是一种在睡眠中呼吸反复停止和开始的疾病。中枢性睡眠呼吸暂停是因为你的大脑没有向控制你呼吸的肌肉发出适当的信号。这种情况不同于阻塞性睡眠呼吸暂停，因为上呼吸道阻塞，你无法正常呼吸。中枢性睡眠呼吸暂停比阻塞性睡眠呼吸呼吸暂停更不常见。中枢性睡眠呼吸暂停可能是其他情况的结果，如心力衰竭和中风。在高空睡觉也可能导致中枢性睡眠呼吸暂停。中枢性睡眠呼吸暂停症的治疗可能包括治疗现有疾病，使用辅助呼吸的设备或使用补充氧气。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_RKE</LocID>                         
+		 <Text>任克氏水肿</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_RKE_DESCRIPTION</LocID>             
+		 <Text>任克氏水肿是由于Reinke腔中收集的液体（水肿）导致声带肿胀。1895年，德国解剖学家弗里德里希·B·莱因克首次发现了莱因克空间，它是位于声带外层细胞下方的一层胶状声带。当一个人说话时，任克氏的空间会振动，从而产生声音（发音）。任克氏间隙有时被称为固有浅层。Reinke水肿的特征是充满液体的声带出现“囊状”。声带的肿胀使声音变得低沉而嘶哑。因此，任克氏水肿的主要症状是类似于喉炎的声音嘶哑。与任克氏水肿相关的主要原因是吸烟。事实上，97%的Reinke水肿患者是习惯性吸烟者。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_OVC</LocID>                         
+		 <Text>声带疲劳</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_OVC_DESCRIPTION</LocID>             
+		 <Text>过度使用声音会导致声带疲劳。我们经常在专业声音使用者中看到这一点，例如教师、歌手和呼叫中心员工。就像你的腿会因为跑步而累一样，长时间使用你的声音也会累。我们的声音治疗师建议，每使用60分钟的声音，你就需要10分钟的声音休息。过度使用会损坏声带，如果你经常发现自己在一天结束或唱歌一小时后失去了声音，你的声带可能会受到组织损伤。喉科医生会检查你的声带是否有生长或其他情况，并可能会建议语音治疗来学习减轻声带压力的技术，希望有助于扭转任何组织损伤。这些治疗技术侧重于发声的基本原理和重新平衡发声子系统。治疗针对每个语音用户及其语音需求进行个性化。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>DIA_CRP_JM_CTS</LocID>                         
+		 <Text>慢性扁桃体炎</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		 <LocID>DIA_CRP_JM_CTS_DESCRIPTION</LocID>             
+		 <Text>扁桃体炎是扁桃体的炎症，在咽喉后部有两个椭圆形的组织垫，每侧一个扁桃体。扁桃体炎的症状和体征包括扁桃体肿胀、喉咙痛、吞咽困难和颈部两侧淋巴结肿大。大多数扁桃体炎是由感染一种常见病毒引起的，但细菌感染也可能导致扁桃体炎。如果症状持续3个月以上，扁桃体炎可能是慢性的。在这种情况下，您的医生可能会建议您切除扁桃体（扁桃体切除术）。</Text>  
+		</GameDBLocalizedString>
+		
+		
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

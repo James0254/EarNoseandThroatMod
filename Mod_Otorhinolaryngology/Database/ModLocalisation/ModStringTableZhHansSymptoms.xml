@@ -1,0 +1,991 @@
+<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_OTOR_SYMPTOMS">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>简体中文</LanguageNameLocalized>
+	<Contributors>
+	<Name>ccace</Name>
+	</Contributors>
+	<LocalizedStrings>
+	 <!-- Symptoms -->
+		
+      <!-- Section Nose -->
+	   <!-- Nasal Symptoms -->
+		
+
+	   <!-- Nasal Main Symptoms -->
+	   
+	    <GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS</LocID>                 
+		 <Text>筛状鼻息肉</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS_DESCRIPTION</LocID>     
+		 <Text>鼻息肉是一种柔软、无痛、无癌的生长物，生长在鼻腔或鼻窦的衬里上。它们像泪珠或葡萄一样垂下来。它们是由慢性炎症引起的。有两种主要类型的鼻息肉：筛窦息肉和窦前息肉。筛窦息肉起源于筛窦，并通过中鼻道进入鼻腔。前鼻孔息肉通常发生在上颌窦，并延伸到鼻咽，仅占所有鼻息肉的4-6%。根据鼻息肉的大小，可以用盐水喷雾或手术治疗。</Text>  
+		</GameDBLocalizedString>
+		
+	    <GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_NASAL_OBSTRUCTION</LocID>                 
+		 <Text>鼻腔炎症</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_NASAL_OBSTRUCTION_DESCRIPTION</LocID>     
+	   	 <Text>医生发现鼻子有炎症，通过CT或鼻腔检查没有发现鼻息肉。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>       
+		 <LocID>SYM_CRP_JM_FUNGAL_INFECTION_OF_SINUS</LocID>                               
+		 <Text>鼻窦曲霉菌</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_FUNGAL_INFECTION_OF_SINUS_DESCRIPTION</LocID>                               
+		 <Text>通过痰液培养在鼻窦中发现了曲霉菌。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_ENS_FINDINGS</LocID>                 
+		 <Text>发现空鼻综合征</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_ENS_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>CT扫描发现了空鼻综合征。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_DEVIATED_NASAL_SEPTUM</LocID>                 
+		 <Text>鼻中隔偏曲</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_DEVIATED_NASAL_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>鼻腔检查显示患者鼻中隔偏曲。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_FACE_LACERATION</LocID>                 
+		 <Text>撕裂的脸</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FACE_LACERATION_DESCRIPTION</LocID>     
+		 <Text>病人的脸被撕裂了。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_SWOLLEN_NASAL_TURBINATE</LocID>                 
+		 <Text>鼻粘膜肿胀</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SWOLLEN_NASAL_TURBINATE_DESCRIPTION</LocID>     
+		 <Text>患者的鼻甲肿胀。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_DYSOSMIA_CONFIRMED</LocID>                 
+		 <Text>嗅觉障碍确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_DYSOSMIA_CONFIRMED_DESCRIPTION</LocID>     
+		 <Text>医生确认病人有嗅觉障碍。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_NOSE</LocID>                 
+		 <Text>鼻腔发现鳞状细胞癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_NOSE_DESCRIPTION</LocID>     
+		 <Text>一个肿瘤伴随着癌症，通过活检在鼻腔中发现了鳞状细胞癌。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_NOSE</LocID>                 
+		 <Text>鼻腔腺癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>一个肿瘤伴随着癌症，通过活检在鼻腔中发现了腺癌。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_MELANOMA_NOSE</LocID>                 
+		 <Text>鼻腔发现黑色素瘤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_MELANOMA_NOSE_DESCRIPTION</LocID>     
+		 <Text>活检发现鼻腔中有一个肿瘤和癌细胞黑色素瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_NOSE</LocID>                 
+		 <Text>鼻子里有异物</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_NOSE_DESCRIPTION</LocID>     
+		 <Text>病人的鼻子里有一个异物。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_SNORE</LocID>                 
+		 <Text>打鼾</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_CRP_JM_NA_RH</LocID>                 
+		<Text>非过敏性鼻炎确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_CRP_JM_NA_RH_DESCRIPTION</LocID>     
+		<Text>一例非过敏性鼻炎已被证实。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_ASN_CONFIRM</LocID>                 
+		 <Text>过敏性鼻窦炎确诊</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_ASN_CONFIRM_DESCRIPTION</LocID>     
+		 <Text>一例过敏性鼻窦炎已被证实。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_COLLAPSED_SINUS</LocID>                 
+		 <Text>鼻窦塌陷</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_COLLAPSED_SINUS_DESCRIPTION</LocID>     
+		 <Text>患者鼻窦塌陷，导致面部畸形。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_ACUTE_RHINOSINUSITIS</LocID>                 
+		 <Text>急性鼻鼻窦感染</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_ACUTE_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>患者鼻子和鼻窦急性感染，导致急性鼻窦炎。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_CHRONIC_RHINOSINUSITIS</LocID>                 
+		 <Text>慢性鼻窦炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_CHRONIC_RHINOSINUSITIS_DESCRIPTION</LocID>     
+		 <Text>患者的鼻子和鼻窦有慢性炎症，导致慢性鼻窦炎。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_RHINOPHYMA</LocID>                 
+		 <Text>确认有鼻癣</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_RHINOPHYMA_DESCRIPTION</LocID>     
+		 <Text>医生在鼻子上发现了一个厚厚的、过多的类似犀牛皮的肿块/通过鼻子活检发现了过多的组织、油脂、细菌和皮脂腺。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_CLEFT_LIP_PALATE</LocID>                 
+		 <Text>唇腭裂</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_CLEFT_LIP_PALATE_DESCRIPTION</LocID>     
+		 <Text>患者已告知医生其唇腭裂/医生已确认患者患有唇腭裂。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_PROBLEMATIC_BLOOD_VESSELS_N</LocID>                 
+		 <Text>血管问题</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_PROBLEMATIC_BLOOD_VESSELS_N_DESCRIPTION</LocID>     
+		 <Text>鼻镜检查发现患者鼻子中有一条有问题的血管。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_INVERTED_PAPILLOMA_N</LocID>                 
+		 <Text>鼻内发现HPV肿瘤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_INVERTED_PAPILLOMA_N_DESCRIPTION</LocID>     
+		 <Text>活检发现了一个由人乳头瘤病毒（HPV）引起的鼻子良性肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS_S</LocID>                 
+		 <Text>上颌窦鼻息肉</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_NASAL_POLYPS_S_DESCRIPTION</LocID>     
+		 <Text>鼻息肉是一种柔软、无痛、无癌的生长物，生长在鼻腔或鼻窦的衬里上。它们像泪珠或葡萄一样垂下来。它们是由慢性炎症引起的。有两种主要类型的鼻息肉：筛窦息肉和窦前息肉。筛窦息肉起源于筛窦，并通过中鼻道进入鼻腔。前鼻孔息肉通常发生在上颌窦，并延伸到鼻咽，仅占所有鼻息肉的4-6%。根据鼻息肉的大小，可以用盐水喷雾或手术治疗。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_SADDLE_NOSE</LocID>                 
+		 <Text>鼻外伤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_SADDLE_NOSE_DESCRIPTION</LocID>     
+		 <Text>患者经历了鼻子外伤，导致鼻子挤压。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_PERFORATED_SEPTUM</LocID>                 
+		 <Text>穿孔鼻中隔</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_PERFORATED_SEPTUM_DESCRIPTION</LocID>     
+		 <Text>患者鼻中隔穿孔。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_SEPTAL_CLOT</LocID>                 
+		 <Text>隔血凝块</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_SEPTAL_CLOT_DESCRIPTION</LocID>     
+		 <Text>患者在经历鼻外伤后，鼻中隔中有血块。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  <!-- NEW -->
+		 <LocID>SYM_CRP_JM_MENINGES_DEFORMITY</LocID>                 
+		 <Text>脑膜脑膨出</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_MENINGES_DEFORMITY_DESCRIPTION</LocID>     
+		 <Text>由于颅骨畸形，CT或MRI发现了异常的液体囊、脑组织和脑膜。</Text>  
+		</GameDBLocalizedString>
+		
+	   <!-- Nasal Obselete Symptoms (Main and normal) -->
+		
+      <!-- Section Ear -->
+	   <!-- Ear Related Symptoms -->
+
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_RINGING_IN_THE_EARS</LocID>                             
+		 <Text>耳鸣</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_EAR_FLUID_DRAINAGE</LocID>                        
+		 <Text>耳漏</Text> 
+		</GameDBLocalizedString>
+				
+		<GameDBLocalizedString>     
+		 <LocID>SYM_JM_SWOLLEN_EAR_CANAL</LocID>                    
+		 <Text>耳道肿胀</Text>
+		</GameDBLocalizedString>
+		
+	  <!-- Ear Related Main Symptoms -->
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_SEVERE_MENIERES</LocID>                 
+		 <Text>严重的梅尼埃病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SEVERE_MENIERES_DESCRIPTION</LocID>     
+		 <Text>一例严重的梅尼埃氏症已经确诊。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_M_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>鼓膜破裂</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_M_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>患者鼓膜破裂。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_S_RUPTURED_EAR_DRUM</LocID>                 
+		 <Text>鼓膜破裂</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_S_RUPTURED_EAR_DRUM_DESCRIPTION</LocID>     
+		 <Text>患者的鼓膜破裂，尚未愈合。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_INFECTED</LocID>                 
+		 <Text>发现耳朵感染</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_INFECTED_DESCRIPTION</LocID>     
+		 <Text>患者发现耳朵感染。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FLUID_IN_MIDDLE_EAR</LocID>                               
+		 <Text>中耳积液</Text>  
+		</GameDBLocalizedString>
+			
+	    <GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_FLUID_IN_MIDDLE_EAR_DESCRIPTION</LocID>                               
+		 <Text>发现中耳有液体。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_BAROTRAUMA</LocID>                 
+		 <Text>气压伤确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_BAROTRAUMA_DESCRIPTION</LocID>     
+		 <Text>医生确认病人有气压创伤。</Text>  
+		</GameDBLocalizedString>
+	 
+	    <GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_SEVERED_EAR</LocID>                 
+		 <Text>割破的耳朵</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_SEVERED_EAR_DESCRIPTION</LocID>     
+		 <Text>病人的耳朵因外伤而被切断。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_PERICHONDRIAL_HEMATOMA</LocID>                 
+		 <Text>耳内血块</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_PERICHONDRIAL_HEMATOMA_DESCRIPTION</LocID>     
+		 <Text>患者的耳朵有血块</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_EAR</LocID>                 
+		 <Text>耳朵里有异物</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_FOREIGN_OBJECT_IN_EAR_DESCRIPTION</LocID>     
+		 <Text>患者的耳朵里有一个物体。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_VESTIBULAR_NEURITIS</LocID>                 
+		 <Text>前庭神经元炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_VESTIBULAR_NEURITIS_DESCRIPTION</LocID>     
+		 <Text>患者的前庭神经发炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_VESTIBULAR_TUMOR</LocID>                 
+		 <Text>前庭神经鞘瘤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VESTIBULAR_TUMOR_DESCRIPTION</LocID>     
+		 <Text>患者的前庭神经上长有肿瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_EAR_WAX_BLOCKAGE</LocID>                 
+		 <Text>发现耳垢堵塞</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_EAR_WAX_BLOCKAGE_DESCRIPTION</LocID>     
+		 <Text>患者的耳朵被耳垢堵塞</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_EAR_WAX_REMOVAL</LocID>                 
+		 <Text>耳垢去除</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_EAR_WAX_REMOVAL_DESCRIPTION</LocID>     
+		 <Text>患者希望去除耳垢</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_BPPV</LocID>                 
+		 <Text>BPPV怀疑</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_BPPV_DESCRIPTION</LocID>     
+		 <Text>医生已经排除了所有可能与BPPV相关的疾病，医生怀疑患者患有BPPV。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> 
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_M</LocID>     <!-- NEW -->            
+		 <Text>听性脑干反应缺失/异常，听觉缺失（轻度）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_M_DESCRIPTION</LocID>     
+		 <Text>医生进行了耳听觉发射检查，结果显示外毛细胞功能正常，听觉脑干反应（ABR）缺失或异常，伴有耳蜗微音，听觉反射缺失，幸运的是轻微。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_S</LocID>                 
+		 <Text>听性脑干反应缺失/异常，听觉缺失（严重）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_AUDITORY_NEUROPATHY_S_DESCRIPTION</LocID>     
+		 <Text>医生进行了耳听觉发射检查，结果显示外毛细胞功能正常，听觉脑干反应（ABR）缺失或异常，伴有耳蜗微音和听觉反射缺失，不幸的是情况严重。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_M</LocID>                 
+		 <Text>年龄相关听力损失（轻度）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_M_DESCRIPTION</LocID>     
+		 <Text>医生已经进行了评估和听力测试，并得出结论，患者患有老年性聋（老年相关听力损失），幸运的是病情轻微。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_S</LocID>                 
+		 <Text>年龄相关听力损失（严重）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_PRESBYCUSIS_S_DESCRIPTION</LocID>     
+		 <Text>医生已经进行了评估和听力测试，并得出结论，患者患有老年性聋（老年相关听力损失），不幸的是严重。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_LABYRINTHITIS</LocID>                 
+		 <Text>前庭神经受损</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_LABYRINTHITIS_DESCRIPTION</LocID>     
+		 <Text>医生进行了MRI或CT检查，结果显示前庭神经和耳蜗神经均有炎症，这表明存在内耳炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_OTOPHYMA</LocID>                 
+		 <Text>耳朵肿胀</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_OTOPHYMA_DESCRIPTION</LocID>     
+		 <Text>医生已经做了一次耳朵检查，患者的耳朵似乎肿了，医生得出结论，患者患有一种非常罕见的耳垂病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_EAR</LocID>                 
+		 <Text>耳道发现腺癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>耳道活检发现一个肿瘤伴癌腺癌。</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_EAR</LocID>                 
+		 <Text>耳道发现鳞状细胞癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_EAR_DESCRIPTION</LocID>     
+		 <Text>耳道活检发现一个肿瘤伴癌鳞状细胞癌。</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_MELANOMA_EAR</LocID>                 
+		 <Text>耳道发现黑色素瘤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_MELANOMA_EAR_DESCRIPTION</LocID>     
+		 <Text>耳道活检发现了一个肿瘤和癌症黑色素瘤。</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_E</LocID>                 
+		 <Text>恶性耳感染（外部）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_E_DESCRIPTION</LocID>     
+		 <Text>已发现由铜绿假单胞菌引起的恶性感染导致患者外耳炎。</Text>
+		</GameDBLocalizedString>
+		 
+		<GameDBLocalizedString> <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_M</LocID>                 
+		 <Text>恶性耳感染（中部）</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    <!-- NEW --> 
+		 <LocID>SYM_CRP_JM_MALIGNANT_EAR_INFECTION_M_DESCRIPTION</LocID>     
+		 <Text>已发现由铜绿假单胞菌引起的恶性感染导致患者中耳炎。</Text>
+		</GameDBLocalizedString>
+	 
+	  <!-- Obselete Ear Symptoms (Main and Normal) -->
+		
+	 <!-- Section Throat and Mouth -->
+	  <!-- Throat and Mouth Related Symptoms -->
+
+		
+	  <!-- Throat and Mouth Related Main Symptoms -->
+	  
+		<GameDBLocalizedString>
+		 <LocID>SYM_CRP_JM_HPV_FOUND</LocID>                 
+		 <Text>咽喉部HPV</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_HPV_FOUND_DESCRIPTION</LocID>     
+		 <Text>通过做活检发现了HPV。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_CONTUSION</LocID>                 
+		 <Text>喉外伤确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>一例喉外伤已被证实。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_LACERATION</LocID>                 
+		 <Text>确认喉部穿透</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_BLUNT_LARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>已证实一例喉部穿孔。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VCN</LocID>                 
+		 <Text>发现声带结节</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_VCN_DESCRIPTION</LocID>     
+		 <Text>喉镜已发现声带结节 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ACUTE_S_SIA</LocID>                 
+		 <Text>确认急性化脓性唾液腺炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_ACUTE_S_SIA_DESCRIPTION</LocID>     
+		 <Text>该患者被诊断为急性化脓性腺炎。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_CHRONIC_SIA</LocID>                 
+		 <Text>慢性唾液腺炎确诊</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_CHRONIC_SIA_DESCRIPTION</LocID>     
+		 <Text>该患者被诊断为慢性唾液腺炎。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_THROAT</LocID>                 
+		 <Text>咽鳞状细胞癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_SQUAMOUS_CELL_THROAT_DESCRIPTION</LocID>     
+		 <Text>咽活检发现一个肿瘤伴有癌鳞状细胞癌。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_THROAT</LocID>                 
+		 <Text>咽腺癌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_ADENOCARCINOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>一个肿瘤伴随着癌症，通过活检在咽部发现了腺癌。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_MELANOMA_THROAT</LocID>                 
+		 <Text>咽部发现黑色素瘤</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_MELANOMA_THROAT_DESCRIPTION</LocID>     
+		 <Text>通过活检，在咽部发现了一个肿瘤和癌细胞黑色素瘤。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_CHRONIC_PHARYNGITIS</LocID>                 
+		 <Text>慢性咽炎确诊</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_CHRONIC_PHARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>医生确认病人患有慢性咽炎。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_LARYNGEAL_PARALYSIS</LocID>                 
+		 <Text>声带麻痹</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_CRP_JM_LARYNGEAL_PARALYSIS_DESCRIPTION</LocID>     
+		 <Text>医生看到声带麻痹的迹象。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_CRP_JM_OSA_FINDINGS</LocID>                 
+		 <Text>阻塞性睡眠呼吸暂停表现</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_OSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>息肉睡眠图显示患者出现阻塞性睡眠呼吸暂停。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_CONTUSION</LocID>                 
+		 <Text>咽外伤确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_CONTUSION_DESCRIPTION</LocID>     
+		 <Text>一例咽外伤已被确认。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_LACERATION</LocID>                 
+		 <Text>咽穿透确认</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_BLUNT_PHARYNX_LACERATION_DESCRIPTION</LocID>     
+		 <Text>已证实一例咽穿透。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_COLLAPSED_TRACHEA</LocID>                 
+		 <Text>气管塌陷</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_COLLAPSED_TRACHEA_DESCRIPTION</LocID>     
+		 <Text>患者的气管塌陷，需要立即手术。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_CHRONIC_LARYNGITIS</LocID>                 
+		 <Text>慢性喉炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_CHRONIC_LARYNGITIS_DESCRIPTION</LocID>     
+		 <Text>患者的喉咙（声带）已经发炎超过3个月。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_CSA_FINDINGS</LocID>                 
+		 <Text>中枢性睡眠呼吸暂停发现</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_CSA_FINDINGS_DESCRIPTION</LocID>     
+		 <Text>息肉睡眠图显示患者出现中枢性睡眠呼吸暂停。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_VC_EDEMA</LocID>                 
+		 <Text>声带水肿</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_VC_EDEMA_DESCRIPTION</LocID>     
+		 <Text>患者喉部（声带）积液。 </Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_VC_OVERUSE</LocID>                 
+		 <Text>声带过度使用</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_VC_OVERUSE_DESCRIPTION</LocID>     
+		 <Text>患者的声带已经过度并误用，导致声带紧张。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_CHRONIC_TONSILITIS</LocID>                 
+		 <Text>慢性扁桃体炎</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      <!-- NEW -->
+		 <LocID>SYM_CRP_JM_CHRONIC_TONSILITIS_DESCRIPTION</LocID>     
+		 <Text>患者经历了反复感染/扁桃体慢性感染。</Text>  
+		</GameDBLocalizedString>
+		
+	  <!-- Throat and Mouth Related Obselete Symptoms (Main and Normal) -->
+	  
+	 <!-- Other Symptoms -->
+	 
+	 <!-- Misc -->
+	 
+	    <GameDBLocalizedString>      
+		<LocID>SYM_JM_LARGE_ARTERIES_DAMAGED</LocID>                    
+		<Text>大动脉受损</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_LARGE_ARTERIES_DAMAGED_DESCRIPTION</LocID>        
+		<Text>一些较大的动脉受损，可能导致危及生命的并发症。</Text>  
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_FOREIGN_OBJECT_PRESENT</LocID>                    
+		<Text>存在异物</Text>  
+		</GameDBLocalizedString>
+        
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_FOREIGN_OBJECT_PRESENT_DESCRIPTION</LocID>        
+		<Text>伤口中仍有异物或其部分，可能导致严重并发症。</Text>  
+		</GameDBLocalizedString>
+        
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_LUNGS_PERFORATED</LocID>                          
+		<Text>肺部穿孔</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		<LocID>SYM_JM_LUNGS_PERFORATED_DESCRIPTION</LocID>              
+		<Text>肺膜和组织穿孔。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>SYM_JM_BLISTERS</LocID>                                  
+		<Text>水泡</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_BLISTERS_DESCRIPTION</LocID>                      
+		<Text>皮肤上层（表皮）和下层之间的一小块液体，通常由摩擦或热损伤皮肤引起。</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DESQUAMATION</LocID>  
+		<Text>脱屑</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DESQUAMATION_DESCRIPTION</LocID> 
+		<Text>皮肤最外层的脱落也称为脱皮。</Text>
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_DARK_SKIN</LocID>           
+		<Text>深色皮肤</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_DARK_SKIN_DESCRIPTION</LocID>           
+		<Text>皮肤异常变黑。</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_NECROSIS</LocID>                        
+		<Text>坏死</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_NECROSIS_DESCRIPTION</LocID>  
+		<Text>由自身酶引起的组织过早死亡。当流向组织的血液过少时，就会发生这种情况。这可能是由伤害、辐射或化学物质引起的。坏死无法逆转。</Text> 
+		</GameDBLocalizedString>
+		
+        
+		<GameDBLocalizedString>
+		<LocID>SYM_JM_GUNSHOT_WOUND</LocID>                            
+		<Text>枪伤</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>     
+		<LocID>SYM_JM_GUNSHOT_WOUND_DESCRIPTION</LocID>
+		<Text>火器射出的子弹造成的进入或进入和离开伤口。</Text>  
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BALLISTIC_WOUND</LocID>  
+		<Text>弹道创伤</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BALLISTIC_WOUND_DESCRIPTION</LocID> 
+		<Text>射弹造成的进入和退出或进入伤口。</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_STAB_WOUND</LocID>                         
+		<Text>刺伤</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>SYM_JM_STAB_WOUND_DESCRIPTION</LocID>      
+		<Text>刺伤。</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_PENETRATING_WOUND</LocID>    
+		<Text>穿透性伤口</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_PENETRATING_WOUND_DESCRIPTION</LocID>      
+		<Text>异物穿透造成的伤口。</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>    
+		<LocID>SYM_JM_BLAST_WOUND</LocID>  
+		<Text>爆炸伤</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BLAST_WOUND_DESCRIPTION</LocID> 
+		<Text>爆炸造成的伤口。</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>  
+		<LocID>SYM_JM_BURN_WOUND</LocID>     
+		<Text>烧伤伤口</Text> 
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString> 
+		<LocID>SYM_JM_BURN_WOUND_DESCRIPTION</LocID>   
+		<Text>由热、冷、电、化学物质、摩擦或辐射引起的烧伤，影响皮肤或其他组织。</Text>
+		</GameDBLocalizedString>
+
+		
+	 <!-- Facial Symptoms -->
+	 
+	 <!-- Section Blood -->
+	  <!-- Blood related Symptoms --> 
+
+		
+	 <!-- Section Skin -->
+	  <!-- Skin related Symptoms -->
+		
+	 <!-- Section Microbiology -->
+	  <!-- Virology and Bacterology related Symptoms -->
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COXSACK</LocID>                 
+		 <Text>存在柯萨奇病毒A16</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_COXSACK_DESCRIPTION</LocID>     
+		 <Text>柯萨奇病毒是属于小核糖核酸病毒科的几种相关肠道病毒，属于无包膜、线性、正义单链RNA病毒。它们通常会导致手足口病。目前没有治疗这种病毒的方法，或者等到感染结束。</Text>  
+		</GameDBLocalizedString>	
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_STAPHY</LocID>           
+		 <Text>存在化脓性链球菌</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>        
+		 <LocID>SYM_CRP_JM_STAPHY_DESCRIPTION</LocID>     
+		 <Text>化脓性链球菌，或A组链球菌（GAS），是一种兼性革兰氏阳性球菌，呈链状生长，在人类中引起多种感染，包括咽炎、扁桃体炎、猩红热、蜂窝织炎、丹毒、风湿热、链球菌感染后肾小球肾炎、坏死性筋膜炎、肌肉坏死和淋巴管炎。自然界中唯一已知的天然气储存库是人类宿主的皮肤和粘膜。GAS所产生的临床疾病已经得到了很好的描述，然而，其致病机制却很少被理解，这主要是因为每一种疾病都是人类宿主防御机制和链球菌特定毒力因子之间高度复杂的相互作用的结果。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_C_DIPHTHERIAE</LocID>                 
+		 <Text>发现白喉</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>     
+		 <LocID>SYM_CRP_JM_C_DIPHTHERIAE_DESCRIPTION</LocID>     
+		 <Text>病人身上发现了白喉。 </Text>  
+		</GameDBLocalizedString>
+		
+	 <!-- Section Stomach -->
+	  <!-- Digestive System related symptoms -->
+		
+		<GameDBLocalizedString>  
+		 <LocID>SYM_JM_ACID_REFLUX</LocID>                 
+		 <Text>胃酸倒流</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>   
+		 <LocID>SYM_JM_ACID_REFLUX_DESCRIPTION</LocID>     
+		 <Text>心痛是一种胸部或喉咙疼痛的灼热感。当胃酸回流到食管时，就会发生这种情况，食管是将食物从口腔输送到胃的管道。烧心的治疗方法是抗酸剂或质子泵抑制剂。</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERACIDITY</LocID>                 
+		 <Text>胃酸过多</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_JM_HYPERACIDITY_DESCRIPTION</LocID>     
+		 <Text>胃酸过多是指胃分泌过多的胃酸。</Text>  
+		</GameDBLocalizedString>
+		
+		<!-- Digestive System related main symptoms -->
+		
+		<GameDBLocalizedString>    
+		 <LocID>SYM_CRP_JM_GERD_SUSPECTED</LocID>                 
+		 <Text>怀疑胃食管反流病</Text>  
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		 <LocID>SYM_CRP_JM_GERD_SUSPECTED_DESCRIPTION</LocID>     
+		 <Text>医生已经评估了患者的所有症状，并得出患者患有胃食管反流病的结论。</Text>  
+		</GameDBLocalizedString>
+		
+     <!-- Section Lungs -->
+	  <!-- Lung related symptoms -->
+		
+		
+	<!-- Section Nervous System -->
+	  <!-- Nervous System related symptoms -->
+		
+	
+     <!-- Obeselete -->
+	 
+	    
+	    
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
